@@ -1,0 +1,2001 @@
+Date,Region,City,Category,Product,Customer Type,Payment Method,Delivery Status,Salesperson,Quantity,Units Sold,Unit Price,Revenue,Return Status,Return Amount
+12-04-2024,East,Bhubaneswar,Sports,Bat,Returning,Net Banking,Pending,Priya,2,2,1779,3558,No,0
+11-03-2025,East,Bhubaneswar,Electronics,Tablet,New,UPI,Delivered,Sneha,7,7,246.87,1728.09,No,0
+27-09-2024,East,Kolkata,Sports,Shoes,New,Card,Delivered,Amit,2,2,1089.08,2178.16,No,0
+16-04-2024,West,Pune,Electronics,Tablet,Returning,Cash,Delivered,Karan,2,2,1022.91,2045.82,No,0
+12-03-2024,North,Chandigarh,Fashion,Shirt,New,Net Banking,Pending,Sneha,6,6,4353.9,26123.4,No,0
+01-12-2025,North,Delhi,Sports,Bat,Returning,Net Banking,Pending,Amit,2,2,3342,6684,No,0
+21-01-2024,South,Bangalore,Electronics,Tablet,New,Cash,Shipped,Amit,2,2,1296.32,2592.64,No,0
+06-09-2025,South,Chennai,Sports,Ball,Returning,Card,Pending,Sneha,8,8,3865.74,30925.92,No,0
+01-05-2024,North,Chandigarh,Home,Lamp,New,Cash,Delivered,Rohit,9,9,3478.68,31308.12,No,0
+11-04-2025,North,Delhi,Fashion,Shoes,Returning,Card,Shipped,Priya,3,3,4710.29,14130.87,No,0
+02-08-2024,East,Kolkata,Electronics,Tablet,Returning,Card,Delivered,Karan,5,5,2928.21,14641.05,No,0
+26-11-2024,West,Pune,Groceries,Milk,New,Net Banking,Delivered,Karan,2,2,4997.13,9994.26,Yes,9811.76
+03-04-2025,South,Bangalore,Groceries,Rice,Returning,Card,Shipped,Karan,9,9,4967.35,44706.15,No,0
+28-03-2024,East,Bhubaneswar,Electronics,Tablet,New,Cash,Pending,Amit,5,5,2878.38,14391.9,No,0
+07-01-2025,North,Chandigarh,Groceries,Milk,Returning,UPI,Shipped,Amit,4,4,3287.51,13150.04,No,0
+09-04-2024,West,Pune,Sports,Bat,Returning,Cash,Delivered,Rohit,4,4,3371.21,13484.84,No,0
+25-10-2025,West,Pune,Electronics,Tablet,Returning,Cash,Pending,Sneha,2,2,4401.67,8803.34,No,0
+10-05-2024,East,Bhubaneswar,Electronics,Laptop,Returning,Net Banking,Pending,Priya,1,1,689.02,689.02,No,0
+23-10-2025,South,Chennai,Home,Lamp,Returning,UPI,Pending,Sneha,9,9,1709.07,15381.63,No,0
+04-11-2024,South,Bangalore,Fashion,Shoes,New,Net Banking,Delivered,Priya,7,7,2860.85,20025.95,No,0
+09-12-2024,West,Pune,Home,Lamp,Returning,Cash,Pending,Priya,9,9,3022.78,27205.02,No,0
+06-05-2025,East,Kolkata,Sports,Shoes,Returning,Net Banking,Shipped,Amit,3,3,1213.62,3640.86,Yes,2485.83
+17-02-2025,South,Chennai,Electronics,Phone,New,Cash,Shipped,Sneha,2,2,2371.12,4742.24,No,0
+20-01-2025,South,Bangalore,Fashion,Jeans,Returning,Net Banking,Shipped,Rohit,8,8,2643.5,21148,No,0
+10-07-2024,South,Chennai,Fashion,Jeans,Returning,Net Banking,Pending,Amit,5,5,4087.45,20437.25,No,0
+03-10-2024,South,Chennai,Electronics,Phone,New,Net Banking,Shipped,Priya,5,5,2054.23,10271.15,No,0
+09-06-2024,North,Chandigarh,Home,Lamp,New,Cash,Pending,Priya,4,4,3078.73,12314.92,No,0
+04-04-2025,South,Bangalore,Electronics,Phone,Returning,Net Banking,Pending,Karan,6,6,3759.69,22558.14,No,0
+09-11-2024,South,Chennai,Electronics,Laptop,New,Cash,Shipped,Sneha,5,5,1059.31,5296.55,Yes,3802.82
+22-01-2024,East,Kolkata,Fashion,Shoes,Returning,Net Banking,Pending,Sneha,9,9,3308,29772,No,0
+09-09-2024,North,Delhi,Home,Table,Returning,Card,Shipped,Sneha,4,4,4678.74,18714.96,No,0
+14-07-2025,East,Kolkata,Home,Chair,New,Card,Pending,Rohit,2,2,915.02,1830.04,No,0
+19-04-2025,North,Delhi,Sports,Bat,New,Net Banking,Pending,Rohit,5,5,1495.88,7479.4,No,0
+28-02-2024,West,Mumbai,Electronics,Phone,Returning,UPI,Delivered,Amit,3,3,2946.57,8839.71,No,0
+25-05-2025,East,Bhubaneswar,Groceries,Rice,Returning,Cash,Delivered,Karan,2,2,2059.54,4119.08,No,0
+12-11-2025,North,Chandigarh,Sports,Shoes,Returning,Net Banking,Delivered,Rohit,9,9,2660.16,23941.44,No,0
+20-04-2025,East,Kolkata,Electronics,Tablet,Returning,Card,Pending,Rohit,7,7,2673.3,18713.1,No,0
+30-11-2025,North,Delhi,Groceries,Rice,New,UPI,Delivered,Karan,8,8,3987.7,31901.6,No,0
+08-07-2024,West,Mumbai,Fashion,Jeans,New,Net Banking,Pending,Amit,8,8,4818.34,38546.72,No,0
+17-11-2025,North,Chandigarh,Fashion,Shirt,Returning,Card,Pending,Sneha,7,7,4097.17,28680.19,No,0
+16-07-2025,South,Chennai,Home,Table,New,Card,Delivered,Rohit,7,7,3226.13,22582.91,No,0
+20-07-2025,South,Bangalore,Electronics,Phone,Returning,Net Banking,Delivered,Rohit,9,9,3989.34,35904.06,No,0
+31-08-2024,North,Delhi,Electronics,Tablet,New,UPI,Pending,Karan,8,8,2114.04,16912.32,No,0
+19-05-2025,South,Bangalore,Fashion,Shirt,Returning,Cash,Shipped,Karan,8,8,3872.73,30981.84,No,0
+10-05-2024,South,Bangalore,Groceries,Rice,New,Net Banking,Shipped,Sneha,5,5,1580.1,7900.5,No,0
+29-04-2025,East,Kolkata,Fashion,Jeans,New,Net Banking,Delivered,Karan,4,4,2176.32,8705.28,No,0
+08-10-2025,West,Pune,Electronics,Laptop,Returning,UPI,Delivered,Priya,2,2,3856.62,7713.24,No,0
+21-01-2024,West,Pune,Groceries,Rice,New,UPI,Shipped,Sneha,7,7,2974.38,20820.66,No,0
+15-06-2024,South,Bangalore,Electronics,Phone,New,Cash,Shipped,Amit,3,3,4359.37,13078.11,No,0
+30-09-2024,East,Kolkata,Electronics,Phone,Returning,Cash,Shipped,Rohit,5,5,569,2845,Yes,2030.13
+22-01-2025,East,Bhubaneswar,Fashion,Jeans,Returning,Net Banking,Delivered,Amit,7,7,2778.82,19451.74,No,0
+23-08-2025,North,Chandigarh,Home,Chair,New,UPI,Shipped,Karan,9,9,2534.16,22807.44,No,0
+11-11-2024,East,Bhubaneswar,Sports,Ball,Returning,Card,Delivered,Rohit,3,3,3025.53,9076.59,No,0
+14-01-2024,East,Kolkata,Groceries,Rice,Returning,Cash,Shipped,Amit,6,6,2284.38,13706.28,No,0
+29-08-2024,West,Pune,Home,Table,Returning,Cash,Shipped,Amit,7,7,1771.34,12399.38,No,0
+11-12-2024,North,Delhi,Groceries,Milk,Returning,UPI,Delivered,Priya,4,4,3649.26,14597.04,No,0
+18-07-2025,North,Delhi,Home,Table,New,Card,Delivered,Rohit,7,7,3885.85,27200.95,No,0
+05-12-2024,West,Mumbai,Home,Table,Returning,Net Banking,Shipped,Priya,5,5,4481.54,22407.7,No,0
+01-04-2024,West,Mumbai,Sports,Shoes,New,UPI,Pending,Amit,8,8,1898.08,15184.64,No,0
+01-01-2025,West,Pune,Home,Table,Returning,UPI,Shipped,Rohit,7,7,440.18,3081.26,No,0
+30-03-2025,South,Bangalore,Home,Table,New,Net Banking,Delivered,Priya,2,2,3381.05,6762.1,Yes,4815.53
+03-03-2025,East,Kolkata,Fashion,Shirt,Returning,UPI,Delivered,Amit,8,8,4412.39,35299.12,No,0
+23-05-2025,West,Pune,Groceries,Rice,New,Card,Pending,Karan,6,6,1231.06,7386.36,No,0
+04-02-2024,North,Chandigarh,Groceries,Oil,Returning,UPI,Shipped,Sneha,6,6,3380.49,20282.94,No,0
+24-07-2024,North,Chandigarh,Electronics,Tablet,Returning,Cash,Delivered,Rohit,2,2,1878.43,3756.86,No,0
+21-03-2024,East,Kolkata,Groceries,Oil,New,Cash,Pending,Amit,7,7,2379.51,16656.57,Yes,10824.06
+15-07-2025,East,Kolkata,Electronics,Phone,New,Cash,Shipped,Rohit,4,4,4812.16,19248.64,No,0
+22-01-2025,West,Pune,Home,Table,New,Net Banking,Shipped,Sneha,9,9,935.34,8418.06,No,0
+02-01-2024,South,Chennai,Home,Table,Returning,Net Banking,Shipped,Amit,9,9,4126.85,37141.65,Yes,16367.67
+24-01-2025,West,Mumbai,Groceries,Rice,New,Net Banking,Pending,Karan,8,8,3997.7,31981.6,No,0
+19-07-2025,West,Pune,Sports,Ball,Returning,Card,Delivered,Karan,7,7,2056.65,14396.55,No,0
+15-04-2024,North,Delhi,Sports,Bat,New,Cash,Pending,Karan,5,5,3712.18,18560.9,No,0
+21-04-2025,South,Chennai,Home,Lamp,New,UPI,Delivered,Karan,1,1,4225.96,4225.96,No,0
+03-12-2025,South,Bangalore,Sports,Bat,New,Card,Shipped,Sneha,6,6,1359.53,8157.18,No,0
+05-02-2025,West,Pune,Electronics,Phone,New,Cash,Shipped,Rohit,1,1,3081.58,3081.58,No,0
+30-12-2025,West,Pune,Fashion,Shoes,Returning,Cash,Delivered,Sneha,4,4,3572.85,14291.4,Yes,6323.98
+09-07-2025,East,Bhubaneswar,Electronics,Tablet,New,UPI,Pending,Priya,2,2,1774.21,3548.42,No,0
+10-06-2024,East,Bhubaneswar,Fashion,Jeans,New,Net Banking,Delivered,Rohit,2,2,4691.09,9382.18,No,0
+20-07-2024,North,Chandigarh,Fashion,Shoes,Returning,Cash,Delivered,Priya,3,3,2045.21,6135.63,No,0
+26-09-2024,South,Bangalore,Home,Chair,New,UPI,Shipped,Priya,4,4,4379.35,17517.4,No,0
+27-09-2024,South,Chennai,Sports,Shoes,Returning,Card,Shipped,Karan,6,6,2535.12,15210.72,No,0
+31-03-2025,South,Chennai,Home,Table,New,Card,Pending,Rohit,5,5,2016.11,10080.55,No,0
+06-04-2025,South,Bangalore,Electronics,Phone,New,Cash,Pending,Rohit,1,1,670.2,670.2,No,0
+27-12-2025,South,Bangalore,Groceries,Oil,New,Card,Shipped,Amit,3,3,3404.09,10212.27,No,0
+08-09-2024,South,Chennai,Electronics,Tablet,Returning,Card,Shipped,Rohit,6,6,792.26,4753.56,No,0
+02-12-2025,East,Bhubaneswar,Fashion,Shoes,New,Card,Pending,Rohit,9,9,1680.39,15123.51,Yes,4885.39
+22-10-2024,North,Chandigarh,Groceries,Oil,New,Net Banking,Delivered,Sneha,3,3,1795.89,5387.67,No,0
+25-12-2025,East,Kolkata,Groceries,Rice,Returning,Card,Pending,Amit,9,9,2918.3,26264.7,No,0
+20-12-2025,West,Mumbai,Electronics,Laptop,Returning,Card,Shipped,Karan,1,1,4621.51,4621.51,No,0
+03-12-2024,South,Bangalore,Home,Lamp,New,Cash,Pending,Sneha,6,6,4163.73,24982.38,No,0
+22-02-2024,West,Pune,Fashion,Jeans,Returning,UPI,Delivered,Priya,3,3,2053.45,6160.35,No,0
+04-08-2024,North,Chandigarh,Home,Lamp,New,UPI,Shipped,Karan,5,5,696.63,3483.15,No,0
+06-07-2024,West,Mumbai,Home,Chair,Returning,UPI,Delivered,Priya,4,4,762.31,3049.24,No,0
+14-01-2025,South,Bangalore,Groceries,Rice,New,Net Banking,Shipped,Amit,4,4,2253.61,9014.44,No,0
+07-05-2025,East,Kolkata,Sports,Bat,Returning,Card,Shipped,Sneha,6,6,101.63,609.78,Yes,415.9
+10-02-2024,North,Delhi,Fashion,Shirt,New,Card,Shipped,Rohit,7,7,844.92,5914.44,Yes,4877.1
+05-06-2024,West,Mumbai,Home,Table,Returning,Card,Pending,Rohit,9,9,385,3465,No,0
+15-01-2024,East,Bhubaneswar,Fashion,Shoes,Returning,UPI,Shipped,Rohit,8,8,1557.04,12456.32,No,0
+05-03-2024,East,Bhubaneswar,Sports,Ball,Returning,Cash,Shipped,Rohit,9,9,797.02,7173.18,No,0
+04-06-2025,West,Pune,Home,Lamp,New,Card,Shipped,Sneha,3,3,971.06,2913.18,No,0
+09-12-2024,South,Chennai,Home,Table,New,UPI,Shipped,Priya,1,1,2596.17,2596.17,No,0
+08-05-2024,East,Bhubaneswar,Sports,Shoes,New,UPI,Shipped,Priya,1,1,1239.96,1239.96,No,0
+09-10-2025,South,Bangalore,Fashion,Shoes,Returning,UPI,Shipped,Sneha,4,4,3313.05,13252.2,No,0
+16-04-2025,East,Kolkata,Home,Chair,Returning,Cash,Delivered,Sneha,2,2,740.48,1480.96,No,0
+03-03-2024,North,Chandigarh,Groceries,Milk,Returning,Card,Delivered,Rohit,3,3,1902.02,5706.06,No,0
+18-05-2024,East,Kolkata,Sports,Ball,Returning,Card,Shipped,Amit,7,7,3694.71,25862.97,No,0
+13-05-2025,East,Bhubaneswar,Electronics,Laptop,Returning,Net Banking,Delivered,Karan,7,7,2139.15,14974.05,No,0
+15-08-2025,West,Pune,Fashion,Shoes,New,Cash,Shipped,Rohit,6,6,3972.65,23835.9,No,0
+26-01-2025,South,Bangalore,Fashion,Jeans,Returning,Card,Shipped,Priya,7,7,771.84,5402.88,No,0
+05-11-2025,South,Chennai,Electronics,Phone,Returning,Cash,Shipped,Amit,1,1,1685.15,1685.15,No,0
+22-02-2025,South,Chennai,Groceries,Milk,Returning,UPI,Delivered,Amit,5,5,1074.4,5372,Yes,1257.62
+15-10-2024,West,Mumbai,Groceries,Milk,Returning,UPI,Shipped,Sneha,1,1,637.71,637.71,No,0
+13-01-2025,East,Bhubaneswar,Fashion,Shoes,Returning,UPI,Shipped,Sneha,5,5,4237.35,21186.75,No,0
+04-05-2025,East,Kolkata,Groceries,Oil,Returning,Cash,Shipped,Priya,4,4,4336.84,17347.36,No,0
+18-08-2024,West,Pune,Fashion,Shoes,Returning,Cash,Pending,Amit,2,2,2432.49,4864.98,No,0
+10-02-2024,North,Delhi,Sports,Shoes,New,UPI,Shipped,Amit,4,4,4311.87,17247.48,No,0
+28-01-2024,South,Chennai,Home,Table,Returning,Net Banking,Shipped,Amit,1,1,4781.14,4781.14,No,0
+14-05-2024,West,Mumbai,Home,Chair,New,Card,Pending,Amit,9,9,4719.87,42478.83,No,0
+19-07-2024,East,Bhubaneswar,Fashion,Shoes,Returning,Cash,Shipped,Rohit,1,1,4220.27,4220.27,Yes,3888.6
+02-02-2024,North,Delhi,Fashion,Jeans,New,UPI,Shipped,Amit,5,5,4143.15,20715.75,No,0
+17-02-2024,South,Bangalore,Home,Table,Returning,Net Banking,Shipped,Amit,8,8,4486.08,35888.64,No,0
+17-05-2025,North,Delhi,Fashion,Shoes,Returning,Card,Delivered,Karan,1,1,426.59,426.59,No,0
+10-02-2025,West,Mumbai,Fashion,Jeans,New,Cash,Shipped,Karan,3,3,617.9,1853.7,No,0
+27-07-2025,East,Kolkata,Fashion,Jeans,Returning,Card,Shipped,Sneha,7,7,3433.12,24031.84,Yes,6436.53
+28-12-2025,North,Chandigarh,Fashion,Shirt,New,Net Banking,Delivered,Sneha,1,1,453.21,453.21,Yes,95.03
+08-04-2024,East,Bhubaneswar,Electronics,Laptop,New,Card,Delivered,Rohit,5,5,2592.04,12960.2,No,0
+14-11-2025,East,Bhubaneswar,Fashion,Jeans,Returning,Card,Shipped,Rohit,4,4,1813.55,7254.2,No,0
+26-12-2025,North,Chandigarh,Fashion,Jeans,Returning,Net Banking,Shipped,Sneha,7,7,3940.83,27585.81,No,0
+30-06-2025,South,Chennai,Fashion,Jeans,New,Cash,Shipped,Priya,5,5,2793.12,13965.6,No,0
+04-09-2025,South,Chennai,Groceries,Milk,Returning,Cash,Delivered,Sneha,8,8,1398.73,11189.84,Yes,2973.56
+06-04-2025,East,Kolkata,Electronics,Phone,New,Net Banking,Shipped,Karan,1,1,1547.68,1547.68,No,0
+04-10-2025,West,Pune,Fashion,Jeans,New,Cash,Shipped,Sneha,9,9,4882.36,43941.24,No,0
+05-01-2024,North,Chandigarh,Home,Lamp,New,Net Banking,Shipped,Karan,3,3,694.79,2084.37,No,0
+05-08-2024,West,Mumbai,Electronics,Phone,Returning,Cash,Pending,Amit,9,9,3255.13,29296.17,No,0
+17-05-2025,North,Delhi,Groceries,Milk,New,Net Banking,Delivered,Karan,2,2,1678.86,3357.72,No,0
+01-02-2025,East,Kolkata,Groceries,Rice,New,Cash,Shipped,Sneha,8,8,658.39,5267.12,No,0
+27-01-2025,East,Bhubaneswar,Fashion,Shoes,Returning,Net Banking,Shipped,Rohit,2,2,727.67,1455.34,No,0
+25-07-2024,South,Chennai,Home,Chair,New,Card,Delivered,Sneha,8,8,3032.8,24262.4,No,0
+15-01-2024,East,Bhubaneswar,Electronics,Laptop,Returning,Net Banking,Delivered,Amit,8,8,2217.18,17737.44,No,0
+07-07-2025,West,Mumbai,Groceries,Milk,Returning,Card,Pending,Amit,9,9,902.05,8118.45,No,0
+05-04-2025,South,Chennai,Fashion,Jeans,New,Card,Shipped,Karan,4,4,695.36,2781.44,No,0
+21-11-2025,West,Mumbai,Home,Chair,Returning,UPI,Pending,Karan,1,1,3264.47,3264.47,No,0
+28-07-2025,West,Pune,Home,Table,Returning,Net Banking,Delivered,Amit,7,7,4408.42,30858.94,No,0
+28-08-2024,South,Bangalore,Home,Chair,Returning,Card,Delivered,Rohit,2,2,3216.75,6433.5,No,0
+17-07-2025,West,Mumbai,Sports,Shoes,Returning,UPI,Shipped,Karan,8,8,3766.14,30129.12,No,0
+05-04-2024,North,Chandigarh,Groceries,Oil,New,Cash,Delivered,Karan,7,7,3315.19,23206.33,No,0
+29-04-2025,South,Bangalore,Sports,Ball,New,UPI,Pending,Rohit,6,6,3790.62,22743.72,No,0
+10-02-2025,South,Bangalore,Sports,Bat,New,UPI,Delivered,Amit,2,2,628.92,1257.84,No,0
+18-08-2024,West,Mumbai,Sports,Bat,Returning,Net Banking,Pending,Karan,4,4,4107.15,16428.6,No,0
+16-10-2025,West,Mumbai,Sports,Ball,New,UPI,Pending,Amit,3,3,838.31,2514.93,No,0
+19-06-2024,North,Chandigarh,Electronics,Tablet,Returning,Cash,Delivered,Priya,6,6,2756.96,16541.76,No,0
+24-06-2025,East,Kolkata,Home,Lamp,New,Card,Pending,Sneha,8,8,3098.51,24788.08,No,0
+05-02-2024,West,Pune,Fashion,Shoes,Returning,Cash,Shipped,Sneha,7,7,3475.54,24328.78,No,0
+08-06-2025,North,Delhi,Sports,Bat,New,Card,Pending,Rohit,9,9,3829.5,34465.5,No,0
+08-06-2024,South,Chennai,Groceries,Milk,New,Card,Shipped,Priya,8,8,1308.73,10469.84,No,0
+29-11-2025,East,Bhubaneswar,Groceries,Milk,Returning,Net Banking,Shipped,Rohit,1,1,1461.72,1461.72,No,0
+30-08-2024,East,Bhubaneswar,Sports,Bat,Returning,Cash,Pending,Amit,2,2,1099.77,2199.54,No,0
+26-03-2024,North,Chandigarh,Groceries,Rice,Returning,Card,Shipped,Karan,7,7,3113.39,21793.73,No,0
+31-07-2025,East,Bhubaneswar,Electronics,Phone,Returning,Net Banking,Pending,Sneha,9,9,2815.71,25341.39,Yes,20495.93
+12-11-2025,South,Chennai,Groceries,Rice,Returning,Card,Shipped,Sneha,6,6,4180.13,25080.78,Yes,20055.5
+10-07-2025,North,Chandigarh,Home,Lamp,Returning,Cash,Shipped,Karan,5,5,1902.91,9514.55,No,0
+27-07-2025,North,Chandigarh,Groceries,Oil,Returning,Cash,Delivered,Karan,3,3,4225.65,12676.95,No,0
+07-10-2025,West,Pune,Home,Lamp,Returning,UPI,Shipped,Rohit,3,3,4982.04,14946.12,No,0
+28-01-2024,North,Delhi,Fashion,Shirt,Returning,Card,Shipped,Karan,4,4,3638.15,14552.6,No,0
+11-09-2025,South,Bangalore,Fashion,Jeans,Returning,Cash,Shipped,Amit,3,3,775.33,2325.99,No,0
+09-07-2025,East,Kolkata,Electronics,Phone,Returning,Cash,Pending,Priya,6,6,3508.53,21051.18,Yes,14644.71
+05-12-2024,East,Bhubaneswar,Home,Table,Returning,UPI,Shipped,Amit,4,4,988.46,3953.84,No,0
+26-11-2024,East,Kolkata,Electronics,Tablet,Returning,Net Banking,Delivered,Sneha,1,1,2982.19,2982.19,No,0
+01-10-2025,North,Chandigarh,Fashion,Jeans,Returning,UPI,Delivered,Priya,3,3,417.78,1253.34,No,0
+20-05-2025,North,Delhi,Sports,Shoes,New,Net Banking,Shipped,Priya,7,7,3544.42,24810.94,Yes,14620.54
+13-12-2024,West,Pune,Home,Chair,Returning,Cash,Shipped,Sneha,2,2,3050.51,6101.02,Yes,2792.35
+17-04-2025,East,Kolkata,Home,Lamp,New,Card,Delivered,Priya,3,3,386.9,1160.7,No,0
+18-08-2024,West,Mumbai,Groceries,Rice,Returning,Card,Delivered,Priya,6,6,1128.23,6769.38,No,0
+08-07-2024,West,Pune,Sports,Shoes,New,UPI,Pending,Priya,3,3,2256.98,6770.94,No,0
+12-08-2024,North,Chandigarh,Sports,Bat,New,Net Banking,Pending,Rohit,7,7,3703.98,25927.86,No,0
+19-01-2025,West,Pune,Fashion,Jeans,Returning,UPI,Pending,Sneha,4,4,406.46,1625.84,No,0
+11-01-2025,West,Pune,Groceries,Rice,New,UPI,Delivered,Rohit,9,9,4672.26,42050.34,No,0
+09-10-2024,North,Chandigarh,Sports,Shoes,New,Card,Delivered,Sneha,1,1,3224.01,3224.01,No,0
+24-09-2025,East,Bhubaneswar,Sports,Shoes,Returning,UPI,Shipped,Priya,6,6,4956.52,29739.12,No,0
+19-09-2025,South,Chennai,Groceries,Milk,Returning,Net Banking,Shipped,Karan,7,7,2902.17,20315.19,No,0
+15-09-2024,North,Chandigarh,Home,Chair,Returning,UPI,Pending,Karan,9,9,2871.19,25840.71,No,0
+24-12-2024,West,Pune,Sports,Shoes,Returning,Net Banking,Shipped,Rohit,3,3,228.36,685.08,Yes,592.84
+10-12-2025,West,Mumbai,Electronics,Laptop,New,Card,Shipped,Rohit,6,6,2638.59,15831.54,No,0
+31-03-2025,West,Pune,Home,Lamp,Returning,Cash,Shipped,Amit,5,5,375.07,1875.35,No,0
+14-02-2025,East,Kolkata,Home,Lamp,Returning,UPI,Delivered,Sneha,3,3,1946.88,5840.64,No,0
+10-10-2025,South,Chennai,Groceries,Oil,Returning,Net Banking,Delivered,Rohit,4,4,4032.95,16131.8,No,0
+13-11-2024,West,Mumbai,Electronics,Laptop,New,UPI,Pending,Sneha,5,5,3559.49,17797.45,No,0
+07-11-2025,North,Delhi,Electronics,Laptop,New,Cash,Pending,Karan,7,7,4529.18,31704.26,No,0
+12-08-2024,South,Bangalore,Fashion,Shirt,New,Net Banking,Pending,Rohit,8,8,3674.59,29396.72,No,0
+21-08-2024,North,Chandigarh,Home,Chair,Returning,Card,Delivered,Amit,6,6,1203.6,7221.6,No,0
+14-11-2025,West,Pune,Groceries,Rice,New,UPI,Delivered,Priya,9,9,3781.74,34035.66,No,0
+25-10-2025,North,Delhi,Home,Lamp,New,UPI,Shipped,Amit,4,4,165.67,662.68,No,0
+08-01-2025,West,Mumbai,Home,Table,Returning,Cash,Shipped,Priya,6,6,1382.36,8294.16,No,0
+02-11-2025,East,Kolkata,Sports,Shoes,Returning,Cash,Shipped,Amit,8,8,4876.69,39013.52,No,0
+30-08-2025,East,Bhubaneswar,Home,Chair,New,UPI,Pending,Karan,9,9,3905.88,35152.92,Yes,20742.22
+16-04-2025,South,Chennai,Sports,Ball,Returning,Card,Shipped,Priya,8,8,327.85,2622.8,No,0
+20-08-2024,West,Pune,Home,Lamp,Returning,Net Banking,Pending,Rohit,9,9,1795.01,16155.09,No,0
+22-11-2025,North,Delhi,Home,Table,Returning,Net Banking,Pending,Rohit,7,7,523.48,3664.36,No,0
+22-04-2024,North,Chandigarh,Fashion,Jeans,Returning,UPI,Pending,Rohit,8,8,2786.77,22294.16,No,0
+11-05-2025,East,Bhubaneswar,Sports,Ball,Returning,UPI,Pending,Priya,7,7,2027.89,14195.23,No,0
+17-03-2025,South,Chennai,Electronics,Laptop,Returning,Card,Shipped,Priya,8,8,1374.77,10998.16,No,0
+17-07-2025,South,Bangalore,Sports,Ball,New,Cash,Pending,Karan,5,5,1357,6785,No,0
+24-09-2024,West,Mumbai,Electronics,Phone,Returning,Card,Pending,Sneha,5,5,2870.12,14350.6,No,0
+24-05-2025,North,Delhi,Sports,Ball,New,Cash,Pending,Amit,9,9,4740.48,42664.32,No,0
+20-01-2025,East,Bhubaneswar,Home,Chair,Returning,Card,Delivered,Rohit,9,9,207.97,1871.73,No,0
+21-01-2025,North,Delhi,Fashion,Shoes,Returning,Net Banking,Delivered,Priya,9,9,4268.02,38412.18,No,0
+22-04-2024,South,Chennai,Home,Table,Returning,Cash,Pending,Sneha,1,1,4904.53,4904.53,No,0
+04-09-2025,East,Bhubaneswar,Groceries,Rice,Returning,Cash,Delivered,Rohit,9,9,3979.33,35813.97,No,0
+16-09-2025,West,Pune,Fashion,Jeans,Returning,Net Banking,Shipped,Amit,2,2,500.45,1000.9,No,0
+21-03-2024,North,Delhi,Home,Lamp,New,Net Banking,Pending,Priya,1,1,2200.29,2200.29,No,0
+29-11-2025,South,Bangalore,Home,Table,Returning,UPI,Shipped,Amit,6,6,4264.88,25589.28,No,0
+22-04-2024,South,Bangalore,Home,Lamp,Returning,Card,Pending,Rohit,2,2,4323.74,8647.48,No,0
+02-01-2024,North,Chandigarh,Home,Table,New,Cash,Delivered,Amit,7,7,2772.62,19408.34,Yes,11839.13
+03-10-2025,East,Bhubaneswar,Fashion,Shirt,New,Net Banking,Shipped,Karan,3,3,354.59,1063.77,No,0
+07-08-2024,East,Kolkata,Groceries,Rice,Returning,Card,Shipped,Priya,7,7,4373.46,30614.22,No,0
+19-07-2025,North,Chandigarh,Electronics,Laptop,New,UPI,Pending,Rohit,4,4,3808.08,15232.32,No,0
+12-08-2024,North,Delhi,Sports,Ball,New,Net Banking,Delivered,Amit,8,8,718.64,5749.12,No,0
+19-01-2025,West,Pune,Sports,Shoes,New,Card,Shipped,Rohit,4,4,4365.83,17463.32,No,0
+06-02-2025,North,Delhi,Fashion,Jeans,Returning,UPI,Delivered,Rohit,9,9,2844.89,25604.01,No,0
+29-09-2025,West,Pune,Groceries,Oil,New,UPI,Pending,Rohit,1,1,233.12,233.12,Yes,133.15
+09-05-2024,West,Pune,Sports,Shoes,New,Card,Delivered,Amit,8,8,1483.91,11871.28,No,0
+22-02-2024,West,Mumbai,Groceries,Oil,New,UPI,Shipped,Priya,3,3,616.82,1850.46,No,0
+14-11-2025,South,Chennai,Sports,Shoes,New,Net Banking,Delivered,Priya,9,9,2047.17,18424.53,No,0
+30-12-2025,South,Chennai,Fashion,Shirt,New,Cash,Pending,Rohit,5,5,4825.94,24129.7,No,0
+02-11-2025,North,Delhi,Home,Chair,Returning,Card,Delivered,Priya,8,8,1506.98,12055.84,No,0
+10-12-2025,West,Mumbai,Home,Table,New,Card,Shipped,Karan,4,4,1454.56,5818.24,No,0
+19-02-2025,East,Kolkata,Fashion,Shoes,New,Card,Shipped,Sneha,9,9,2040.26,18362.34,No,0
+03-09-2024,West,Mumbai,Home,Table,New,Card,Pending,Amit,8,8,2648.93,21191.44,No,0
+14-03-2025,North,Chandigarh,Sports,Ball,New,UPI,Shipped,Amit,6,6,3986.98,23921.88,No,0
+21-07-2024,East,Kolkata,Fashion,Shoes,Returning,Card,Pending,Priya,3,3,1879.19,5637.57,No,0
+02-07-2024,South,Chennai,Groceries,Oil,New,Cash,Shipped,Sneha,8,8,2584.55,20676.4,No,0
+02-05-2024,South,Bangalore,Home,Chair,Returning,Cash,Delivered,Sneha,7,7,1002.7,7018.9,No,0
+04-02-2025,East,Kolkata,Groceries,Rice,New,Cash,Delivered,Sneha,5,5,2257.58,11287.9,No,0
+20-10-2024,North,Delhi,Home,Chair,New,Card,Shipped,Karan,6,6,4298.68,25792.08,No,0
+06-10-2024,South,Bangalore,Groceries,Oil,New,Card,Pending,Sneha,7,7,4838.92,33872.44,No,0
+01-09-2025,East,Bhubaneswar,Sports,Ball,New,UPI,Delivered,Sneha,7,7,699.93,4899.51,No,0
+16-07-2024,West,Mumbai,Home,Lamp,Returning,Net Banking,Pending,Karan,2,2,913.18,1826.36,No,0
+25-05-2025,North,Chandigarh,Fashion,Shoes,New,Cash,Pending,Karan,7,7,736.15,5153.05,No,0
+23-05-2024,North,Chandigarh,Sports,Bat,New,UPI,Delivered,Karan,3,3,2684.26,8052.78,No,0
+31-08-2025,North,Chandigarh,Fashion,Jeans,New,Cash,Delivered,Priya,2,2,1127.79,2255.58,No,0
+19-07-2024,West,Mumbai,Sports,Bat,New,UPI,Delivered,Sneha,3,3,1018.32,3054.96,No,0
+03-05-2024,East,Bhubaneswar,Groceries,Oil,Returning,Cash,Shipped,Sneha,4,4,4599.22,18396.88,No,0
+05-07-2024,North,Delhi,Groceries,Rice,New,Card,Pending,Karan,9,9,2408.72,21678.48,No,0
+21-11-2024,East,Bhubaneswar,Home,Chair,New,Net Banking,Shipped,Karan,9,9,1853.21,16678.89,No,0
+08-04-2025,East,Bhubaneswar,Electronics,Tablet,New,Cash,Delivered,Sneha,3,3,4411.13,13233.39,No,0
+14-12-2024,North,Chandigarh,Groceries,Oil,Returning,Cash,Delivered,Rohit,5,5,653.42,3267.1,No,0
+21-10-2025,South,Chennai,Sports,Ball,New,UPI,Pending,Rohit,1,1,1275.38,1275.38,No,0
+06-02-2025,West,Pune,Groceries,Rice,New,Cash,Delivered,Priya,9,9,3724.39,33519.51,No,0
+11-12-2024,East,Bhubaneswar,Groceries,Milk,New,UPI,Pending,Amit,9,9,2233.98,20105.82,No,0
+25-05-2025,West,Pune,Electronics,Tablet,Returning,UPI,Delivered,Sneha,1,1,4223.09,4223.09,No,0
+26-05-2024,West,Mumbai,Electronics,Laptop,New,Cash,Pending,Amit,3,3,252.47,757.41,No,0
+27-05-2024,West,Pune,Groceries,Rice,Returning,Cash,Pending,Karan,2,2,1693.01,3386.02,No,0
+11-12-2025,East,Kolkata,Fashion,Shoes,Returning,Net Banking,Shipped,Priya,7,7,918.95,6432.65,No,0
+03-05-2025,South,Bangalore,Home,Table,Returning,Cash,Shipped,Sneha,1,1,4201.5,4201.5,No,0
+01-10-2025,West,Mumbai,Fashion,Jeans,New,Net Banking,Shipped,Priya,3,3,3501.34,10504.02,No,0
+04-07-2025,East,Kolkata,Groceries,Rice,Returning,Cash,Shipped,Priya,6,6,1865.85,11195.1,Yes,9073.9
+03-12-2024,West,Pune,Groceries,Rice,New,Net Banking,Pending,Rohit,5,5,3300.5,16502.5,No,0
+02-10-2025,East,Kolkata,Groceries,Oil,Returning,Cash,Pending,Karan,1,1,3853.72,3853.72,No,0
+17-04-2025,South,Chennai,Fashion,Jeans,New,Net Banking,Delivered,Amit,2,2,3288.77,6577.54,No,0
+30-05-2024,North,Delhi,Sports,Bat,Returning,Net Banking,Delivered,Karan,7,7,928.5,6499.5,No,0
+18-02-2025,West,Pune,Home,Chair,New,UPI,Pending,Amit,6,6,1210.98,7265.88,No,0
+24-10-2024,West,Mumbai,Sports,Ball,Returning,Card,Shipped,Sneha,3,3,2122.53,6367.59,No,0
+02-09-2025,West,Mumbai,Home,Table,Returning,Cash,Delivered,Amit,4,4,188.2,752.8,No,0
+19-09-2024,East,Bhubaneswar,Fashion,Jeans,Returning,Card,Delivered,Rohit,6,6,1472.18,8833.08,No,0
+23-05-2024,North,Delhi,Electronics,Laptop,New,UPI,Delivered,Karan,3,3,4866.6,14599.8,No,0
+11-12-2024,West,Pune,Groceries,Rice,Returning,UPI,Pending,Karan,3,3,4044.04,12132.12,Yes,11771.17
+15-09-2025,West,Mumbai,Home,Lamp,New,Card,Shipped,Sneha,9,9,1593.28,14339.52,No,0
+25-07-2025,East,Kolkata,Groceries,Oil,Returning,UPI,Shipped,Amit,3,3,4376.49,13129.47,No,0
+02-01-2024,East,Kolkata,Electronics,Tablet,Returning,Card,Pending,Sneha,6,6,689.21,4135.26,Yes,1698.16
+30-10-2024,East,Bhubaneswar,Fashion,Shoes,New,Cash,Pending,Karan,9,9,160.78,1447.02,No,0
+10-09-2024,East,Bhubaneswar,Fashion,Jeans,Returning,Card,Pending,Karan,9,9,4140.22,37261.98,Yes,14199.84
+13-10-2025,South,Bangalore,Sports,Ball,Returning,Cash,Pending,Sneha,9,9,335.9,3023.1,No,0
+28-03-2025,North,Delhi,Groceries,Milk,New,Net Banking,Delivered,Sneha,8,8,4398.58,35188.64,No,0
+06-02-2024,West,Pune,Sports,Ball,Returning,Net Banking,Pending,Karan,6,6,4472.28,26833.68,No,0
+08-06-2024,West,Mumbai,Groceries,Milk,Returning,Cash,Shipped,Sneha,7,7,2703.45,18924.15,No,0
+09-01-2024,North,Chandigarh,Home,Lamp,Returning,UPI,Shipped,Rohit,3,3,1412.11,4236.33,No,0
+20-08-2024,East,Bhubaneswar,Groceries,Milk,Returning,Cash,Shipped,Sneha,5,5,2655.08,13275.4,Yes,11484.53
+08-04-2024,South,Bangalore,Home,Lamp,Returning,Net Banking,Shipped,Amit,3,3,2493.04,7479.12,No,0
+20-10-2025,North,Delhi,Fashion,Jeans,New,Cash,Delivered,Amit,9,9,4557.17,41014.53,No,0
+26-07-2024,South,Bangalore,Home,Lamp,Returning,Card,Shipped,Amit,1,1,416.97,416.97,No,0
+10-05-2024,North,Delhi,Electronics,Tablet,Returning,UPI,Delivered,Amit,8,8,2635.49,21083.92,No,0
+07-02-2025,South,Bangalore,Fashion,Jeans,New,Cash,Shipped,Priya,6,6,2229.52,13377.12,No,0
+31-05-2024,East,Kolkata,Electronics,Tablet,Returning,UPI,Shipped,Rohit,9,9,1770,15930,No,0
+23-02-2024,East,Bhubaneswar,Groceries,Rice,New,Card,Delivered,Amit,6,6,3074.74,18448.44,No,0
+29-04-2024,North,Chandigarh,Home,Lamp,Returning,Cash,Shipped,Amit,4,4,3965.13,15860.52,No,0
+03-11-2025,East,Kolkata,Home,Table,Returning,Card,Delivered,Priya,7,7,2610.58,18274.06,No,0
+19-09-2025,South,Chennai,Home,Chair,New,Card,Pending,Sneha,6,6,3955.08,23730.48,No,0
+09-08-2025,West,Mumbai,Groceries,Milk,Returning,Cash,Delivered,Priya,2,2,1430.69,2861.38,No,0
+16-09-2025,South,Chennai,Electronics,Laptop,New,Net Banking,Delivered,Priya,9,9,2580.7,23226.3,No,0
+23-02-2025,West,Pune,Electronics,Tablet,Returning,Card,Delivered,Amit,6,6,4468.25,26809.5,Yes,6214.78
+25-02-2025,South,Chennai,Fashion,Shoes,New,Card,Pending,Sneha,6,6,323.68,1942.08,No,0
+13-04-2024,South,Chennai,Groceries,Rice,New,Cash,Delivered,Priya,1,1,2307.28,2307.28,No,0
+10-09-2024,East,Kolkata,Groceries,Milk,New,Net Banking,Pending,Sneha,3,3,1060.88,3182.64,No,0
+14-08-2024,North,Chandigarh,Groceries,Rice,Returning,UPI,Delivered,Sneha,4,4,1114.26,4457.04,No,0
+21-04-2024,North,Chandigarh,Groceries,Milk,Returning,Cash,Shipped,Priya,6,6,4285.27,25711.62,Yes,22283.07
+24-05-2025,West,Pune,Fashion,Shoes,New,UPI,Delivered,Amit,4,4,629.33,2517.32,No,0
+17-04-2025,West,Mumbai,Groceries,Rice,Returning,Net Banking,Delivered,Amit,5,5,2248.84,11244.2,No,0
+08-04-2024,North,Delhi,Electronics,Phone,New,UPI,Shipped,Karan,6,6,4665.59,27993.54,No,0
+01-06-2024,East,Kolkata,Electronics,Phone,Returning,Net Banking,Delivered,Rohit,5,5,1494.36,7471.8,No,0
+03-12-2024,West,Pune,Fashion,Jeans,Returning,Card,Shipped,Karan,5,5,1791.59,8957.95,No,0
+06-12-2025,South,Chennai,Groceries,Rice,Returning,UPI,Shipped,Rohit,9,9,245.37,2208.33,No,0
+11-06-2024,North,Chandigarh,Sports,Ball,Returning,UPI,Delivered,Sneha,3,3,2307.93,6923.79,No,0
+20-12-2025,East,Bhubaneswar,Electronics,Laptop,New,UPI,Shipped,Rohit,1,1,2010.37,2010.37,No,0
+11-11-2025,South,Chennai,Groceries,Rice,New,Card,Delivered,Priya,8,8,4547.29,36378.32,No,0
+09-06-2024,South,Bangalore,Groceries,Milk,Returning,Card,Delivered,Karan,1,1,4136.57,4136.57,No,0
+02-08-2025,North,Chandigarh,Sports,Bat,New,Card,Delivered,Karan,5,5,107.67,538.35,No,0
+01-02-2025,East,Bhubaneswar,Groceries,Milk,Returning,Net Banking,Delivered,Amit,7,7,3616.1,25312.7,No,0
+03-10-2024,East,Kolkata,Sports,Shoes,Returning,Net Banking,Delivered,Karan,1,1,3058.6,3058.6,No,0
+18-05-2025,East,Bhubaneswar,Electronics,Laptop,New,Cash,Delivered,Priya,2,2,3359.93,6719.86,No,0
+26-01-2025,North,Delhi,Electronics,Phone,New,UPI,Pending,Sneha,4,4,1908.36,7633.44,No,0
+14-05-2024,West,Mumbai,Home,Lamp,Returning,Card,Shipped,Rohit,8,8,3780.77,30246.16,Yes,7989.34
+13-07-2024,East,Bhubaneswar,Fashion,Jeans,Returning,Cash,Delivered,Karan,9,9,4714.46,42430.14,No,0
+04-02-2025,East,Kolkata,Sports,Bat,Returning,UPI,Delivered,Amit,9,9,3267.61,29408.49,No,0
+01-10-2025,South,Bangalore,Sports,Shoes,Returning,Cash,Shipped,Sneha,2,2,780.47,1560.94,No,0
+02-02-2024,South,Bangalore,Groceries,Oil,Returning,Net Banking,Shipped,Rohit,7,7,4381.12,30667.84,No,0
+18-11-2025,North,Delhi,Groceries,Milk,Returning,UPI,Pending,Amit,5,5,4522.02,22610.1,Yes,14180.47
+04-04-2025,West,Mumbai,Home,Chair,Returning,Net Banking,Delivered,Karan,8,8,4118.06,32944.48,No,0
+14-04-2025,South,Bangalore,Electronics,Phone,Returning,Net Banking,Pending,Karan,3,3,2299.38,6898.14,No,0
+09-01-2025,North,Chandigarh,Fashion,Shoes,Returning,Cash,Pending,Sneha,5,5,702.72,3513.6,No,0
+22-01-2024,North,Delhi,Sports,Ball,New,Card,Shipped,Amit,9,9,3672.95,33056.55,No,0
+31-10-2025,West,Mumbai,Sports,Ball,New,Cash,Pending,Karan,5,5,3493.21,17466.05,No,0
+07-02-2024,North,Chandigarh,Groceries,Oil,Returning,UPI,Pending,Rohit,3,3,480.31,1440.93,No,0
+17-08-2024,South,Bangalore,Home,Table,New,Card,Delivered,Karan,6,6,3966.03,23796.18,No,0
+30-12-2024,West,Mumbai,Fashion,Jeans,Returning,UPI,Shipped,Amit,2,2,1982.77,3965.54,No,0
+16-07-2025,South,Bangalore,Sports,Ball,Returning,Card,Pending,Priya,9,9,2211.83,19906.47,No,0
+13-03-2025,South,Bangalore,Home,Table,Returning,Net Banking,Shipped,Priya,9,9,234.36,2109.24,No,0
+09-10-2024,West,Pune,Sports,Shoes,New,Cash,Shipped,Sneha,8,8,1935.31,15482.48,No,0
+27-01-2024,South,Chennai,Sports,Shoes,Returning,Card,Shipped,Rohit,5,5,3264.13,16320.65,Yes,13211.98
+13-08-2024,South,Bangalore,Sports,Bat,Returning,Card,Shipped,Amit,4,4,1764.87,7059.48,No,0
+03-10-2024,North,Delhi,Groceries,Milk,Returning,Cash,Delivered,Priya,2,2,3220.82,6441.64,No,0
+31-08-2025,West,Pune,Groceries,Milk,New,Cash,Shipped,Amit,1,1,596.17,596.17,No,0
+10-10-2024,East,Kolkata,Groceries,Rice,New,Card,Pending,Rohit,8,8,1886.51,15092.08,No,0
+25-04-2025,South,Bangalore,Groceries,Rice,Returning,Card,Shipped,Sneha,6,6,2324.61,13947.66,No,0
+28-03-2025,South,Chennai,Fashion,Shoes,New,Cash,Pending,Sneha,2,2,2479.39,4958.78,Yes,2996.91
+20-10-2025,South,Bangalore,Fashion,Shirt,New,Net Banking,Delivered,Priya,4,4,586.58,2346.32,No,0
+30-05-2025,East,Bhubaneswar,Electronics,Laptop,New,Card,Shipped,Karan,3,3,214.43,643.29,No,0
+30-06-2025,West,Mumbai,Electronics,Phone,New,UPI,Shipped,Karan,5,5,1517.3,7586.5,No,0
+10-07-2024,West,Pune,Sports,Shoes,Returning,Net Banking,Shipped,Sneha,5,5,4784,23920,No,0
+18-02-2024,North,Chandigarh,Electronics,Laptop,New,Card,Delivered,Rohit,7,7,2276.23,15933.61,No,0
+26-05-2025,East,Bhubaneswar,Fashion,Jeans,New,UPI,Pending,Rohit,9,9,4921.66,44294.94,No,0
+17-01-2024,West,Mumbai,Groceries,Rice,Returning,Net Banking,Pending,Rohit,4,4,251.59,1006.36,No,0
+20-06-2024,North,Chandigarh,Fashion,Shoes,New,UPI,Shipped,Amit,6,6,2752.9,16517.4,No,0
+07-08-2024,South,Chennai,Home,Lamp,Returning,Card,Delivered,Priya,1,1,2708.06,2708.06,No,0
+06-06-2024,West,Mumbai,Electronics,Phone,Returning,Cash,Pending,Karan,5,5,4184.88,20924.4,No,0
+21-04-2025,East,Bhubaneswar,Groceries,Oil,Returning,Card,Shipped,Priya,2,2,1370.74,2741.48,No,0
+15-02-2024,South,Bangalore,Groceries,Milk,Returning,Net Banking,Delivered,Sneha,1,1,2586.49,2586.49,No,0
+07-01-2025,North,Delhi,Home,Lamp,New,Card,Delivered,Karan,5,5,4835.45,24177.25,No,0
+01-06-2025,South,Bangalore,Electronics,Phone,New,Card,Shipped,Karan,3,3,909.69,2729.07,No,0
+08-04-2024,South,Bangalore,Sports,Shoes,New,Net Banking,Delivered,Rohit,3,3,837.56,2512.68,No,0
+06-02-2024,South,Bangalore,Groceries,Oil,New,Card,Delivered,Rohit,4,4,2068.72,8274.88,No,0
+06-10-2024,East,Kolkata,Home,Lamp,New,Cash,Delivered,Karan,2,2,3154.69,6309.38,No,0
+14-12-2024,South,Chennai,Home,Table,New,UPI,Shipped,Amit,3,3,1086.43,3259.29,No,0
+11-05-2025,West,Mumbai,Fashion,Jeans,Returning,Card,Pending,Karan,5,5,2430.18,12150.9,No,0
+28-10-2024,West,Mumbai,Fashion,Shoes,Returning,UPI,Shipped,Amit,3,3,748.62,2245.86,No,0
+29-06-2024,South,Bangalore,Groceries,Milk,Returning,Cash,Pending,Sneha,2,2,3638.5,7277,No,0
+29-08-2025,East,Kolkata,Home,Lamp,Returning,UPI,Shipped,Amit,6,6,740.2,4441.2,No,0
+08-04-2024,North,Delhi,Fashion,Shirt,Returning,Cash,Pending,Rohit,5,5,3991.63,19958.15,No,0
+30-11-2025,South,Chennai,Groceries,Rice,New,UPI,Pending,Karan,6,6,829.1,4974.6,No,0
+25-04-2024,South,Bangalore,Home,Chair,New,UPI,Delivered,Sneha,4,4,4331.38,17325.52,No,0
+09-07-2024,East,Bhubaneswar,Groceries,Oil,Returning,Card,Shipped,Amit,4,4,1500.34,6001.36,No,0
+09-09-2024,West,Mumbai,Home,Chair,New,Net Banking,Pending,Rohit,8,8,2262,18096,No,0
+09-06-2024,West,Pune,Groceries,Rice,New,Cash,Shipped,Sneha,9,9,1875.11,16875.99,No,0
+12-09-2024,East,Bhubaneswar,Groceries,Rice,Returning,UPI,Delivered,Rohit,5,5,4905.62,24528.1,No,0
+18-11-2024,East,Bhubaneswar,Fashion,Shirt,New,Card,Pending,Priya,3,3,3050.37,9151.11,No,0
+07-05-2024,West,Mumbai,Sports,Ball,New,UPI,Pending,Rohit,7,7,4784.63,33492.41,No,0
+18-01-2024,East,Kolkata,Home,Table,New,Cash,Pending,Priya,9,9,391.41,3522.69,Yes,2508.71
+19-07-2025,South,Chennai,Electronics,Laptop,Returning,Net Banking,Delivered,Karan,1,1,4476.14,4476.14,Yes,4058.84
+23-07-2025,East,Kolkata,Sports,Bat,Returning,Net Banking,Pending,Karan,5,5,2601.12,13005.6,No,0
+18-11-2024,North,Chandigarh,Electronics,Phone,New,Cash,Pending,Amit,7,7,193.67,1355.69,No,0
+16-11-2025,East,Kolkata,Sports,Bat,New,Cash,Pending,Amit,6,6,3641.26,21847.56,No,0
+17-09-2025,North,Delhi,Home,Chair,New,UPI,Delivered,Priya,5,5,1857.71,9288.55,No,0
+14-10-2024,West,Mumbai,Fashion,Shoes,Returning,Net Banking,Delivered,Amit,8,8,3691.95,29535.6,No,0
+24-10-2025,West,Mumbai,Groceries,Oil,New,Card,Delivered,Amit,3,3,4989.32,14967.96,No,0
+30-09-2025,East,Bhubaneswar,Sports,Bat,New,Card,Pending,Sneha,1,1,540.08,540.08,Yes,127.1
+03-06-2024,West,Mumbai,Fashion,Shirt,Returning,Card,Pending,Priya,4,4,4187.31,16749.24,No,0
+04-05-2025,West,Mumbai,Electronics,Phone,New,Cash,Delivered,Sneha,5,5,127.76,638.8,No,0
+20-01-2025,East,Bhubaneswar,Home,Chair,New,Cash,Shipped,Karan,9,9,3853.97,34685.73,No,0
+13-04-2024,West,Mumbai,Sports,Ball,New,Net Banking,Delivered,Karan,2,2,611.58,1223.16,No,0
+27-01-2025,East,Kolkata,Groceries,Rice,New,Net Banking,Delivered,Priya,2,2,480.48,960.96,No,0
+02-09-2024,West,Mumbai,Fashion,Shirt,New,Cash,Delivered,Karan,6,6,1600.07,9600.42,No,0
+24-06-2024,East,Bhubaneswar,Groceries,Oil,Returning,Net Banking,Shipped,Priya,2,2,129.83,259.66,No,0
+08-02-2024,West,Mumbai,Electronics,Tablet,Returning,UPI,Shipped,Sneha,6,6,1567.87,9407.22,Yes,5649.03
+21-04-2025,South,Chennai,Home,Lamp,New,Net Banking,Delivered,Karan,6,6,346.11,2076.66,Yes,1084.64
+12-11-2025,North,Chandigarh,Fashion,Shirt,Returning,Card,Pending,Amit,2,2,1476.92,2953.84,No,0
+21-06-2025,East,Kolkata,Fashion,Shirt,Returning,Net Banking,Delivered,Rohit,8,8,2085,16680,No,0
+11-02-2025,South,Bangalore,Home,Chair,Returning,Net Banking,Pending,Priya,7,7,2434.54,17041.78,No,0
+08-06-2025,North,Delhi,Groceries,Oil,New,Cash,Delivered,Rohit,9,9,1174.44,10569.96,Yes,3928.88
+20-05-2025,West,Mumbai,Groceries,Milk,New,UPI,Shipped,Amit,3,3,3274.31,9822.93,No,0
+05-02-2024,West,Mumbai,Fashion,Shoes,New,Cash,Shipped,Priya,1,1,3626.98,3626.98,No,0
+15-11-2025,West,Mumbai,Sports,Bat,Returning,Cash,Delivered,Priya,4,4,3161.44,12645.76,Yes,9434.92
+20-01-2024,North,Delhi,Fashion,Jeans,Returning,Card,Shipped,Rohit,2,2,3598.37,7196.74,No,0
+16-11-2024,South,Chennai,Electronics,Laptop,New,Net Banking,Delivered,Rohit,8,8,1520.85,12166.8,No,0
+26-05-2025,West,Mumbai,Fashion,Shoes,Returning,Cash,Pending,Karan,4,4,800.09,3200.36,No,0
+03-02-2025,South,Bangalore,Sports,Ball,Returning,Net Banking,Delivered,Rohit,2,2,2067.08,4134.16,No,0
+15-10-2025,West,Mumbai,Electronics,Laptop,Returning,Card,Pending,Sneha,2,2,755.76,1511.52,No,0
+15-04-2025,East,Bhubaneswar,Fashion,Shirt,Returning,Card,Pending,Amit,9,9,3768.36,33915.24,No,0
+22-05-2024,South,Bangalore,Fashion,Jeans,New,UPI,Shipped,Amit,1,1,2604.53,2604.53,Yes,1096.34
+01-04-2024,South,Bangalore,Groceries,Rice,New,Cash,Shipped,Rohit,6,6,4489.06,26934.36,No,0
+19-12-2024,South,Chennai,Groceries,Milk,Returning,UPI,Shipped,Amit,8,8,118.72,949.76,No,0
+27-12-2025,South,Bangalore,Home,Chair,New,Cash,Pending,Sneha,9,9,505.31,4547.79,No,0
+20-02-2024,West,Pune,Sports,Ball,New,Card,Pending,Sneha,9,9,1865.15,16786.35,No,0
+26-10-2025,West,Mumbai,Fashion,Shoes,New,Net Banking,Shipped,Sneha,2,2,1635.4,3270.8,No,0
+28-11-2025,West,Pune,Sports,Ball,Returning,Net Banking,Pending,Sneha,3,3,2225.71,6677.13,No,0
+28-07-2025,West,Pune,Groceries,Oil,New,Card,Pending,Priya,8,8,4823.98,38591.84,No,0
+08-07-2024,South,Chennai,Electronics,Laptop,New,Card,Delivered,Karan,7,7,2519.69,17637.83,No,0
+04-05-2024,North,Delhi,Groceries,Oil,New,Cash,Delivered,Sneha,9,9,3548.9,31940.1,Yes,10654.02
+29-05-2024,West,Pune,Sports,Ball,New,Cash,Pending,Karan,5,5,4390.01,21950.05,No,0
+09-11-2024,East,Bhubaneswar,Groceries,Milk,Returning,Net Banking,Delivered,Sneha,8,8,3829.09,30632.72,No,0
+23-07-2025,South,Bangalore,Fashion,Jeans,New,Net Banking,Pending,Amit,9,9,1560.46,14044.14,No,0
+07-12-2024,East,Bhubaneswar,Fashion,Jeans,New,Net Banking,Pending,Priya,3,3,3208.26,9624.78,No,0
+31-10-2024,North,Delhi,Electronics,Laptop,New,Card,Delivered,Amit,1,1,1864.25,1864.25,No,0
+22-11-2025,East,Kolkata,Home,Table,New,UPI,Pending,Priya,9,9,2432.24,21890.16,No,0
+12-11-2025,East,Bhubaneswar,Electronics,Laptop,Returning,UPI,Delivered,Priya,3,3,1912.08,5736.24,Yes,4669.61
+23-02-2024,South,Bangalore,Fashion,Shoes,Returning,Cash,Shipped,Priya,2,2,2805.14,5610.28,No,0
+19-03-2025,South,Chennai,Home,Lamp,Returning,Cash,Shipped,Karan,2,2,1138.77,2277.54,No,0
+04-09-2025,South,Bangalore,Electronics,Laptop,New,Net Banking,Delivered,Amit,6,6,4412.77,26476.62,No,0
+20-09-2024,North,Delhi,Fashion,Shirt,Returning,Cash,Pending,Karan,7,7,3077.99,21545.93,No,0
+22-02-2024,East,Bhubaneswar,Groceries,Milk,New,Net Banking,Delivered,Priya,8,8,4660.96,37287.68,No,0
+25-07-2025,North,Delhi,Sports,Shoes,New,Cash,Delivered,Priya,3,3,1646.57,4939.71,No,0
+11-09-2025,East,Bhubaneswar,Fashion,Shirt,New,UPI,Delivered,Amit,5,5,3442.75,17213.75,No,0
+05-01-2024,East,Bhubaneswar,Groceries,Milk,New,Card,Pending,Rohit,1,1,4462.05,4462.05,No,0
+12-04-2024,South,Chennai,Electronics,Laptop,Returning,UPI,Shipped,Priya,3,3,3367.65,10102.95,No,0
+14-07-2024,West,Pune,Fashion,Shirt,Returning,Net Banking,Delivered,Priya,6,6,2627.72,15766.32,No,0
+15-12-2024,South,Chennai,Electronics,Laptop,New,Net Banking,Delivered,Amit,5,5,3471.42,17357.1,No,0
+16-02-2024,East,Kolkata,Groceries,Rice,Returning,Cash,Shipped,Rohit,6,6,1752.99,10517.94,Yes,3150.07
+17-10-2025,South,Chennai,Electronics,Tablet,Returning,UPI,Pending,Karan,3,3,2515.04,7545.12,No,0
+25-09-2024,East,Kolkata,Fashion,Shirt,New,Card,Shipped,Rohit,1,1,4539.72,4539.72,No,0
+04-01-2025,North,Chandigarh,Electronics,Phone,Returning,Card,Pending,Amit,9,9,4821.15,43390.35,No,0
+27-09-2025,South,Bangalore,Home,Chair,New,UPI,Pending,Rohit,6,6,3835.31,23011.86,No,0
+15-04-2024,East,Kolkata,Groceries,Rice,New,UPI,Delivered,Rohit,1,1,2654.35,2654.35,No,0
+31-10-2025,West,Pune,Sports,Shoes,New,Net Banking,Shipped,Rohit,6,6,183.04,1098.24,No,0
+20-10-2025,South,Bangalore,Sports,Shoes,Returning,Cash,Shipped,Karan,9,9,689.02,6201.18,No,0
+18-10-2025,West,Mumbai,Fashion,Jeans,Returning,UPI,Shipped,Karan,5,5,1774.84,8874.2,No,0
+29-04-2024,North,Delhi,Fashion,Shirt,Returning,Net Banking,Delivered,Rohit,7,7,1805.67,12639.69,No,0
+26-08-2025,West,Pune,Fashion,Jeans,Returning,UPI,Pending,Karan,5,5,3267.65,16338.25,No,0
+27-02-2024,North,Chandigarh,Groceries,Rice,Returning,UPI,Delivered,Amit,3,3,215.62,646.86,No,0
+11-12-2024,East,Bhubaneswar,Home,Table,New,UPI,Pending,Priya,1,1,3070.12,3070.12,No,0
+18-04-2025,South,Chennai,Groceries,Milk,New,Cash,Pending,Sneha,6,6,846.41,5078.46,No,0
+26-04-2024,East,Kolkata,Electronics,Phone,Returning,Net Banking,Pending,Priya,9,9,4693.15,42238.35,No,0
+06-05-2024,East,Bhubaneswar,Home,Chair,Returning,Cash,Delivered,Sneha,7,7,3391.05,23737.35,No,0
+27-01-2025,West,Mumbai,Fashion,Jeans,Returning,Card,Pending,Rohit,8,8,4719.35,37754.8,No,0
+02-10-2025,North,Delhi,Home,Table,Returning,Net Banking,Delivered,Rohit,4,4,2767.96,11071.84,No,0
+27-02-2024,West,Pune,Electronics,Laptop,New,Net Banking,Pending,Sneha,6,6,1891.84,11351.04,No,0
+25-09-2025,South,Bangalore,Groceries,Oil,New,Card,Delivered,Karan,7,7,789.93,5529.51,No,0
+27-05-2025,East,Kolkata,Groceries,Rice,New,Card,Pending,Amit,3,3,820.12,2460.36,No,0
+05-04-2024,North,Chandigarh,Home,Lamp,New,Net Banking,Shipped,Amit,8,8,4541.46,36331.68,No,0
+29-09-2025,North,Chandigarh,Groceries,Rice,New,Cash,Pending,Sneha,1,1,1791.44,1791.44,No,0
+27-04-2024,North,Chandigarh,Sports,Ball,Returning,Net Banking,Shipped,Rohit,8,8,3652.41,29219.28,No,0
+13-07-2025,East,Kolkata,Electronics,Laptop,Returning,Cash,Shipped,Rohit,9,9,3481,31329,No,0
+23-08-2025,East,Bhubaneswar,Electronics,Phone,Returning,Cash,Delivered,Priya,2,2,138.42,276.84,No,0
+02-05-2025,West,Pune,Fashion,Shirt,New,Card,Shipped,Karan,8,8,757.95,6063.6,No,0
+24-08-2024,South,Bangalore,Fashion,Jeans,New,UPI,Pending,Karan,2,2,1285.28,2570.56,No,0
+28-09-2024,East,Bhubaneswar,Sports,Bat,Returning,UPI,Shipped,Sneha,5,5,4815.32,24076.6,No,0
+07-07-2024,North,Chandigarh,Electronics,Phone,New,UPI,Shipped,Sneha,6,6,3828.19,22969.14,No,0
+04-12-2025,South,Chennai,Sports,Shoes,Returning,Net Banking,Delivered,Rohit,3,3,912.17,2736.51,No,0
+22-03-2025,South,Bangalore,Fashion,Jeans,New,UPI,Shipped,Priya,1,1,771.3,771.3,No,0
+03-08-2025,East,Bhubaneswar,Home,Chair,New,Cash,Delivered,Rohit,2,2,4283.55,8567.1,No,0
+03-09-2024,East,Bhubaneswar,Groceries,Milk,New,UPI,Shipped,Priya,6,6,633.58,3801.48,No,0
+16-03-2024,North,Chandigarh,Sports,Bat,New,Net Banking,Pending,Rohit,8,8,3587.44,28699.52,No,0
+02-06-2024,North,Delhi,Sports,Shoes,New,UPI,Shipped,Rohit,9,9,1173.68,10563.12,No,0
+17-10-2025,West,Pune,Groceries,Milk,Returning,Card,Pending,Karan,2,2,3008.45,6016.9,Yes,4199.04
+10-03-2025,South,Chennai,Fashion,Shoes,Returning,Card,Pending,Amit,6,6,1031.53,6189.18,No,0
+26-03-2024,North,Delhi,Electronics,Laptop,New,UPI,Delivered,Rohit,2,2,3521.72,7043.44,No,0
+27-11-2025,West,Mumbai,Sports,Ball,New,Net Banking,Shipped,Karan,2,2,4838.56,9677.12,No,0
+11-10-2024,East,Bhubaneswar,Sports,Ball,New,Cash,Shipped,Karan,8,8,3888.14,31105.12,No,0
+07-08-2024,East,Kolkata,Electronics,Laptop,New,Net Banking,Pending,Amit,1,1,2345.35,2345.35,No,0
+09-03-2024,West,Mumbai,Sports,Ball,Returning,Net Banking,Delivered,Amit,4,4,2868.92,11475.68,No,0
+16-02-2024,East,Bhubaneswar,Home,Chair,Returning,Net Banking,Shipped,Karan,6,6,3055.02,18330.12,No,0
+03-04-2024,West,Mumbai,Groceries,Rice,New,Cash,Pending,Sneha,4,4,1849.44,7397.76,No,0
+28-03-2025,East,Kolkata,Electronics,Phone,New,Card,Shipped,Sneha,5,5,1188.17,5940.85,No,0
+22-07-2024,North,Chandigarh,Groceries,Rice,Returning,Card,Delivered,Karan,2,2,2621.95,5243.9,No,0
+05-08-2024,West,Mumbai,Electronics,Laptop,New,Net Banking,Shipped,Amit,6,6,2200.64,13203.84,Yes,7720.45
+18-04-2025,North,Chandigarh,Electronics,Laptop,New,Cash,Delivered,Sneha,4,4,1515.54,6062.16,No,0
+07-03-2025,South,Bangalore,Home,Chair,New,Card,Delivered,Amit,2,2,4966.95,9933.9,Yes,8034.6
+06-12-2024,West,Mumbai,Fashion,Shoes,Returning,Net Banking,Shipped,Priya,1,1,3213.67,3213.67,No,0
+04-07-2025,East,Kolkata,Sports,Bat,Returning,Net Banking,Pending,Karan,3,3,382.74,1148.22,No,0
+03-09-2025,East,Kolkata,Home,Table,New,Cash,Pending,Sneha,1,1,3958.99,3958.99,No,0
+15-10-2024,West,Pune,Sports,Shoes,New,Net Banking,Delivered,Karan,4,4,2911.82,11647.28,No,0
+10-09-2024,East,Kolkata,Sports,Bat,New,Cash,Pending,Karan,1,1,1277.95,1277.95,No,0
+22-12-2024,South,Chennai,Groceries,Milk,New,Card,Delivered,Amit,4,4,598.84,2395.36,No,0
+23-01-2024,East,Kolkata,Groceries,Rice,Returning,Net Banking,Shipped,Rohit,9,9,290.76,2616.84,Yes,890.19
+05-06-2025,East,Bhubaneswar,Home,Chair,Returning,Cash,Delivered,Priya,2,2,3429.79,6859.58,No,0
+09-04-2024,South,Bangalore,Groceries,Milk,New,UPI,Shipped,Priya,4,4,2949.95,11799.8,No,0
+28-06-2024,West,Pune,Fashion,Shirt,Returning,Card,Shipped,Priya,3,3,2194.76,6584.28,No,0
+10-08-2024,East,Bhubaneswar,Home,Lamp,New,UPI,Delivered,Karan,3,3,1484.23,4452.69,No,0
+20-10-2025,East,Kolkata,Home,Lamp,New,Card,Pending,Rohit,7,7,4737.64,33163.48,No,0
+17-03-2025,East,Kolkata,Sports,Shoes,New,Cash,Shipped,Sneha,5,5,3839.23,19196.15,No,0
+30-08-2025,East,Bhubaneswar,Groceries,Milk,Returning,Cash,Delivered,Amit,4,4,2537.95,10151.8,No,0
+20-11-2024,West,Pune,Sports,Ball,Returning,Net Banking,Pending,Amit,8,8,1012.07,8096.56,No,0
+30-05-2025,North,Chandigarh,Electronics,Laptop,New,Net Banking,Shipped,Rohit,7,7,260.77,1825.39,No,0
+16-01-2024,West,Pune,Sports,Ball,New,Net Banking,Delivered,Priya,4,4,1546.68,6186.72,No,0
+01-12-2024,South,Bangalore,Fashion,Shirt,Returning,Net Banking,Pending,Sneha,1,1,2106.12,2106.12,No,0
+14-09-2024,East,Bhubaneswar,Electronics,Tablet,New,UPI,Pending,Amit,8,8,333.44,2667.52,No,0
+11-05-2025,South,Bangalore,Home,Table,New,Net Banking,Shipped,Amit,8,8,1827.75,14622,No,0
+08-06-2024,North,Delhi,Sports,Shoes,New,Card,Delivered,Karan,2,2,4391.83,8783.66,No,0
+19-04-2025,East,Kolkata,Home,Chair,New,Card,Delivered,Karan,8,8,1521.14,12169.12,No,0
+25-10-2025,South,Bangalore,Groceries,Rice,New,UPI,Shipped,Priya,5,5,3851.18,19255.9,Yes,10268.26
+20-11-2025,South,Chennai,Groceries,Oil,New,Net Banking,Pending,Karan,6,6,1874.66,11247.96,No,0
+05-11-2025,North,Chandigarh,Electronics,Laptop,New,Card,Delivered,Amit,8,8,1208.01,9664.08,No,0
+14-01-2025,North,Delhi,Electronics,Phone,New,UPI,Pending,Rohit,4,4,1229.04,4916.16,Yes,3851.69
+28-06-2025,North,Chandigarh,Sports,Ball,New,Cash,Pending,Rohit,6,6,3685.45,22112.7,No,0
+21-11-2025,West,Pune,Electronics,Laptop,New,UPI,Delivered,Priya,9,9,4257.28,38315.52,No,0
+02-03-2025,North,Chandigarh,Home,Chair,Returning,UPI,Delivered,Karan,2,2,4490.6,8981.2,No,0
+04-09-2025,North,Chandigarh,Home,Lamp,Returning,UPI,Pending,Amit,3,3,989.91,2969.73,No,0
+24-09-2024,East,Kolkata,Electronics,Laptop,Returning,Card,Pending,Rohit,6,6,2088.18,12529.08,No,0
+30-07-2025,West,Pune,Home,Table,Returning,UPI,Shipped,Priya,6,6,2026.66,12159.96,No,0
+20-02-2025,West,Mumbai,Sports,Ball,Returning,UPI,Delivered,Amit,1,1,1965.38,1965.38,No,0
+16-06-2024,North,Delhi,Fashion,Shirt,New,Card,Delivered,Karan,2,2,3925.1,7850.2,No,0
+12-02-2024,East,Bhubaneswar,Home,Chair,New,Net Banking,Shipped,Karan,6,6,1400.1,8400.6,No,0
+09-07-2025,North,Chandigarh,Electronics,Phone,Returning,Net Banking,Pending,Karan,4,4,3197.58,12790.32,No,0
+11-10-2024,North,Delhi,Sports,Shoes,New,Net Banking,Pending,Amit,5,5,602.33,3011.65,No,0
+31-01-2025,North,Delhi,Electronics,Tablet,Returning,UPI,Pending,Karan,9,9,943.24,8489.16,No,0
+12-01-2024,East,Bhubaneswar,Sports,Ball,New,Net Banking,Pending,Karan,8,8,879.22,7033.76,No,0
+29-08-2025,South,Bangalore,Home,Chair,New,Cash,Shipped,Sneha,7,7,2362.41,16536.87,No,0
+28-10-2024,South,Chennai,Sports,Ball,New,Cash,Pending,Rohit,7,7,713.11,4991.77,No,0
+09-09-2024,South,Chennai,Sports,Shoes,New,Card,Shipped,Priya,9,9,1442.95,12986.55,No,0
+13-05-2025,South,Bangalore,Electronics,Phone,New,Net Banking,Shipped,Sneha,9,9,1792.18,16129.62,No,0
+04-02-2024,East,Kolkata,Home,Lamp,Returning,UPI,Pending,Karan,4,4,870.9,3483.6,No,0
+27-12-2025,South,Bangalore,Sports,Ball,New,UPI,Shipped,Amit,1,1,3662.58,3662.58,No,0
+30-03-2024,West,Pune,Groceries,Rice,New,Net Banking,Pending,Priya,7,7,2791.62,19541.34,No,0
+27-08-2025,North,Chandigarh,Fashion,Jeans,Returning,Card,Pending,Sneha,4,4,3952.41,15809.64,No,0
+24-08-2025,North,Delhi,Electronics,Phone,New,Cash,Delivered,Priya,2,2,178.7,357.4,No,0
+21-02-2025,North,Chandigarh,Fashion,Shoes,Returning,Net Banking,Delivered,Karan,3,3,155.95,467.85,No,0
+24-04-2024,North,Chandigarh,Electronics,Tablet,New,Net Banking,Delivered,Sneha,2,2,2244.54,4489.08,No,0
+08-09-2025,West,Mumbai,Electronics,Laptop,New,Cash,Pending,Rohit,3,3,3560.35,10681.05,No,0
+14-07-2024,North,Delhi,Electronics,Phone,New,Cash,Shipped,Karan,8,8,353.18,2825.44,No,0
+15-05-2025,South,Chennai,Sports,Shoes,New,UPI,Shipped,Karan,6,6,680.61,4083.66,No,0
+17-09-2025,South,Bangalore,Groceries,Milk,New,Cash,Shipped,Rohit,3,3,4767.09,14301.27,No,0
+07-05-2025,West,Mumbai,Fashion,Jeans,New,Cash,Pending,Amit,9,9,870.64,7835.76,No,0
+15-03-2024,West,Pune,Groceries,Oil,Returning,Cash,Pending,Sneha,7,7,1651.09,11557.63,No,0
+16-02-2025,North,Chandigarh,Home,Chair,Returning,Cash,Shipped,Amit,9,9,4003.74,36033.66,No,0
+10-01-2025,South,Bangalore,Fashion,Jeans,New,Net Banking,Shipped,Amit,8,8,4682.96,37463.68,No,0
+23-02-2025,South,Chennai,Groceries,Rice,New,Card,Delivered,Sneha,7,7,4539.83,31778.81,Yes,23491.4
+29-12-2025,West,Mumbai,Home,Chair,New,Cash,Shipped,Sneha,1,1,2789.41,2789.41,No,0
+03-10-2024,East,Kolkata,Fashion,Shoes,New,UPI,Shipped,Amit,5,5,1829.5,9147.5,No,0
+06-11-2025,East,Kolkata,Home,Lamp,New,Card,Delivered,Rohit,1,1,2209.65,2209.65,No,0
+28-01-2025,East,Kolkata,Sports,Shoes,Returning,UPI,Shipped,Karan,5,5,434.93,2174.65,No,0
+01-04-2025,South,Chennai,Sports,Ball,New,Card,Shipped,Rohit,2,2,2220.56,4441.12,No,0
+10-07-2024,West,Pune,Fashion,Shoes,Returning,Cash,Pending,Amit,5,5,453.34,2266.7,No,0
+19-11-2025,South,Chennai,Home,Lamp,New,UPI,Delivered,Priya,7,7,4727.8,33094.6,No,0
+08-04-2024,South,Chennai,Groceries,Milk,Returning,UPI,Delivered,Amit,6,6,3694.09,22164.54,No,0
+01-07-2025,North,Chandigarh,Electronics,Phone,Returning,UPI,Shipped,Karan,7,7,2149.84,15048.88,No,0
+05-04-2024,South,Chennai,Electronics,Tablet,Returning,Cash,Delivered,Priya,8,8,4952.77,39622.16,No,0
+25-10-2025,West,Mumbai,Sports,Bat,New,UPI,Pending,Karan,9,9,4903.81,44134.29,Yes,27140.86
+24-10-2025,East,Bhubaneswar,Sports,Shoes,New,Net Banking,Delivered,Rohit,1,1,605.29,605.29,No,0
+08-07-2024,North,Chandigarh,Home,Lamp,Returning,Card,Pending,Karan,9,9,3715.64,33440.76,No,0
+06-02-2024,East,Kolkata,Home,Lamp,Returning,UPI,Delivered,Amit,9,9,1101.76,9915.84,No,0
+03-01-2025,North,Delhi,Groceries,Milk,Returning,Card,Shipped,Priya,7,7,1394.95,9764.65,No,0
+25-11-2025,North,Delhi,Electronics,Tablet,Returning,UPI,Pending,Karan,9,9,3726.79,33541.11,No,0
+08-06-2025,East,Kolkata,Groceries,Oil,New,Net Banking,Delivered,Priya,8,8,3318.1,26544.8,No,0
+05-10-2024,South,Chennai,Sports,Shoes,Returning,Card,Pending,Karan,7,7,477.2,3340.4,Yes,3210.59
+04-08-2024,South,Chennai,Groceries,Rice,Returning,Card,Shipped,Priya,9,9,551.13,4960.17,No,0
+29-09-2024,West,Mumbai,Fashion,Shoes,New,Net Banking,Shipped,Karan,4,4,551.27,2205.08,No,0
+02-03-2024,East,Kolkata,Electronics,Laptop,New,Card,Delivered,Karan,5,5,174.04,870.2,No,0
+18-08-2025,West,Mumbai,Home,Table,New,Cash,Pending,Karan,9,9,3562.49,32062.41,No,0
+29-12-2025,North,Delhi,Fashion,Shoes,Returning,Card,Delivered,Karan,9,9,2676.21,24085.89,No,0
+07-12-2024,North,Chandigarh,Fashion,Jeans,New,Cash,Shipped,Amit,2,2,4343.87,8687.74,No,0
+31-01-2025,West,Mumbai,Electronics,Laptop,Returning,UPI,Delivered,Karan,9,9,858.66,7727.94,No,0
+29-11-2025,East,Kolkata,Fashion,Jeans,Returning,UPI,Delivered,Priya,6,6,4701.38,28208.28,Yes,23069.88
+19-01-2024,South,Bangalore,Electronics,Phone,New,Card,Delivered,Amit,4,4,3535.58,14142.32,No,0
+25-06-2024,South,Chennai,Electronics,Laptop,New,UPI,Pending,Karan,1,1,175.43,175.43,No,0
+03-09-2025,East,Bhubaneswar,Sports,Bat,Returning,Cash,Pending,Rohit,1,1,2755.75,2755.75,No,0
+30-01-2025,South,Bangalore,Groceries,Milk,New,UPI,Shipped,Amit,4,4,3656.06,14624.24,No,0
+20-03-2025,North,Chandigarh,Home,Chair,New,Net Banking,Shipped,Rohit,6,6,4887.33,29323.98,No,0
+20-08-2024,South,Bangalore,Electronics,Tablet,New,UPI,Delivered,Rohit,2,2,3739.84,7479.68,No,0
+16-03-2024,East,Kolkata,Electronics,Phone,New,Cash,Shipped,Rohit,4,4,3767.08,15068.32,No,0
+21-09-2024,South,Chennai,Electronics,Laptop,Returning,UPI,Shipped,Karan,4,4,2228.58,8914.32,No,0
+30-03-2025,North,Delhi,Home,Chair,Returning,Cash,Shipped,Priya,3,3,2988.32,8964.96,No,0
+18-12-2025,North,Chandigarh,Home,Lamp,New,UPI,Pending,Karan,9,9,3386.31,30476.79,No,0
+18-01-2025,North,Chandigarh,Home,Table,New,Card,Pending,Priya,8,8,3304.57,26436.56,No,0
+17-07-2025,South,Bangalore,Fashion,Shoes,New,Card,Shipped,Rohit,4,4,167.35,669.4,No,0
+20-05-2025,South,Bangalore,Home,Lamp,New,Card,Shipped,Karan,9,9,177.48,1597.32,Yes,1483.81
+01-01-2025,West,Mumbai,Sports,Shoes,New,Net Banking,Pending,Amit,2,2,3690.39,7380.78,No,0
+23-05-2024,West,Pune,Groceries,Milk,Returning,Cash,Delivered,Priya,2,2,1923.78,3847.56,No,0
+09-03-2024,South,Chennai,Sports,Ball,Returning,Net Banking,Shipped,Amit,2,2,4044.94,8089.88,No,0
+08-04-2024,South,Chennai,Groceries,Oil,New,Cash,Shipped,Priya,8,8,1081.38,8651.04,No,0
+30-01-2025,South,Bangalore,Home,Chair,Returning,Card,Pending,Karan,1,1,1341.45,1341.45,No,0
+25-01-2024,East,Kolkata,Groceries,Rice,New,UPI,Shipped,Amit,8,8,435.45,3483.6,No,0
+13-04-2025,West,Pune,Sports,Ball,New,Cash,Shipped,Amit,9,9,1110.47,9994.23,No,0
+28-04-2025,North,Chandigarh,Groceries,Oil,Returning,UPI,Delivered,Amit,7,7,1417.38,9921.66,No,0
+18-07-2025,East,Kolkata,Fashion,Shoes,New,UPI,Delivered,Rohit,6,6,4313.14,25878.84,Yes,21476.82
+30-05-2024,East,Bhubaneswar,Sports,Ball,Returning,Card,Pending,Karan,2,2,3188.21,6376.42,No,0
+23-05-2024,West,Mumbai,Groceries,Rice,Returning,Net Banking,Shipped,Karan,6,6,2195.25,13171.5,No,0
+22-07-2025,East,Kolkata,Fashion,Jeans,New,Cash,Shipped,Amit,5,5,3941.54,19707.7,No,0
+08-02-2024,West,Mumbai,Sports,Shoes,Returning,Net Banking,Shipped,Rohit,6,6,3946.98,23681.88,No,0
+18-04-2024,South,Chennai,Fashion,Shoes,Returning,Net Banking,Delivered,Rohit,4,4,2992.14,11968.56,No,0
+23-11-2025,North,Chandigarh,Home,Table,Returning,Cash,Pending,Amit,6,6,238.73,1432.38,No,0
+11-02-2024,West,Mumbai,Fashion,Shoes,New,Card,Pending,Amit,1,1,3845.76,3845.76,No,0
+04-07-2024,West,Pune,Sports,Ball,New,Card,Delivered,Priya,2,2,2103.01,4206.02,No,0
+01-02-2025,South,Chennai,Electronics,Laptop,Returning,UPI,Pending,Priya,5,5,886.27,4431.35,Yes,1544.4
+10-08-2024,East,Kolkata,Home,Lamp,Returning,UPI,Delivered,Priya,5,5,3759.21,18796.05,No,0
+25-09-2025,West,Pune,Fashion,Shoes,New,Card,Delivered,Priya,4,4,2286.39,9145.56,No,0
+12-05-2024,West,Pune,Electronics,Phone,New,UPI,Delivered,Rohit,1,1,1618.05,1618.05,No,0
+11-06-2024,West,Pune,Home,Lamp,New,UPI,Shipped,Karan,8,8,2811.56,22492.48,No,0
+02-08-2024,West,Mumbai,Electronics,Laptop,New,Cash,Delivered,Sneha,4,4,4375.92,17503.68,No,0
+22-08-2024,North,Delhi,Fashion,Jeans,Returning,Net Banking,Delivered,Priya,7,7,4768.79,33381.53,No,0
+19-10-2025,East,Kolkata,Fashion,Jeans,Returning,Card,Pending,Priya,1,1,2577.61,2577.61,No,0
+10-08-2025,East,Bhubaneswar,Home,Chair,Returning,Card,Shipped,Karan,1,1,1661.18,1661.18,No,0
+09-01-2024,North,Delhi,Groceries,Rice,Returning,Cash,Delivered,Rohit,6,6,2811.52,16869.12,No,0
+14-03-2024,South,Chennai,Fashion,Shoes,New,Cash,Delivered,Karan,6,6,2655.84,15935.04,No,0
+06-05-2025,West,Pune,Sports,Ball,New,UPI,Pending,Rohit,7,7,4205.75,29440.25,No,0
+09-09-2024,North,Delhi,Home,Chair,New,Cash,Pending,Karan,3,3,2131.13,6393.39,Yes,2792.34
+17-08-2024,South,Chennai,Groceries,Oil,New,Card,Shipped,Amit,5,5,2114.36,10571.8,No,0
+02-06-2025,North,Chandigarh,Groceries,Milk,Returning,Cash,Pending,Priya,4,4,1225.03,4900.12,No,0
+22-06-2024,South,Chennai,Groceries,Milk,Returning,Net Banking,Pending,Rohit,1,1,3729.07,3729.07,No,0
+14-10-2025,South,Chennai,Electronics,Laptop,New,Net Banking,Shipped,Sneha,5,5,3688.77,18443.85,No,0
+16-06-2024,West,Mumbai,Home,Lamp,Returning,Cash,Pending,Rohit,6,6,2752.71,16516.26,No,0
+18-06-2024,East,Bhubaneswar,Sports,Ball,Returning,Net Banking,Shipped,Rohit,3,3,1283.53,3850.59,No,0
+27-01-2025,North,Chandigarh,Electronics,Laptop,New,UPI,Pending,Amit,3,3,1189.57,3568.71,No,0
+25-09-2025,East,Bhubaneswar,Fashion,Shirt,Returning,Net Banking,Shipped,Priya,7,7,382.89,2680.23,No,0
+12-07-2024,West,Mumbai,Electronics,Phone,New,Cash,Pending,Karan,3,3,1744.8,5234.4,No,0
+31-05-2025,East,Kolkata,Home,Chair,New,UPI,Pending,Priya,8,8,3119.87,24958.96,No,0
+29-01-2024,South,Bangalore,Home,Lamp,New,Card,Delivered,Priya,1,1,2201.83,2201.83,No,0
+13-06-2024,South,Bangalore,Sports,Ball,New,UPI,Pending,Amit,8,8,3540.52,28324.16,No,0
+25-02-2025,East,Kolkata,Home,Lamp,New,Cash,Shipped,Rohit,2,2,1705.01,3410.02,No,0
+04-12-2024,West,Pune,Groceries,Milk,New,Net Banking,Shipped,Priya,1,1,3193.95,3193.95,No,0
+09-10-2025,East,Bhubaneswar,Groceries,Rice,New,Net Banking,Pending,Priya,1,1,2528.95,2528.95,No,0
+10-05-2025,North,Delhi,Fashion,Shirt,Returning,UPI,Delivered,Priya,7,7,799.93,5599.51,No,0
+30-12-2024,South,Bangalore,Electronics,Laptop,New,Card,Pending,Karan,7,7,660,4620,No,0
+07-12-2024,East,Kolkata,Sports,Ball,Returning,Card,Delivered,Amit,3,3,1101.15,3303.45,No,0
+14-05-2025,East,Bhubaneswar,Sports,Shoes,Returning,Net Banking,Shipped,Rohit,5,5,3904.8,19524,No,0
+18-10-2025,East,Bhubaneswar,Home,Table,Returning,UPI,Shipped,Rohit,9,9,3398.91,30590.19,No,0
+25-05-2025,East,Kolkata,Groceries,Rice,New,Cash,Pending,Amit,5,5,1187.31,5936.55,No,0
+22-11-2024,South,Chennai,Sports,Shoes,Returning,Cash,Shipped,Sneha,9,9,3683.45,33151.05,No,0
+04-08-2024,North,Delhi,Fashion,Jeans,Returning,Net Banking,Pending,Priya,8,8,4196.98,33575.84,No,0
+27-10-2024,West,Pune,Sports,Shoes,New,UPI,Pending,Karan,9,9,2476.96,22292.64,No,0
+11-05-2024,East,Kolkata,Electronics,Tablet,Returning,Card,Delivered,Karan,9,9,2704.73,24342.57,No,0
+10-03-2024,North,Chandigarh,Fashion,Jeans,New,Net Banking,Delivered,Priya,3,3,4289.37,12868.11,No,0
+08-09-2024,North,Chandigarh,Sports,Bat,Returning,Cash,Shipped,Rohit,3,3,165.5,496.5,No,0
+18-02-2025,East,Kolkata,Fashion,Shoes,New,Net Banking,Delivered,Sneha,9,9,4037.33,36335.97,No,0
+20-03-2025,South,Chennai,Home,Chair,New,Card,Shipped,Priya,2,2,428.17,856.34,No,0
+30-06-2024,West,Pune,Sports,Shoes,Returning,Cash,Shipped,Rohit,9,9,3741.1,33669.9,No,0
+15-06-2024,West,Mumbai,Electronics,Phone,Returning,Net Banking,Delivered,Karan,4,4,3276.76,13107.04,Yes,6558.44
+31-03-2024,East,Kolkata,Home,Lamp,Returning,Cash,Shipped,Amit,6,6,2224.01,13344.06,No,0
+14-12-2025,South,Chennai,Electronics,Phone,Returning,UPI,Shipped,Karan,3,3,1178.55,3535.65,No,0
+14-06-2025,East,Bhubaneswar,Home,Chair,Returning,Card,Pending,Rohit,8,8,436.7,3493.6,No,0
+08-02-2024,East,Kolkata,Groceries,Oil,New,UPI,Pending,Sneha,4,4,322.06,1288.24,No,0
+05-05-2024,North,Chandigarh,Electronics,Laptop,New,UPI,Shipped,Sneha,2,2,3342.25,6684.5,No,0
+26-03-2025,East,Bhubaneswar,Fashion,Shirt,New,Net Banking,Pending,Karan,2,2,3886.77,7773.54,No,0
+21-06-2024,North,Delhi,Electronics,Tablet,New,Net Banking,Shipped,Priya,9,9,2946.97,26522.73,No,0
+14-10-2025,East,Kolkata,Groceries,Oil,Returning,UPI,Pending,Sneha,5,5,2653.26,13266.3,No,0
+07-08-2024,North,Delhi,Home,Table,Returning,Net Banking,Pending,Sneha,4,4,787.59,3150.36,No,0
+29-09-2025,West,Pune,Groceries,Rice,Returning,Card,Pending,Sneha,7,7,3346.17,23423.19,No,0
+27-02-2024,South,Chennai,Home,Table,Returning,UPI,Delivered,Rohit,6,6,3774.89,22649.34,No,0
+21-10-2025,South,Bangalore,Sports,Ball,New,UPI,Shipped,Karan,7,7,3066.52,21465.64,No,0
+20-04-2025,North,Delhi,Electronics,Phone,Returning,Cash,Pending,Karan,4,4,4277.67,17110.68,No,0
+31-03-2025,East,Bhubaneswar,Sports,Bat,Returning,UPI,Pending,Rohit,6,6,1992.44,11954.64,No,0
+26-12-2024,East,Kolkata,Groceries,Oil,Returning,Net Banking,Delivered,Amit,9,9,1283.35,11550.15,No,0
+01-01-2024,South,Chennai,Groceries,Oil,New,UPI,Shipped,Rohit,1,1,2964.87,2964.87,No,0
+21-01-2025,East,Kolkata,Fashion,Shirt,New,Cash,Delivered,Amit,3,3,4126.97,12380.91,No,0
+13-12-2024,West,Pune,Home,Chair,New,Card,Pending,Amit,1,1,1432.54,1432.54,No,0
+08-07-2024,East,Kolkata,Groceries,Rice,New,Card,Shipped,Karan,3,3,4701.44,14104.32,No,0
+19-05-2025,North,Delhi,Groceries,Rice,New,Cash,Shipped,Amit,1,1,2690.75,2690.75,No,0
+09-07-2024,East,Bhubaneswar,Sports,Ball,Returning,UPI,Pending,Amit,5,5,3503.74,17518.7,No,0
+22-05-2025,West,Pune,Fashion,Shoes,Returning,Cash,Shipped,Priya,4,4,4136.46,16545.84,Yes,13591.29
+03-01-2025,South,Chennai,Groceries,Milk,New,Net Banking,Pending,Amit,4,4,2361.46,9445.84,No,0
+12-02-2025,West,Pune,Electronics,Phone,Returning,UPI,Pending,Karan,8,8,533.09,4264.72,No,0
+26-04-2024,East,Bhubaneswar,Electronics,Phone,New,Card,Delivered,Sneha,1,1,2218.5,2218.5,Yes,904.4
+13-05-2024,South,Bangalore,Sports,Shoes,Returning,Cash,Shipped,Sneha,6,6,2134.68,12808.08,No,0
+27-02-2024,West,Mumbai,Groceries,Milk,Returning,Cash,Shipped,Amit,5,5,3187.2,15936,No,0
+09-07-2025,West,Pune,Fashion,Shoes,Returning,Card,Shipped,Rohit,6,6,2202.03,13212.18,No,0
+15-11-2025,South,Bangalore,Electronics,Laptop,New,Cash,Delivered,Rohit,8,8,1693.92,13551.36,No,0
+02-11-2025,West,Pune,Fashion,Shirt,Returning,Net Banking,Pending,Priya,8,8,3367.18,26937.44,No,0
+21-06-2024,East,Bhubaneswar,Groceries,Rice,Returning,Card,Shipped,Amit,8,8,1320.14,10561.12,No,0
+28-05-2024,East,Bhubaneswar,Sports,Bat,New,Card,Shipped,Karan,6,6,565.1,3390.6,No,0
+20-03-2024,South,Bangalore,Electronics,Tablet,Returning,UPI,Pending,Rohit,3,3,4988.38,14965.14,No,0
+31-07-2024,South,Bangalore,Home,Table,New,Net Banking,Shipped,Amit,1,1,4809.68,4809.68,No,0
+21-07-2024,South,Chennai,Fashion,Jeans,Returning,Card,Pending,Priya,5,5,3940.32,19701.6,No,0
+16-08-2024,South,Bangalore,Electronics,Laptop,New,Net Banking,Shipped,Rohit,5,5,1236.89,6184.45,Yes,5018.57
+06-11-2025,South,Bangalore,Groceries,Oil,Returning,UPI,Delivered,Amit,2,2,3560.18,7120.36,No,0
+14-08-2024,East,Bhubaneswar,Fashion,Jeans,Returning,UPI,Delivered,Priya,7,7,4201.89,29413.23,No,0
+20-10-2025,South,Bangalore,Sports,Shoes,New,UPI,Shipped,Priya,3,3,4698.23,14094.69,No,0
+15-06-2025,North,Delhi,Home,Lamp,Returning,UPI,Shipped,Amit,3,3,2946.66,8839.98,No,0
+16-03-2025,West,Mumbai,Fashion,Shirt,Returning,UPI,Shipped,Karan,3,3,2267.24,6801.72,No,0
+05-02-2025,South,Bangalore,Home,Lamp,New,Card,Shipped,Amit,9,9,1221.49,10993.41,No,0
+16-02-2024,North,Delhi,Sports,Shoes,Returning,Net Banking,Delivered,Sneha,8,8,1957.73,15661.84,No,0
+20-08-2024,North,Delhi,Groceries,Oil,Returning,UPI,Pending,Sneha,5,5,3202.06,16010.3,No,0
+31-10-2024,East,Kolkata,Sports,Ball,Returning,Card,Delivered,Karan,5,5,4907.48,24537.4,No,0
+09-06-2025,South,Chennai,Home,Table,Returning,Net Banking,Pending,Amit,1,1,2359.72,2359.72,No,0
+22-05-2024,South,Bangalore,Home,Lamp,Returning,UPI,Pending,Karan,2,2,1875.91,3751.82,No,0
+18-02-2025,South,Chennai,Sports,Ball,Returning,Cash,Shipped,Sneha,8,8,4714.29,37714.32,No,0
+27-05-2025,North,Delhi,Groceries,Milk,Returning,UPI,Delivered,Priya,5,5,366.51,1832.55,No,0
+07-01-2025,South,Chennai,Fashion,Shoes,Returning,Cash,Delivered,Priya,9,9,3278.33,29504.97,No,0
+19-07-2025,West,Pune,Fashion,Shoes,Returning,Card,Shipped,Sneha,3,3,3764.19,11292.57,No,0
+15-09-2024,South,Bangalore,Electronics,Laptop,Returning,Net Banking,Shipped,Amit,1,1,978.84,978.84,No,0
+17-10-2025,North,Chandigarh,Groceries,Milk,New,Card,Shipped,Rohit,6,6,2940.66,17643.96,No,0
+15-04-2025,East,Kolkata,Electronics,Tablet,Returning,UPI,Delivered,Priya,2,2,193.81,387.62,No,0
+12-01-2024,North,Delhi,Home,Chair,New,Cash,Pending,Priya,7,7,940.03,6580.21,No,0
+25-11-2024,North,Delhi,Sports,Bat,New,Cash,Shipped,Rohit,8,8,4033.77,32270.16,No,0
+23-12-2024,South,Bangalore,Fashion,Shirt,Returning,UPI,Shipped,Amit,3,3,3231.26,9693.78,No,0
+11-02-2025,West,Mumbai,Home,Chair,New,UPI,Pending,Karan,2,2,2905.78,5811.56,No,0
+29-10-2025,West,Mumbai,Home,Lamp,New,UPI,Pending,Rohit,4,4,484.93,1939.72,No,0
+07-01-2025,North,Chandigarh,Sports,Shoes,New,Card,Shipped,Amit,8,8,3011.01,24088.08,No,0
+08-01-2024,South,Chennai,Electronics,Laptop,Returning,Cash,Pending,Rohit,8,8,1230.89,9847.12,No,0
+01-05-2024,East,Bhubaneswar,Groceries,Oil,New,Net Banking,Shipped,Rohit,4,4,4416.77,17667.08,No,0
+13-12-2024,West,Mumbai,Sports,Bat,New,Card,Pending,Priya,7,7,2557.72,17904.04,No,0
+06-11-2025,North,Delhi,Electronics,Phone,New,UPI,Shipped,Priya,8,8,1063.6,8508.8,No,0
+30-03-2024,East,Bhubaneswar,Groceries,Rice,Returning,UPI,Shipped,Sneha,8,8,4434.46,35475.68,No,0
+09-10-2025,West,Mumbai,Fashion,Shoes,Returning,Card,Delivered,Priya,3,3,247.13,741.39,No,0
+28-11-2025,West,Pune,Sports,Shoes,Returning,Cash,Shipped,Priya,7,7,3133.06,21931.42,No,0
+11-11-2024,North,Chandigarh,Groceries,Rice,Returning,Card,Shipped,Amit,5,5,405.73,2028.65,No,0
+26-06-2024,South,Bangalore,Home,Lamp,New,Card,Shipped,Rohit,7,7,2233.43,15634.01,No,0
+23-06-2025,East,Kolkata,Home,Lamp,Returning,Cash,Shipped,Amit,1,1,4277.48,4277.48,No,0
+10-02-2024,East,Kolkata,Home,Table,New,UPI,Delivered,Karan,3,3,2804.2,8412.6,No,0
+04-12-2025,South,Chennai,Fashion,Shoes,New,Cash,Pending,Priya,7,7,1132.89,7930.23,No,0
+16-05-2025,North,Chandigarh,Fashion,Shoes,Returning,UPI,Delivered,Sneha,4,4,370.59,1482.36,No,0
+24-05-2024,North,Delhi,Sports,Bat,Returning,Card,Delivered,Amit,4,4,2248.44,8993.76,No,0
+19-07-2024,South,Chennai,Home,Lamp,Returning,Cash,Delivered,Amit,5,5,3820.53,19102.65,No,0
+24-12-2025,South,Bangalore,Sports,Shoes,Returning,UPI,Pending,Priya,8,8,142.66,1141.28,No,0
+05-04-2025,North,Chandigarh,Home,Chair,New,Net Banking,Shipped,Sneha,8,8,1176.56,9412.48,Yes,8106.92
+11-07-2025,North,Chandigarh,Home,Chair,New,UPI,Shipped,Karan,1,1,1833.11,1833.11,No,0
+30-06-2025,East,Bhubaneswar,Home,Lamp,Returning,Card,Delivered,Sneha,4,4,1131.48,4525.92,No,0
+09-09-2024,South,Chennai,Home,Lamp,New,Net Banking,Shipped,Karan,2,2,1778.96,3557.92,No,0
+24-01-2025,West,Pune,Groceries,Milk,New,Cash,Shipped,Priya,8,8,505.41,4043.28,No,0
+16-08-2025,East,Kolkata,Sports,Ball,Returning,Card,Shipped,Rohit,7,7,3562.71,24938.97,No,0
+12-09-2024,East,Bhubaneswar,Sports,Ball,Returning,UPI,Shipped,Karan,5,5,2444.63,12223.15,No,0
+09-12-2025,South,Bangalore,Sports,Ball,Returning,UPI,Pending,Sneha,8,8,3157.59,25260.72,No,0
+25-03-2025,West,Pune,Fashion,Jeans,New,UPI,Delivered,Priya,7,7,503.13,3521.91,No,0
+10-01-2024,South,Bangalore,Home,Table,Returning,Net Banking,Delivered,Sneha,9,9,3604.41,32439.69,No,0
+29-08-2024,West,Mumbai,Fashion,Shirt,New,Card,Pending,Sneha,2,2,2346.31,4692.62,No,0
+07-09-2024,West,Mumbai,Electronics,Tablet,New,Card,Delivered,Rohit,2,2,3369.34,6738.68,No,0
+05-01-2024,East,Kolkata,Groceries,Oil,New,Cash,Pending,Priya,7,7,4216.53,29515.71,No,0
+28-04-2024,South,Chennai,Sports,Shoes,New,Cash,Pending,Priya,9,9,4708.05,42372.45,Yes,26194.99
+08-01-2025,West,Pune,Sports,Shoes,New,UPI,Delivered,Rohit,9,9,2513.59,22622.31,No,0
+05-03-2024,South,Chennai,Sports,Ball,New,Net Banking,Delivered,Karan,3,3,3324.6,9973.8,No,0
+25-05-2024,East,Bhubaneswar,Home,Chair,New,UPI,Pending,Sneha,2,2,703.84,1407.68,No,0
+11-08-2024,South,Chennai,Home,Table,Returning,Cash,Shipped,Sneha,9,9,2617.87,23560.83,No,0
+26-08-2024,North,Delhi,Home,Chair,Returning,Card,Delivered,Rohit,1,1,4107.5,4107.5,No,0
+25-06-2024,North,Delhi,Fashion,Shoes,New,Card,Shipped,Sneha,9,9,2613.2,23518.8,No,0
+08-10-2024,East,Kolkata,Home,Chair,Returning,Cash,Shipped,Amit,6,6,1226.15,7356.9,No,0
+03-03-2024,South,Bangalore,Fashion,Shoes,Returning,UPI,Delivered,Priya,9,9,3733.85,33604.65,No,0
+04-08-2024,East,Kolkata,Groceries,Rice,New,UPI,Delivered,Rohit,6,6,4288.05,25728.3,No,0
+19-11-2025,North,Chandigarh,Sports,Ball,Returning,Cash,Shipped,Sneha,3,3,1171.68,3515.04,No,0
+05-04-2025,East,Kolkata,Groceries,Rice,New,Card,Delivered,Priya,2,2,4525.63,9051.26,No,0
+01-09-2025,South,Bangalore,Fashion,Jeans,Returning,Net Banking,Delivered,Priya,6,6,4852.64,29115.84,No,0
+14-04-2024,North,Chandigarh,Sports,Ball,Returning,UPI,Delivered,Amit,9,9,3949.65,35546.85,No,0
+08-04-2024,West,Mumbai,Electronics,Phone,Returning,Card,Pending,Sneha,3,3,4480.53,13441.59,No,0
+25-05-2025,East,Bhubaneswar,Fashion,Shirt,Returning,Cash,Shipped,Priya,5,5,958.1,4790.5,No,0
+19-01-2025,West,Pune,Home,Table,New,Cash,Pending,Amit,9,9,1337.97,12041.73,No,0
+08-02-2025,North,Chandigarh,Groceries,Rice,New,Net Banking,Pending,Amit,4,4,1323.38,5293.52,No,0
+01-06-2025,South,Chennai,Sports,Ball,New,UPI,Pending,Karan,2,2,362.22,724.44,No,0
+20-04-2025,West,Pune,Electronics,Phone,Returning,Net Banking,Delivered,Karan,1,1,845.04,845.04,No,0
+09-12-2025,West,Pune,Groceries,Rice,New,Net Banking,Pending,Priya,1,1,1540.35,1540.35,No,0
+06-10-2025,North,Delhi,Home,Chair,Returning,Card,Pending,Rohit,7,7,1528.16,10697.12,No,0
+12-03-2025,South,Chennai,Electronics,Phone,Returning,UPI,Pending,Rohit,7,7,131.53,920.71,No,0
+23-01-2024,North,Delhi,Electronics,Phone,New,UPI,Shipped,Amit,7,7,2487.6,17413.2,No,0
+18-07-2025,East,Kolkata,Groceries,Oil,New,UPI,Pending,Karan,1,1,3550.01,3550.01,No,0
+07-11-2025,East,Kolkata,Sports,Ball,New,UPI,Delivered,Priya,2,2,2049.54,4099.08,No,0
+14-12-2025,North,Delhi,Home,Chair,New,UPI,Delivered,Karan,5,5,3838.18,19190.9,Yes,13765.26
+02-04-2025,North,Delhi,Home,Table,Returning,Net Banking,Delivered,Rohit,3,3,3114.13,9342.39,No,0
+23-03-2024,West,Mumbai,Fashion,Shoes,New,Net Banking,Shipped,Amit,5,5,346.19,1730.95,Yes,1109.41
+24-05-2024,East,Kolkata,Fashion,Shirt,Returning,UPI,Delivered,Sneha,4,4,4649.08,18596.32,No,0
+25-03-2024,West,Pune,Sports,Shoes,New,UPI,Pending,Karan,3,3,3793.3,11379.9,No,0
+18-03-2024,North,Chandigarh,Fashion,Shoes,New,Net Banking,Shipped,Sneha,1,1,3889.57,3889.57,No,0
+01-04-2025,South,Chennai,Groceries,Milk,New,Card,Delivered,Sneha,8,8,1477.14,11817.12,No,0
+01-01-2024,South,Bangalore,Home,Lamp,Returning,Card,Shipped,Karan,1,1,3092.78,3092.78,No,0
+20-02-2024,East,Kolkata,Groceries,Milk,New,Card,Pending,Priya,3,3,3778.77,11336.31,No,0
+15-11-2025,North,Delhi,Home,Lamp,New,UPI,Pending,Priya,1,1,1132.83,1132.83,No,0
+17-12-2025,East,Kolkata,Electronics,Tablet,Returning,Card,Shipped,Sneha,5,5,2872.33,14361.65,No,0
+21-03-2025,West,Pune,Groceries,Rice,Returning,Cash,Shipped,Rohit,6,6,1892.84,11357.04,No,0
+24-03-2025,West,Pune,Groceries,Rice,New,UPI,Delivered,Priya,3,3,2671.2,8013.6,No,0
+02-05-2025,East,Kolkata,Home,Chair,New,UPI,Shipped,Amit,3,3,2151.05,6453.15,No,0
+03-02-2024,North,Chandigarh,Sports,Ball,New,Cash,Delivered,Karan,5,5,4811.31,24056.55,No,0
+13-12-2024,East,Kolkata,Sports,Shoes,Returning,Card,Delivered,Amit,3,3,3221.76,9665.28,No,0
+04-04-2024,South,Chennai,Home,Lamp,New,Net Banking,Shipped,Karan,6,6,3424.65,20547.9,No,0
+12-03-2024,East,Bhubaneswar,Fashion,Jeans,New,Card,Pending,Karan,2,2,3136.12,6272.24,No,0
+04-07-2025,South,Chennai,Groceries,Oil,New,Card,Pending,Karan,4,4,3721.43,14885.72,No,0
+02-06-2024,South,Bangalore,Sports,Bat,Returning,UPI,Pending,Amit,4,4,4820.47,19281.88,Yes,14901.81
+06-09-2024,East,Bhubaneswar,Electronics,Laptop,New,Net Banking,Shipped,Sneha,9,9,1799.74,16197.66,No,0
+04-11-2025,West,Mumbai,Sports,Shoes,Returning,Card,Delivered,Karan,3,3,1628.21,4884.63,No,0
+13-03-2025,West,Pune,Groceries,Oil,New,Net Banking,Pending,Amit,8,8,1634.5,13076,No,0
+27-04-2024,South,Bangalore,Sports,Ball,New,UPI,Delivered,Amit,2,2,4959.31,9918.62,No,0
+01-11-2024,South,Bangalore,Electronics,Tablet,Returning,Card,Pending,Karan,8,8,4701.08,37608.64,No,0
+24-09-2024,South,Chennai,Sports,Ball,Returning,UPI,Shipped,Rohit,6,6,402.86,2417.16,No,0
+23-02-2024,South,Chennai,Groceries,Oil,New,Cash,Shipped,Karan,8,8,3016.54,24132.32,No,0
+23-08-2024,South,Chennai,Home,Lamp,New,Cash,Pending,Priya,9,9,4574.84,41173.56,No,0
+23-01-2025,East,Kolkata,Sports,Shoes,Returning,UPI,Delivered,Priya,8,8,2407.71,19261.68,No,0
+04-02-2025,North,Delhi,Electronics,Phone,New,UPI,Delivered,Karan,4,4,3793.95,15175.8,No,0
+15-09-2025,North,Delhi,Sports,Ball,New,UPI,Pending,Karan,3,3,1541.91,4625.73,No,0
+29-10-2024,South,Chennai,Fashion,Jeans,New,UPI,Shipped,Sneha,1,1,133.7,133.7,No,0
+25-07-2024,North,Delhi,Fashion,Shirt,Returning,UPI,Shipped,Amit,5,5,1322.35,6611.75,No,0
+16-08-2024,West,Mumbai,Sports,Ball,Returning,Card,Pending,Amit,7,7,4434.48,31041.36,No,0
+31-07-2025,West,Mumbai,Home,Chair,Returning,UPI,Delivered,Priya,7,7,1545.85,10820.95,No,0
+15-03-2024,South,Chennai,Groceries,Oil,New,Cash,Shipped,Karan,1,1,2256.28,2256.28,No,0
+10-03-2025,South,Chennai,Home,Chair,New,Cash,Pending,Rohit,3,3,1776.33,5328.99,No,0
+12-04-2024,East,Bhubaneswar,Sports,Ball,New,UPI,Delivered,Sneha,1,1,4130.22,4130.22,No,0
+25-02-2025,South,Chennai,Groceries,Rice,Returning,Net Banking,Pending,Priya,1,1,672.93,672.93,No,0
+04-12-2025,West,Pune,Electronics,Laptop,New,UPI,Shipped,Amit,4,4,3696.03,14784.12,No,0
+01-11-2024,West,Mumbai,Electronics,Tablet,New,Cash,Shipped,Sneha,8,8,671.26,5370.08,No,0
+07-04-2024,North,Delhi,Groceries,Milk,Returning,Card,Delivered,Sneha,1,1,321.72,321.72,No,0
+30-11-2024,West,Mumbai,Groceries,Oil,New,Card,Pending,Sneha,7,7,3327.44,23292.08,No,0
+10-03-2025,East,Kolkata,Home,Lamp,Returning,Cash,Shipped,Sneha,3,3,2876.37,8629.11,No,0
+22-03-2025,West,Pune,Sports,Shoes,Returning,UPI,Shipped,Amit,3,3,2113.2,6339.6,No,0
+03-11-2024,West,Mumbai,Home,Chair,Returning,UPI,Delivered,Rohit,4,4,152.97,611.88,No,0
+05-09-2024,South,Chennai,Fashion,Shirt,New,UPI,Shipped,Amit,5,5,583.81,2919.05,Yes,1428.1
+14-06-2024,South,Chennai,Fashion,Jeans,New,UPI,Pending,Karan,6,6,1152.01,6912.06,Yes,4671.71
+25-04-2025,South,Chennai,Groceries,Oil,Returning,UPI,Delivered,Rohit,1,1,3528.56,3528.56,No,0
+30-11-2024,East,Bhubaneswar,Home,Chair,Returning,Cash,Shipped,Rohit,7,7,945.37,6617.59,No,0
+25-06-2025,South,Chennai,Sports,Bat,Returning,Cash,Delivered,Amit,6,6,2175.38,13052.28,No,0
+15-04-2024,North,Delhi,Fashion,Jeans,Returning,Cash,Shipped,Karan,7,7,4851.65,33961.55,No,0
+16-07-2025,East,Bhubaneswar,Electronics,Laptop,Returning,Net Banking,Pending,Sneha,2,2,346.71,693.42,Yes,522.57
+21-03-2024,West,Mumbai,Sports,Shoes,Returning,Cash,Delivered,Sneha,7,7,1169.47,8186.29,No,0
+12-05-2024,South,Chennai,Groceries,Oil,New,Cash,Pending,Sneha,1,1,1339,1339,No,0
+17-05-2024,South,Chennai,Fashion,Shoes,Returning,Net Banking,Delivered,Amit,6,6,4498.94,26993.64,No,0
+02-07-2024,South,Bangalore,Sports,Bat,New,UPI,Delivered,Karan,6,6,2439.02,14634.12,No,0
+04-02-2025,West,Pune,Groceries,Rice,New,UPI,Delivered,Karan,8,8,875.69,7005.52,Yes,4524.5
+25-11-2024,West,Mumbai,Groceries,Rice,Returning,Cash,Delivered,Rohit,1,1,4189.5,4189.5,No,0
+22-05-2025,South,Chennai,Groceries,Oil,Returning,UPI,Delivered,Priya,6,6,2871.87,17231.22,No,0
+09-03-2024,North,Delhi,Electronics,Tablet,Returning,Card,Shipped,Rohit,8,8,4061.19,32489.52,No,0
+29-06-2025,South,Chennai,Sports,Shoes,Returning,Card,Shipped,Karan,1,1,1451.21,1451.21,No,0
+22-02-2024,East,Kolkata,Home,Chair,New,UPI,Shipped,Priya,6,6,3428.08,20568.48,Yes,11037.23
+25-03-2025,South,Chennai,Fashion,Shoes,New,Card,Shipped,Sneha,2,2,260.03,520.06,No,0
+23-07-2024,North,Chandigarh,Home,Lamp,Returning,Net Banking,Delivered,Rohit,4,4,1323.88,5295.52,No,0
+05-05-2024,West,Pune,Home,Table,New,Net Banking,Delivered,Rohit,2,2,4858.64,9717.28,No,0
+12-02-2024,West,Mumbai,Electronics,Phone,New,Card,Shipped,Amit,7,7,2146.57,15025.99,No,0
+20-04-2024,East,Bhubaneswar,Groceries,Oil,New,Net Banking,Delivered,Rohit,3,3,3890.5,11671.5,Yes,8808.11
+24-10-2025,East,Kolkata,Electronics,Laptop,New,Cash,Delivered,Karan,3,3,1837.86,5513.58,No,0
+01-07-2024,South,Bangalore,Fashion,Shoes,New,UPI,Shipped,Rohit,8,8,1666.3,13330.4,No,0
+04-04-2024,North,Chandigarh,Electronics,Phone,Returning,Cash,Shipped,Rohit,7,7,1351.15,9458.05,No,0
+08-01-2025,East,Kolkata,Groceries,Oil,Returning,Card,Pending,Karan,4,4,2124.55,8498.2,No,0
+03-06-2025,North,Chandigarh,Sports,Bat,Returning,Cash,Shipped,Priya,5,5,443.53,2217.65,No,0
+25-12-2024,East,Bhubaneswar,Electronics,Tablet,New,Cash,Delivered,Karan,4,4,2826.01,11304.04,Yes,10465.27
+26-11-2025,West,Pune,Groceries,Rice,New,Card,Pending,Amit,4,4,2154,8616,No,0
+07-10-2024,North,Chandigarh,Electronics,Tablet,Returning,UPI,Shipped,Karan,2,2,2829.5,5659,No,0
+13-07-2024,West,Mumbai,Home,Table,New,Card,Delivered,Karan,8,8,4846.51,38772.08,No,0
+13-07-2024,East,Bhubaneswar,Electronics,Laptop,New,Card,Pending,Amit,7,7,1180.19,8261.33,No,0
+28-10-2025,West,Mumbai,Electronics,Tablet,New,Card,Pending,Karan,8,8,2376.6,19012.8,No,0
+02-04-2024,West,Mumbai,Sports,Shoes,Returning,Net Banking,Pending,Amit,9,9,1499.93,13499.37,No,0
+02-11-2025,South,Bangalore,Fashion,Shirt,New,Card,Pending,Sneha,6,6,2703.34,16220.04,No,0
+01-03-2024,South,Bangalore,Home,Chair,New,Net Banking,Shipped,Amit,7,7,3684.33,25790.31,No,0
+25-09-2025,East,Bhubaneswar,Electronics,Tablet,Returning,Cash,Shipped,Sneha,7,7,4181.36,29269.52,No,0
+20-02-2024,South,Bangalore,Sports,Ball,New,Cash,Pending,Karan,4,4,3863.83,15455.32,No,0
+06-02-2025,East,Kolkata,Fashion,Shoes,New,Net Banking,Shipped,Rohit,2,2,1322.57,2645.14,No,0
+05-01-2024,West,Mumbai,Groceries,Rice,Returning,Card,Shipped,Priya,9,9,1611.49,14503.41,No,0
+10-04-2025,South,Chennai,Fashion,Shirt,New,Cash,Shipped,Sneha,8,8,292.42,2339.36,No,0
+26-08-2025,South,Bangalore,Groceries,Oil,Returning,UPI,Pending,Priya,1,1,3513.81,3513.81,No,0
+12-11-2025,South,Chennai,Fashion,Shirt,New,UPI,Delivered,Rohit,1,1,3669.02,3669.02,No,0
+17-06-2025,East,Kolkata,Fashion,Jeans,Returning,Card,Shipped,Amit,6,6,4120.09,24720.54,No,0
+08-02-2025,South,Chennai,Home,Lamp,Returning,Card,Shipped,Priya,1,1,2061.04,2061.04,No,0
+27-05-2025,North,Delhi,Fashion,Jeans,New,Cash,Pending,Amit,3,3,4988.35,14965.05,No,0
+06-10-2025,South,Chennai,Home,Chair,Returning,UPI,Pending,Sneha,1,1,2211.82,2211.82,No,0
+20-08-2024,West,Mumbai,Electronics,Phone,Returning,UPI,Delivered,Amit,9,9,987.8,8890.2,No,0
+07-06-2025,East,Bhubaneswar,Groceries,Milk,Returning,Cash,Shipped,Amit,5,5,1605.36,8026.8,No,0
+11-12-2024,South,Bangalore,Groceries,Oil,Returning,UPI,Delivered,Rohit,9,9,885.11,7965.99,No,0
+15-02-2024,South,Bangalore,Groceries,Milk,New,Card,Pending,Rohit,9,9,4006.33,36056.97,No,0
+29-06-2025,East,Bhubaneswar,Sports,Bat,New,Net Banking,Pending,Amit,7,7,4044.32,28310.24,Yes,9277.26
+18-03-2024,East,Bhubaneswar,Sports,Bat,New,Card,Delivered,Sneha,2,2,476.36,952.72,No,0
+30-12-2025,South,Chennai,Home,Lamp,New,UPI,Shipped,Karan,5,5,4191.24,20956.2,No,0
+13-03-2024,North,Delhi,Sports,Ball,New,Card,Delivered,Amit,7,7,1396.13,9772.91,No,0
+05-09-2024,North,Chandigarh,Home,Lamp,New,Net Banking,Pending,Karan,2,2,4639.67,9279.34,No,0
+16-02-2024,West,Pune,Groceries,Oil,Returning,UPI,Delivered,Rohit,6,6,1147.12,6882.72,No,0
+30-04-2024,West,Mumbai,Electronics,Tablet,Returning,Cash,Delivered,Karan,3,3,2025.19,6075.57,Yes,4049.99
+01-08-2024,North,Delhi,Sports,Ball,New,Net Banking,Delivered,Amit,6,6,3929.92,23579.52,No,0
+26-08-2024,North,Chandigarh,Fashion,Jeans,Returning,Card,Pending,Karan,4,4,4871.62,19486.48,No,0
+25-02-2024,West,Mumbai,Electronics,Laptop,New,UPI,Delivered,Karan,8,8,4530.79,36246.32,No,0
+15-12-2024,West,Mumbai,Home,Table,Returning,Card,Pending,Priya,8,8,556.66,4453.28,No,0
+16-04-2024,West,Mumbai,Sports,Bat,New,UPI,Shipped,Rohit,1,1,1186.73,1186.73,No,0
+17-02-2024,South,Chennai,Groceries,Rice,New,Net Banking,Pending,Rohit,4,4,4104.8,16419.2,No,0
+26-07-2025,South,Chennai,Electronics,Tablet,New,Cash,Delivered,Priya,4,4,2305.29,9221.16,No,0
+02-12-2024,South,Chennai,Electronics,Phone,New,Net Banking,Pending,Sneha,5,5,509.27,2546.35,No,0
+26-01-2024,West,Pune,Electronics,Tablet,New,Net Banking,Delivered,Karan,7,7,351.34,2459.38,No,0
+13-09-2024,East,Bhubaneswar,Groceries,Milk,New,Net Banking,Pending,Karan,5,5,3664.89,18324.45,No,0
+08-01-2024,West,Pune,Groceries,Rice,Returning,Net Banking,Pending,Rohit,4,4,890.7,3562.8,No,0
+16-09-2025,East,Bhubaneswar,Electronics,Tablet,Returning,Cash,Pending,Rohit,5,5,3824.79,19123.95,No,0
+09-09-2024,East,Bhubaneswar,Electronics,Tablet,New,Cash,Pending,Karan,4,4,3696.14,14784.56,No,0
+22-11-2025,North,Delhi,Sports,Shoes,New,UPI,Shipped,Priya,2,2,2101.43,4202.86,No,0
+19-12-2025,North,Delhi,Groceries,Rice,Returning,Card,Shipped,Rohit,5,5,4154.05,20770.25,No,0
+29-10-2024,East,Bhubaneswar,Home,Table,New,Card,Delivered,Sneha,3,3,3516.1,10548.3,No,0
+30-09-2025,North,Delhi,Sports,Shoes,New,Cash,Pending,Karan,6,6,1373.16,8238.96,No,0
+25-02-2024,West,Pune,Electronics,Laptop,Returning,Cash,Shipped,Priya,4,4,1628.37,6513.48,No,0
+26-12-2025,South,Chennai,Sports,Ball,New,Card,Pending,Sneha,3,3,2115.39,6346.17,No,0
+09-06-2025,West,Pune,Fashion,Jeans,New,Net Banking,Delivered,Karan,9,9,791.43,7122.87,No,0
+18-04-2025,West,Mumbai,Groceries,Oil,New,Net Banking,Shipped,Karan,2,2,2045.26,4090.52,No,0
+28-01-2024,South,Bangalore,Sports,Ball,New,Card,Delivered,Amit,5,5,501.92,2509.6,Yes,2489.03
+18-03-2024,South,Bangalore,Home,Table,Returning,Net Banking,Shipped,Sneha,9,9,865.39,7788.51,No,0
+03-08-2024,North,Chandigarh,Home,Table,New,Card,Pending,Sneha,3,3,928.4,2785.2,No,0
+20-01-2025,North,Chandigarh,Home,Table,Returning,UPI,Delivered,Karan,3,3,2931.25,8793.75,No,0
+30-12-2024,East,Kolkata,Sports,Ball,New,UPI,Pending,Priya,3,3,4927.36,14782.08,No,0
+27-10-2025,East,Kolkata,Groceries,Oil,Returning,UPI,Delivered,Sneha,4,4,2287.57,9150.28,No,0
+09-06-2025,North,Delhi,Electronics,Phone,Returning,Net Banking,Delivered,Karan,8,8,2864.74,22917.92,No,0
+29-11-2025,West,Mumbai,Groceries,Rice,New,UPI,Shipped,Karan,7,7,4678.72,32751.04,No,0
+07-11-2024,West,Mumbai,Sports,Ball,New,UPI,Delivered,Sneha,1,1,732.95,732.95,No,0
+07-01-2024,West,Pune,Home,Table,New,Cash,Pending,Amit,7,7,179.38,1255.66,No,0
+03-01-2024,East,Kolkata,Fashion,Shirt,Returning,Card,Delivered,Karan,1,1,4460.58,4460.58,No,0
+14-09-2025,East,Bhubaneswar,Groceries,Rice,Returning,Card,Shipped,Sneha,1,1,3295.26,3295.26,No,0
+28-12-2024,North,Delhi,Electronics,Laptop,Returning,Cash,Delivered,Rohit,7,7,1339.83,9378.81,No,0
+22-05-2025,East,Kolkata,Home,Table,New,Card,Shipped,Sneha,3,3,717.18,2151.54,No,0
+30-09-2024,North,Delhi,Groceries,Oil,Returning,Net Banking,Delivered,Sneha,3,3,1689.21,5067.63,No,0
+20-05-2025,West,Pune,Sports,Bat,Returning,Cash,Shipped,Amit,1,1,4725.25,4725.25,No,0
+15-01-2024,North,Delhi,Electronics,Tablet,New,UPI,Shipped,Amit,2,2,2919.26,5838.52,No,0
+10-07-2024,South,Chennai,Home,Table,Returning,UPI,Pending,Sneha,6,6,802.64,4815.84,Yes,2751.06
+22-09-2025,South,Bangalore,Groceries,Rice,New,Net Banking,Delivered,Karan,8,8,1686.72,13493.76,No,0
+29-04-2025,East,Kolkata,Electronics,Tablet,Returning,Card,Pending,Rohit,6,6,1171.7,7030.2,Yes,2142.66
+28-01-2024,East,Kolkata,Sports,Shoes,New,Cash,Shipped,Karan,6,6,697.84,4187.04,No,0
+14-12-2025,East,Bhubaneswar,Fashion,Jeans,Returning,Card,Delivered,Sneha,9,9,4984.86,44863.74,No,0
+08-02-2024,West,Mumbai,Fashion,Shirt,New,Net Banking,Shipped,Priya,9,9,4651.41,41862.69,No,0
+29-09-2024,North,Chandigarh,Sports,Ball,New,UPI,Delivered,Sneha,9,9,3151.39,28362.51,No,0
+18-08-2024,South,Chennai,Groceries,Oil,Returning,Cash,Pending,Karan,4,4,2465.3,9861.2,No,0
+26-03-2024,West,Mumbai,Groceries,Oil,Returning,Card,Shipped,Rohit,3,3,2785.91,8357.73,No,0
+18-04-2025,West,Pune,Groceries,Milk,New,Card,Pending,Karan,2,2,3352.74,6705.48,No,0
+05-05-2024,North,Chandigarh,Fashion,Shoes,Returning,Card,Delivered,Karan,5,5,2926.72,14633.6,No,0
+20-06-2025,West,Mumbai,Home,Table,New,Card,Delivered,Amit,8,8,1877.49,15019.92,No,0
+24-05-2024,North,Chandigarh,Fashion,Shirt,Returning,UPI,Pending,Rohit,5,5,3044.47,15222.35,No,0
+08-06-2025,East,Bhubaneswar,Sports,Bat,New,Net Banking,Delivered,Priya,6,6,802.08,4812.48,No,0
+30-07-2024,North,Chandigarh,Home,Table,New,Cash,Pending,Sneha,4,4,3661.51,14646.04,No,0
+25-01-2024,South,Bangalore,Home,Lamp,New,Card,Pending,Amit,4,4,3066.86,12267.44,No,0
+02-08-2025,West,Mumbai,Fashion,Shirt,New,Net Banking,Shipped,Priya,4,4,3110.98,12443.92,No,0
+28-01-2025,West,Pune,Home,Table,Returning,Card,Pending,Rohit,7,7,105.45,738.15,No,0
+07-03-2024,East,Kolkata,Fashion,Shirt,New,Net Banking,Shipped,Karan,5,5,3342.99,16714.95,No,0
+20-08-2024,West,Mumbai,Sports,Ball,Returning,UPI,Shipped,Rohit,7,7,179.59,1257.13,No,0
+18-04-2024,East,Bhubaneswar,Electronics,Phone,New,Card,Delivered,Karan,1,1,3358.77,3358.77,No,0
+25-05-2024,South,Chennai,Fashion,Jeans,New,UPI,Delivered,Rohit,7,7,718.73,5031.11,No,0
+20-04-2024,West,Pune,Electronics,Laptop,Returning,UPI,Shipped,Rohit,1,1,4174.44,4174.44,No,0
+15-08-2024,East,Kolkata,Home,Lamp,Returning,Card,Pending,Karan,2,2,1659.48,3318.96,No,0
+20-04-2024,South,Bangalore,Electronics,Phone,Returning,Card,Shipped,Karan,7,7,3671.8,25702.6,No,0
+14-04-2025,East,Bhubaneswar,Fashion,Shoes,New,Net Banking,Delivered,Rohit,1,1,166.81,166.81,No,0
+03-02-2024,West,Mumbai,Groceries,Milk,Returning,UPI,Shipped,Rohit,3,3,826.27,2478.81,No,0
+14-09-2025,East,Kolkata,Fashion,Shirt,New,UPI,Delivered,Amit,8,8,4482.58,35860.64,No,0
+03-01-2025,South,Chennai,Groceries,Rice,Returning,Cash,Delivered,Sneha,5,5,2620.86,13104.3,No,0
+17-08-2025,South,Bangalore,Sports,Ball,New,UPI,Pending,Priya,9,9,1981.81,17836.29,No,0
+07-07-2025,North,Chandigarh,Sports,Shoes,New,Card,Pending,Sneha,5,5,2004.76,10023.8,No,0
+28-02-2025,West,Pune,Groceries,Oil,Returning,Cash,Pending,Karan,7,7,2452.23,17165.61,No,0
+04-09-2025,East,Bhubaneswar,Home,Lamp,New,Net Banking,Pending,Priya,7,7,4937.95,34565.65,No,0
+01-06-2025,South,Chennai,Electronics,Laptop,Returning,UPI,Delivered,Sneha,6,6,4380.73,26284.38,No,0
+22-11-2025,South,Chennai,Sports,Bat,Returning,Net Banking,Delivered,Amit,3,3,4081.12,12243.36,No,0
+08-10-2024,West,Mumbai,Groceries,Oil,Returning,Net Banking,Delivered,Karan,1,1,2073.25,2073.25,No,0
+15-11-2024,North,Delhi,Fashion,Shoes,Returning,Card,Pending,Amit,6,6,3002.28,18013.68,No,0
+18-03-2025,South,Bangalore,Home,Lamp,New,Net Banking,Pending,Amit,1,1,3198.74,3198.74,No,0
+10-11-2024,South,Chennai,Fashion,Jeans,New,Net Banking,Delivered,Rohit,4,4,3533,14132,No,0
+11-01-2025,East,Kolkata,Fashion,Jeans,Returning,Net Banking,Shipped,Amit,4,4,2187.09,8748.36,No,0
+15-10-2024,West,Pune,Groceries,Oil,Returning,Net Banking,Pending,Priya,9,9,1494.25,13448.25,No,0
+12-03-2025,South,Bangalore,Groceries,Rice,New,Net Banking,Pending,Karan,5,5,4002.89,20014.45,No,0
+23-10-2025,West,Mumbai,Home,Lamp,New,Net Banking,Shipped,Priya,8,8,715.19,5721.52,No,0
+03-10-2024,North,Delhi,Groceries,Milk,New,UPI,Shipped,Karan,3,3,2444.61,7333.83,No,0
+10-12-2025,East,Kolkata,Groceries,Rice,New,Net Banking,Shipped,Priya,9,9,521.56,4694.04,Yes,1334.92
+04-08-2025,East,Bhubaneswar,Sports,Bat,Returning,Card,Delivered,Amit,7,7,1245.33,8717.31,No,0
+17-05-2025,East,Kolkata,Electronics,Laptop,Returning,UPI,Pending,Amit,6,6,2663.74,15982.44,No,0
+15-09-2025,North,Delhi,Sports,Shoes,New,UPI,Pending,Amit,6,6,1336.33,8017.98,No,0
+30-05-2025,East,Bhubaneswar,Sports,Ball,New,Card,Pending,Amit,1,1,4887.46,4887.46,No,0
+15-12-2024,East,Bhubaneswar,Groceries,Milk,New,Cash,Delivered,Rohit,4,4,3678.09,14712.36,No,0
+21-03-2025,West,Mumbai,Groceries,Oil,New,UPI,Pending,Rohit,7,7,2384.29,16690.03,No,0
+15-12-2024,West,Pune,Electronics,Tablet,Returning,Cash,Shipped,Amit,6,6,2826.68,16960.08,No,0
+29-08-2025,East,Kolkata,Electronics,Phone,New,Net Banking,Delivered,Sneha,5,5,2695.6,13478,No,0
+25-10-2025,East,Kolkata,Sports,Shoes,Returning,UPI,Shipped,Amit,9,9,4878.38,43905.42,No,0
+16-05-2024,East,Kolkata,Fashion,Shirt,New,Card,Pending,Amit,6,6,1723.63,10341.78,No,0
+30-08-2024,East,Bhubaneswar,Fashion,Shoes,New,UPI,Pending,Rohit,1,1,3412.91,3412.91,No,0
+26-06-2025,South,Chennai,Sports,Shoes,New,Cash,Delivered,Karan,6,6,2797.31,16783.86,No,0
+09-02-2024,East,Bhubaneswar,Sports,Ball,Returning,Card,Pending,Priya,2,2,2964.26,5928.52,No,0
+16-08-2024,East,Bhubaneswar,Sports,Ball,Returning,Cash,Delivered,Amit,9,9,403.98,3635.82,No,0
+01-07-2025,West,Mumbai,Groceries,Oil,New,UPI,Delivered,Karan,4,4,913.66,3654.64,Yes,2190.75
+10-08-2024,West,Mumbai,Sports,Shoes,New,Card,Pending,Karan,3,3,2313.52,6940.56,No,0
+06-01-2024,East,Kolkata,Groceries,Oil,New,Cash,Pending,Rohit,8,8,4930.45,39443.6,Yes,27262.77
+17-11-2024,East,Kolkata,Fashion,Shoes,New,UPI,Shipped,Sneha,5,5,2265.96,11329.8,No,0
+12-04-2025,North,Delhi,Home,Chair,New,Card,Delivered,Amit,6,6,2331.38,13988.28,No,0
+15-03-2024,East,Kolkata,Fashion,Shirt,Returning,Card,Shipped,Rohit,7,7,3278.95,22952.65,No,0
+04-01-2024,North,Delhi,Electronics,Phone,Returning,UPI,Shipped,Karan,9,9,984.54,8860.86,No,0
+07-10-2025,South,Chennai,Fashion,Jeans,New,Cash,Shipped,Karan,2,2,2067.16,4134.32,No,0
+27-04-2024,South,Chennai,Electronics,Laptop,Returning,Net Banking,Shipped,Amit,1,1,896.44,896.44,No,0
+28-08-2025,South,Bangalore,Home,Table,Returning,Net Banking,Delivered,Amit,4,4,3698.39,14793.56,No,0
+18-05-2025,South,Chennai,Home,Chair,New,Cash,Pending,Priya,4,4,2806.59,11226.36,No,0
+27-07-2025,West,Pune,Home,Table,New,Cash,Pending,Rohit,9,9,583.11,5247.99,No,0
+16-03-2025,South,Bangalore,Sports,Shoes,New,Cash,Delivered,Rohit,8,8,4034.76,32278.08,No,0
+12-07-2024,South,Bangalore,Groceries,Milk,New,Card,Pending,Priya,9,9,2041.93,18377.37,No,0
+15-12-2025,West,Pune,Electronics,Phone,Returning,UPI,Pending,Rohit,3,3,842.08,2526.24,No,0
+26-01-2025,South,Chennai,Groceries,Oil,New,Card,Delivered,Amit,4,4,3110.56,12442.24,No,0
+26-01-2024,East,Kolkata,Home,Lamp,New,Card,Shipped,Amit,7,7,2562.21,17935.47,No,0
+10-03-2025,North,Chandigarh,Sports,Bat,Returning,Card,Shipped,Sneha,6,6,2436.51,14619.06,No,0
+21-06-2024,North,Delhi,Sports,Ball,Returning,Cash,Delivered,Sneha,4,4,3939,15756,No,0
+26-10-2024,East,Kolkata,Sports,Shoes,New,Cash,Shipped,Sneha,7,7,3424.61,23972.27,No,0
+06-10-2025,East,Kolkata,Home,Lamp,Returning,Cash,Delivered,Amit,7,7,1695.86,11871.02,No,0
+21-11-2024,West,Mumbai,Electronics,Laptop,Returning,Cash,Pending,Priya,8,8,4028.25,32226,No,0
+13-02-2025,East,Bhubaneswar,Electronics,Phone,Returning,Cash,Pending,Amit,2,2,2945.16,5890.32,No,0
+27-04-2024,South,Bangalore,Groceries,Oil,Returning,Net Banking,Shipped,Rohit,9,9,4485.82,40372.38,No,0
+24-12-2025,North,Chandigarh,Electronics,Laptop,Returning,Net Banking,Delivered,Rohit,6,6,3127.86,18767.16,No,0
+12-08-2024,West,Mumbai,Fashion,Shoes,Returning,UPI,Shipped,Rohit,6,6,522.05,3132.3,No,0
+15-06-2025,East,Bhubaneswar,Fashion,Jeans,Returning,Cash,Shipped,Sneha,1,1,2877.77,2877.77,No,0
+22-04-2024,West,Mumbai,Electronics,Laptop,Returning,Card,Pending,Sneha,2,2,3255.39,6510.78,No,0
+19-05-2024,South,Bangalore,Home,Lamp,New,Cash,Shipped,Rohit,6,6,722.77,4336.62,No,0
+12-07-2025,East,Bhubaneswar,Electronics,Phone,Returning,Card,Pending,Sneha,2,2,1977.76,3955.52,No,0
+01-01-2024,West,Pune,Fashion,Shirt,New,Card,Delivered,Sneha,1,1,4193.33,4193.33,No,0
+30-03-2024,North,Delhi,Home,Table,New,Net Banking,Pending,Karan,4,4,1077.12,4308.48,No,0
+15-10-2025,East,Bhubaneswar,Groceries,Milk,Returning,UPI,Pending,Priya,2,2,4018.94,8037.88,No,0
+15-11-2024,East,Bhubaneswar,Fashion,Shoes,Returning,Cash,Delivered,Karan,6,6,2383.97,14303.82,No,0
+03-07-2025,North,Delhi,Home,Lamp,Returning,Cash,Delivered,Priya,5,5,2129.29,10646.45,No,0
+18-05-2024,South,Chennai,Groceries,Milk,New,Card,Shipped,Karan,7,7,3064.94,21454.58,No,0
+25-05-2025,East,Kolkata,Groceries,Milk,Returning,Cash,Delivered,Sneha,7,7,2443.84,17106.88,Yes,14638.15
+15-09-2024,West,Mumbai,Electronics,Phone,New,UPI,Shipped,Priya,5,5,3061.36,15306.8,No,0
+03-11-2025,North,Chandigarh,Home,Lamp,Returning,Card,Shipped,Amit,7,7,1931.66,13521.62,No,0
+20-11-2025,East,Kolkata,Electronics,Phone,New,Net Banking,Pending,Karan,3,3,1003.85,3011.55,No,0
+10-01-2024,West,Pune,Groceries,Oil,New,Net Banking,Delivered,Amit,3,3,350.64,1051.92,No,0
+17-09-2024,South,Chennai,Sports,Shoes,Returning,Net Banking,Shipped,Amit,3,3,4429.47,13288.41,No,0
+11-10-2025,North,Chandigarh,Groceries,Milk,New,Net Banking,Pending,Karan,4,4,2424.73,9698.92,Yes,2140.04
+20-06-2024,North,Delhi,Fashion,Shoes,New,Card,Pending,Priya,8,8,2911.94,23295.52,No,0
+13-01-2024,West,Mumbai,Groceries,Milk,New,Net Banking,Pending,Amit,9,9,2833.58,25502.22,No,0
+16-06-2024,South,Bangalore,Home,Chair,Returning,Cash,Delivered,Rohit,9,9,4595.96,41363.64,No,0
+03-10-2025,West,Pune,Electronics,Tablet,New,Card,Pending,Karan,2,2,1007.86,2015.72,No,0
+18-08-2025,North,Delhi,Fashion,Jeans,Returning,Cash,Delivered,Karan,5,5,2310.85,11554.25,No,0
+16-11-2024,South,Chennai,Electronics,Phone,New,Net Banking,Shipped,Amit,8,8,1553.4,12427.2,Yes,4174.42
+14-11-2024,West,Mumbai,Sports,Shoes,New,Card,Delivered,Amit,1,1,4002.77,4002.77,No,0
+04-09-2025,North,Chandigarh,Electronics,Laptop,New,Cash,Shipped,Rohit,9,9,913.77,8223.93,Yes,6189.17
+24-11-2024,West,Mumbai,Groceries,Oil,New,UPI,Shipped,Rohit,5,5,4750.01,23750.05,No,0
+03-07-2025,West,Mumbai,Home,Table,Returning,UPI,Shipped,Amit,2,2,3394.71,6789.42,No,0
+22-02-2025,North,Delhi,Electronics,Phone,Returning,Card,Pending,Sneha,3,3,1722.62,5167.86,No,0
+28-08-2025,East,Bhubaneswar,Fashion,Shirt,New,UPI,Shipped,Priya,9,9,2135.67,19221.03,Yes,9001.16
+04-04-2024,South,Bangalore,Fashion,Shoes,Returning,Net Banking,Pending,Amit,9,9,582.28,5240.52,No,0
+03-08-2025,East,Kolkata,Home,Table,New,Cash,Pending,Karan,8,8,2794.33,22354.64,No,0
+13-11-2024,West,Pune,Fashion,Shoes,Returning,Net Banking,Shipped,Sneha,7,7,2026.42,14184.94,No,0
+23-08-2024,South,Chennai,Fashion,Jeans,Returning,Net Banking,Pending,Sneha,9,9,349.78,3148.02,No,0
+29-11-2024,West,Pune,Electronics,Tablet,New,Cash,Delivered,Karan,2,2,3419.97,6839.94,No,0
+10-01-2025,West,Mumbai,Home,Lamp,New,Net Banking,Pending,Karan,2,2,1726.73,3453.46,No,0
+03-04-2025,North,Chandigarh,Electronics,Tablet,New,Cash,Delivered,Rohit,2,2,3175.95,6351.9,No,0
+16-05-2024,South,Chennai,Groceries,Rice,New,UPI,Delivered,Rohit,3,3,4963.32,14889.96,No,0
+10-08-2025,West,Pune,Electronics,Phone,Returning,Cash,Delivered,Sneha,6,6,3678.19,22069.14,No,0
+30-06-2025,South,Chennai,Fashion,Jeans,New,Cash,Shipped,Sneha,1,1,2107.4,2107.4,No,0
+27-05-2025,West,Mumbai,Groceries,Oil,Returning,UPI,Shipped,Sneha,7,7,181.71,1271.97,No,0
+22-10-2024,West,Mumbai,Fashion,Shirt,New,UPI,Pending,Amit,7,7,1435.99,10051.93,No,0
+15-11-2024,East,Bhubaneswar,Electronics,Laptop,Returning,Net Banking,Shipped,Karan,1,1,4179.8,4179.8,No,0
+25-07-2025,South,Bangalore,Home,Table,New,UPI,Pending,Amit,1,1,4790.27,4790.27,No,0
+14-12-2024,West,Mumbai,Groceries,Milk,Returning,Card,Shipped,Rohit,3,3,2352.26,7056.78,No,0
+16-08-2024,East,Kolkata,Home,Table,New,Cash,Delivered,Sneha,7,7,2885.91,20201.37,Yes,14267.06
+26-09-2024,West,Pune,Sports,Ball,Returning,UPI,Pending,Karan,3,3,2040.4,6121.2,No,0
+17-10-2024,South,Bangalore,Electronics,Phone,Returning,Card,Delivered,Sneha,7,7,4751.44,33260.08,No,0
+25-12-2025,South,Bangalore,Electronics,Laptop,Returning,Net Banking,Pending,Priya,8,8,725.09,5800.72,No,0
+13-06-2024,West,Pune,Fashion,Shoes,New,Net Banking,Pending,Karan,6,6,1841.65,11049.9,No,0
+05-01-2024,South,Bangalore,Sports,Bat,New,Net Banking,Shipped,Amit,7,7,2986.2,20903.4,No,0
+13-01-2025,South,Chennai,Home,Chair,Returning,Net Banking,Shipped,Karan,2,2,2920.41,5840.82,No,0
+18-03-2024,South,Bangalore,Electronics,Tablet,Returning,Card,Shipped,Priya,9,9,1074.19,9667.71,No,0
+13-02-2025,East,Bhubaneswar,Sports,Bat,New,UPI,Shipped,Priya,2,2,438.85,877.7,No,0
+27-07-2025,South,Bangalore,Electronics,Phone,New,UPI,Delivered,Amit,3,3,1838.68,5516.04,No,0
+11-05-2024,North,Chandigarh,Groceries,Oil,New,Card,Shipped,Priya,4,4,3526.76,14107.04,No,0
+23-08-2025,East,Kolkata,Fashion,Jeans,New,UPI,Pending,Karan,5,5,2880.22,14401.1,No,0
+11-02-2024,North,Chandigarh,Electronics,Laptop,Returning,Card,Pending,Amit,8,8,3089.53,24716.24,No,0
+29-03-2024,West,Pune,Electronics,Tablet,Returning,Cash,Shipped,Amit,7,7,1654.8,11583.6,No,0
+05-02-2025,East,Kolkata,Home,Chair,Returning,Cash,Pending,Priya,1,1,3500.69,3500.69,No,0
+22-10-2024,East,Kolkata,Groceries,Milk,New,Cash,Delivered,Rohit,2,2,2136.02,4272.04,No,0
+21-10-2024,North,Delhi,Groceries,Milk,New,Card,Shipped,Priya,6,6,547.41,3284.46,No,0
+07-09-2025,South,Bangalore,Electronics,Phone,New,Net Banking,Pending,Priya,2,2,4713.22,9426.44,No,0
+09-06-2025,West,Mumbai,Groceries,Oil,Returning,UPI,Shipped,Sneha,3,3,398.42,1195.26,Yes,922.18
+21-11-2025,North,Delhi,Electronics,Tablet,New,UPI,Pending,Rohit,4,4,2096.09,8384.36,No,0
+28-09-2025,West,Pune,Groceries,Milk,Returning,Cash,Shipped,Priya,1,1,1061.84,1061.84,Yes,944.33
+25-02-2025,North,Chandigarh,Sports,Bat,New,Net Banking,Pending,Rohit,2,2,4464.23,8928.46,No,0
+23-01-2024,West,Mumbai,Home,Table,Returning,Card,Shipped,Karan,3,3,4061.13,12183.39,No,0
+28-07-2025,North,Delhi,Electronics,Laptop,New,Cash,Shipped,Priya,6,6,4573.9,27443.4,No,0
+22-05-2024,South,Bangalore,Sports,Bat,Returning,Card,Pending,Amit,3,3,906.64,2719.92,No,0
+26-10-2025,East,Kolkata,Electronics,Phone,Returning,Card,Shipped,Sneha,8,8,1309.6,10476.8,No,0
+24-05-2024,East,Bhubaneswar,Sports,Bat,Returning,Net Banking,Delivered,Rohit,6,6,2989.3,17935.8,Yes,15518.64
+12-08-2024,West,Mumbai,Groceries,Rice,Returning,UPI,Delivered,Amit,7,7,3643.05,25501.35,No,0
+17-05-2025,South,Bangalore,Electronics,Tablet,Returning,Net Banking,Pending,Rohit,9,9,1148.57,10337.13,No,0
+07-09-2025,South,Bangalore,Groceries,Rice,New,UPI,Pending,Rohit,4,4,1865.84,7463.36,No,0
+13-04-2024,South,Chennai,Home,Table,New,Card,Pending,Sneha,4,4,3281.96,13127.84,No,0
+08-02-2024,West,Pune,Groceries,Rice,New,UPI,Delivered,Priya,9,9,1538.32,13844.88,No,0
+16-07-2024,South,Bangalore,Fashion,Jeans,New,Net Banking,Delivered,Sneha,3,3,2831.28,8493.84,No,0
+07-10-2025,East,Kolkata,Sports,Bat,New,Cash,Shipped,Sneha,5,5,2866.49,14332.45,No,0
+01-08-2025,North,Chandigarh,Groceries,Oil,New,Card,Pending,Sneha,2,2,4098.79,8197.58,Yes,6465.71
+25-01-2025,South,Bangalore,Sports,Ball,New,Net Banking,Pending,Karan,9,9,4410.79,39697.11,Yes,15278.02
+27-06-2024,North,Chandigarh,Sports,Shoes,Returning,Cash,Delivered,Karan,9,9,774.39,6969.51,Yes,6429.92
+07-07-2025,North,Chandigarh,Groceries,Oil,Returning,UPI,Pending,Sneha,4,4,2550.29,10201.16,No,0
+23-03-2025,West,Pune,Groceries,Milk,New,Cash,Shipped,Rohit,8,8,297.42,2379.36,No,0
+14-05-2025,North,Delhi,Electronics,Laptop,New,Cash,Shipped,Priya,6,6,2112.34,12674.04,No,0
+15-01-2024,South,Chennai,Fashion,Shirt,New,Card,Pending,Priya,8,8,4038.4,32307.2,No,0
+14-09-2025,South,Chennai,Electronics,Laptop,Returning,UPI,Pending,Amit,3,3,4442.81,13328.43,No,0
+30-10-2025,South,Bangalore,Electronics,Laptop,New,Net Banking,Shipped,Priya,2,2,1709.93,3419.86,Yes,1183.16
+15-10-2024,North,Delhi,Electronics,Laptop,New,Card,Delivered,Rohit,9,9,3673.62,33062.58,No,0
+22-04-2025,East,Kolkata,Groceries,Rice,New,UPI,Delivered,Karan,7,7,2571.83,18002.81,No,0
+18-08-2024,West,Pune,Electronics,Phone,New,Card,Delivered,Karan,2,2,1112.25,2224.5,No,0
+23-02-2025,South,Chennai,Electronics,Laptop,New,UPI,Pending,Priya,5,5,1237.9,6189.5,No,0
+05-06-2024,West,Pune,Groceries,Milk,New,Card,Pending,Amit,3,3,2664.7,7994.1,No,0
+03-07-2025,South,Bangalore,Fashion,Jeans,Returning,UPI,Shipped,Sneha,8,8,4143.54,33148.32,No,0
+16-03-2025,North,Chandigarh,Home,Table,Returning,Card,Shipped,Priya,7,7,3849.45,26946.15,No,0
+06-04-2024,South,Chennai,Home,Lamp,New,Card,Shipped,Sneha,3,3,4785.83,14357.49,No,0
+14-02-2025,East,Kolkata,Electronics,Laptop,Returning,Card,Shipped,Amit,3,3,3961.05,11883.15,No,0
+15-10-2024,North,Chandigarh,Groceries,Rice,New,Net Banking,Shipped,Sneha,6,6,634.17,3805.02,No,0
+10-09-2024,North,Delhi,Electronics,Phone,New,Net Banking,Pending,Amit,4,4,2479.67,9918.68,No,0
+14-07-2024,West,Mumbai,Fashion,Shirt,New,UPI,Pending,Amit,7,7,4300.43,30103.01,No,0
+20-08-2025,North,Chandigarh,Electronics,Tablet,New,Card,Delivered,Sneha,9,9,4567.91,41111.19,No,0
+05-06-2025,South,Bangalore,Groceries,Rice,New,Cash,Shipped,Rohit,6,6,3444.45,20666.7,No,0
+31-05-2025,West,Pune,Groceries,Rice,New,Cash,Delivered,Priya,1,1,3379.85,3379.85,No,0
+26-09-2025,South,Chennai,Sports,Ball,New,Cash,Delivered,Amit,3,3,1599.63,4798.89,Yes,1639.79
+27-04-2024,South,Chennai,Home,Lamp,New,UPI,Pending,Karan,3,3,4766.7,14300.1,No,0
+07-06-2024,East,Bhubaneswar,Home,Lamp,Returning,Cash,Shipped,Priya,8,8,1254.55,10036.4,No,0
+15-08-2024,South,Chennai,Fashion,Jeans,New,Cash,Delivered,Amit,3,3,4734.17,14202.51,No,0
+03-08-2024,West,Pune,Groceries,Milk,Returning,Net Banking,Shipped,Rohit,7,7,745.27,5216.89,No,0
+26-11-2025,East,Bhubaneswar,Electronics,Tablet,Returning,Cash,Pending,Amit,8,8,3420.84,27366.72,No,0
+15-01-2024,North,Delhi,Electronics,Phone,Returning,Net Banking,Pending,Priya,3,3,927.41,2782.23,Yes,2153.37
+05-06-2024,South,Chennai,Sports,Shoes,New,Net Banking,Pending,Rohit,6,6,531.95,3191.7,No,0
+09-10-2025,North,Chandigarh,Sports,Bat,New,Net Banking,Shipped,Rohit,5,5,3216.63,16083.15,No,0
+17-09-2024,West,Pune,Sports,Bat,New,Card,Delivered,Priya,5,5,2604.46,13022.3,No,0
+05-06-2024,South,Chennai,Fashion,Shirt,Returning,UPI,Delivered,Priya,3,3,3986.01,11958.03,No,0
+16-02-2024,East,Bhubaneswar,Fashion,Shoes,Returning,Net Banking,Shipped,Priya,3,3,3576.01,10728.03,No,0
+19-11-2024,South,Chennai,Fashion,Shirt,New,UPI,Delivered,Karan,4,4,2397.07,9588.28,No,0
+15-11-2025,North,Delhi,Groceries,Rice,Returning,UPI,Shipped,Priya,1,1,1590.79,1590.79,No,0
+09-05-2024,East,Bhubaneswar,Sports,Ball,New,Cash,Shipped,Amit,2,2,2098.11,4196.22,No,0
+14-02-2025,East,Bhubaneswar,Fashion,Shirt,Returning,Card,Shipped,Rohit,6,6,1814,10884,No,0
+04-04-2024,East,Kolkata,Sports,Bat,Returning,Cash,Shipped,Amit,7,7,1425.74,9980.18,No,0
+18-09-2025,East,Bhubaneswar,Sports,Ball,Returning,Net Banking,Shipped,Amit,9,9,748.21,6733.89,No,0
+18-10-2024,East,Kolkata,Sports,Ball,New,Cash,Shipped,Karan,4,4,2766.86,11067.44,No,0
+09-10-2024,West,Mumbai,Fashion,Shoes,New,Cash,Shipped,Rohit,9,9,940.82,8467.38,No,0
+09-03-2024,South,Bangalore,Electronics,Laptop,New,Cash,Pending,Amit,7,7,4411.58,30881.06,No,0
+21-10-2025,East,Bhubaneswar,Home,Chair,New,Card,Delivered,Priya,9,9,778.02,7002.18,No,0
+11-01-2024,East,Kolkata,Home,Table,Returning,Card,Shipped,Sneha,6,6,2422.63,14535.78,No,0
+10-09-2024,West,Pune,Sports,Ball,New,UPI,Shipped,Sneha,9,9,3017.3,27155.7,No,0
+03-07-2025,West,Mumbai,Electronics,Laptop,Returning,Card,Pending,Amit,5,5,2112.48,10562.4,No,0
+13-05-2024,South,Chennai,Sports,Ball,Returning,Card,Delivered,Sneha,5,5,4119.24,20596.2,No,0
+12-12-2025,West,Pune,Groceries,Rice,New,Net Banking,Shipped,Sneha,1,1,773.07,773.07,No,0
+23-01-2024,West,Pune,Fashion,Shoes,Returning,Card,Delivered,Sneha,7,7,3785.36,26497.52,No,0
+11-12-2024,North,Chandigarh,Electronics,Phone,Returning,UPI,Shipped,Karan,2,2,3757.18,7514.36,No,0
+28-10-2024,East,Kolkata,Home,Table,New,Net Banking,Pending,Rohit,9,9,2232.79,20095.11,No,0
+28-12-2024,West,Mumbai,Sports,Shoes,Returning,Net Banking,Delivered,Amit,3,3,368.19,1104.57,No,0
+30-01-2025,South,Bangalore,Sports,Ball,Returning,Cash,Pending,Karan,5,5,4324.17,21620.85,No,0
+05-08-2024,South,Bangalore,Groceries,Rice,New,Cash,Pending,Sneha,4,4,2613.6,10454.4,No,0
+20-05-2024,East,Bhubaneswar,Sports,Bat,New,Net Banking,Shipped,Karan,2,2,922.29,1844.58,No,0
+07-09-2025,South,Bangalore,Fashion,Shirt,New,UPI,Delivered,Rohit,1,1,3647.74,3647.74,No,0
+28-07-2024,North,Chandigarh,Electronics,Laptop,Returning,UPI,Pending,Priya,1,1,3557.26,3557.26,No,0
+14-09-2025,East,Bhubaneswar,Groceries,Oil,New,UPI,Delivered,Amit,2,2,457.72,915.44,No,0
+07-09-2025,South,Chennai,Fashion,Jeans,Returning,Net Banking,Delivered,Rohit,1,1,3621.72,3621.72,No,0
+13-11-2025,North,Delhi,Electronics,Tablet,New,Net Banking,Delivered,Rohit,4,4,4597.42,18389.68,No,0
+04-04-2025,East,Bhubaneswar,Home,Chair,New,Net Banking,Shipped,Priya,2,2,363.77,727.54,No,0
+21-12-2024,East,Bhubaneswar,Electronics,Tablet,New,Cash,Shipped,Sneha,8,8,3160.85,25286.8,No,0
+19-11-2024,East,Kolkata,Groceries,Oil,New,Card,Delivered,Amit,6,6,1772.1,10632.6,No,0
+12-05-2024,East,Bhubaneswar,Sports,Bat,New,UPI,Pending,Karan,7,7,4093.85,28656.95,No,0
+06-05-2024,South,Chennai,Fashion,Shoes,New,Card,Shipped,Amit,2,2,4343.57,8687.14,Yes,7144.63
+15-04-2024,East,Bhubaneswar,Sports,Shoes,Returning,Net Banking,Shipped,Rohit,4,4,4945.32,19781.28,No,0
+26-08-2025,North,Delhi,Electronics,Laptop,Returning,UPI,Delivered,Rohit,7,7,3797.39,26581.73,No,0
+12-01-2025,North,Chandigarh,Fashion,Jeans,New,Cash,Delivered,Rohit,1,1,4443.86,4443.86,No,0
+20-02-2024,East,Kolkata,Sports,Shoes,New,Cash,Pending,Amit,2,2,577.1,1154.2,No,0
+29-01-2024,West,Mumbai,Fashion,Jeans,New,Net Banking,Pending,Karan,9,9,134.21,1207.89,No,0
+06-04-2025,South,Bangalore,Sports,Ball,New,UPI,Pending,Rohit,3,3,697.21,2091.63,Yes,1931.22
+22-10-2024,East,Kolkata,Sports,Bat,New,Card,Delivered,Priya,6,6,4960.26,29761.56,No,0
+23-10-2024,East,Bhubaneswar,Fashion,Jeans,New,Net Banking,Pending,Priya,1,1,1244.48,1244.48,Yes,435.19
+26-12-2025,South,Bangalore,Home,Chair,Returning,Net Banking,Pending,Karan,9,9,1527.67,13749.03,No,0
+10-02-2025,East,Bhubaneswar,Fashion,Jeans,Returning,Cash,Delivered,Rohit,6,6,4889.73,29338.38,No,0
+04-09-2025,West,Pune,Sports,Ball,New,Cash,Delivered,Karan,3,3,1717.76,5153.28,No,0
+08-02-2025,South,Chennai,Fashion,Shoes,New,Net Banking,Shipped,Rohit,2,2,1558.49,3116.98,No,0
+11-12-2024,East,Kolkata,Electronics,Laptop,Returning,Card,Pending,Priya,7,7,905.01,6335.07,No,0
+13-09-2025,South,Chennai,Home,Table,Returning,Net Banking,Pending,Amit,6,6,3617.87,21707.22,No,0
+23-02-2025,East,Kolkata,Sports,Ball,New,Net Banking,Shipped,Sneha,9,9,445.62,4010.58,No,0
+30-06-2024,West,Mumbai,Home,Chair,Returning,Cash,Shipped,Sneha,1,1,4124.13,4124.13,No,0
+01-01-2024,West,Pune,Groceries,Oil,New,UPI,Delivered,Priya,5,5,942.19,4710.95,No,0
+20-07-2025,East,Bhubaneswar,Home,Table,Returning,UPI,Pending,Priya,5,5,4312.26,21561.3,No,0
+05-01-2025,West,Mumbai,Sports,Shoes,Returning,Cash,Delivered,Karan,6,6,164.82,988.92,No,0
+22-10-2025,North,Chandigarh,Groceries,Oil,Returning,Net Banking,Shipped,Priya,1,1,4198.46,4198.46,No,0
+06-03-2025,South,Bangalore,Groceries,Oil,New,Net Banking,Pending,Amit,1,1,4116.16,4116.16,No,0
+04-11-2024,West,Mumbai,Groceries,Milk,New,Card,Pending,Sneha,5,5,1492.5,7462.5,No,0
+16-05-2024,West,Pune,Groceries,Oil,Returning,Card,Shipped,Amit,4,4,3797.23,15188.92,No,0
+20-07-2024,North,Chandigarh,Electronics,Phone,New,UPI,Delivered,Karan,3,3,3534.58,10603.74,No,0
+11-03-2025,North,Delhi,Home,Lamp,New,Cash,Shipped,Priya,1,1,2566.39,2566.39,No,0
+08-11-2024,East,Kolkata,Home,Lamp,New,Card,Pending,Karan,9,9,3263.12,29368.08,No,0
+26-04-2024,West,Mumbai,Fashion,Jeans,Returning,Cash,Pending,Sneha,5,5,2067.34,10336.7,No,0
+27-10-2025,South,Bangalore,Home,Table,Returning,Net Banking,Shipped,Amit,6,6,2126.23,12757.38,Yes,5347.77
+28-07-2025,North,Delhi,Fashion,Shoes,Returning,Cash,Pending,Sneha,7,7,1378.5,9649.5,No,0
+31-08-2024,East,Bhubaneswar,Electronics,Tablet,New,Card,Delivered,Sneha,1,1,311.19,311.19,No,0
+20-06-2025,North,Chandigarh,Sports,Bat,New,Cash,Delivered,Priya,9,9,3559.19,32032.71,No,0
+24-08-2025,East,Bhubaneswar,Sports,Shoes,New,Net Banking,Pending,Sneha,1,1,2589.89,2589.89,No,0
+15-03-2024,South,Chennai,Electronics,Phone,New,UPI,Pending,Karan,3,3,3175.58,9526.74,No,0
+20-01-2025,East,Bhubaneswar,Home,Lamp,New,Cash,Shipped,Rohit,2,2,2306.38,4612.76,No,0
+28-07-2024,South,Chennai,Electronics,Phone,Returning,Net Banking,Shipped,Sneha,7,7,4448.6,31140.2,No,0
+19-04-2025,South,Bangalore,Sports,Ball,Returning,Card,Delivered,Amit,2,2,4627.96,9255.92,No,0
+21-02-2025,North,Delhi,Electronics,Laptop,New,Cash,Pending,Rohit,4,4,3214.66,12858.64,No,0
+12-12-2024,South,Chennai,Groceries,Oil,New,Cash,Shipped,Rohit,7,7,4141.55,28990.85,No,0
+12-06-2025,West,Mumbai,Fashion,Jeans,Returning,Card,Pending,Karan,5,5,1972.41,9862.05,No,0
+01-10-2025,North,Chandigarh,Home,Chair,New,Card,Delivered,Amit,3,3,1263.67,3791.01,No,0
+27-06-2024,North,Chandigarh,Fashion,Shoes,New,Card,Pending,Karan,8,8,2973.91,23791.28,No,0
+30-06-2024,North,Chandigarh,Home,Chair,Returning,Net Banking,Delivered,Rohit,1,1,1046.48,1046.48,No,0
+25-10-2025,East,Kolkata,Electronics,Laptop,New,Card,Shipped,Amit,2,2,1953.3,3906.6,No,0
+25-01-2024,South,Bangalore,Fashion,Jeans,Returning,Net Banking,Delivered,Karan,9,9,3450.96,31058.64,Yes,23357.26
+28-06-2024,East,Bhubaneswar,Electronics,Phone,Returning,UPI,Shipped,Sneha,1,1,4282.91,4282.91,No,0
+10-12-2025,North,Delhi,Sports,Ball,New,UPI,Delivered,Priya,5,5,1995.36,9976.8,No,0
+15-05-2025,North,Delhi,Electronics,Phone,Returning,UPI,Pending,Sneha,8,8,1114.58,8916.64,No,0
+09-06-2024,South,Chennai,Fashion,Shirt,New,UPI,Pending,Priya,8,8,4563.05,36504.4,Yes,21431.3
+25-06-2024,East,Kolkata,Fashion,Shoes,New,Card,Pending,Amit,8,8,1607.63,12861.04,No,0
+11-10-2024,East,Kolkata,Home,Chair,Returning,Card,Shipped,Sneha,5,5,2895.01,14475.05,No,0
+03-03-2024,East,Kolkata,Groceries,Rice,New,Card,Shipped,Sneha,5,5,2778.72,13893.6,No,0
+23-10-2025,West,Pune,Fashion,Shirt,Returning,Cash,Delivered,Rohit,8,8,496.67,3973.36,No,0
+27-10-2025,East,Kolkata,Groceries,Milk,Returning,Card,Pending,Rohit,4,4,4590.8,18363.2,No,0
+04-06-2024,East,Bhubaneswar,Sports,Bat,New,Cash,Pending,Sneha,9,9,4462.16,40159.44,No,0
+13-04-2025,North,Delhi,Home,Lamp,New,UPI,Shipped,Sneha,4,4,4765.11,19060.44,No,0
+18-02-2024,West,Mumbai,Home,Lamp,Returning,Cash,Pending,Amit,8,8,2936.93,23495.44,Yes,10601.97
+24-03-2024,South,Chennai,Home,Table,New,Cash,Shipped,Karan,5,5,4375.87,21879.35,No,0
+26-12-2024,East,Kolkata,Home,Chair,Returning,UPI,Pending,Karan,9,9,3487.94,31391.46,No,0
+19-11-2025,South,Chennai,Sports,Bat,New,UPI,Delivered,Sneha,1,1,2279.78,2279.78,No,0
+27-05-2024,South,Bangalore,Home,Lamp,Returning,Net Banking,Pending,Amit,2,2,4594.38,9188.76,No,0
+21-09-2025,West,Pune,Home,Table,New,UPI,Pending,Sneha,1,1,2211.21,2211.21,No,0
+07-12-2024,West,Mumbai,Groceries,Oil,New,Cash,Shipped,Sneha,3,3,2225.1,6675.3,No,0
+20-04-2025,East,Bhubaneswar,Home,Table,Returning,Card,Delivered,Karan,3,3,4930.26,14790.78,No,0
+03-03-2024,North,Chandigarh,Home,Lamp,New,Net Banking,Shipped,Amit,6,6,3153.73,18922.38,No,0
+01-12-2025,North,Chandigarh,Groceries,Rice,New,Cash,Pending,Karan,8,8,4240.69,33925.52,No,0
+25-12-2024,East,Bhubaneswar,Fashion,Shoes,New,Net Banking,Shipped,Rohit,1,1,198.11,198.11,Yes,101.03
+14-07-2025,West,Mumbai,Electronics,Tablet,New,Cash,Delivered,Priya,8,8,3769.92,30159.36,No,0
+22-11-2024,West,Mumbai,Sports,Ball,New,Cash,Shipped,Karan,4,4,1013.46,4053.84,No,0
+20-05-2024,East,Bhubaneswar,Groceries,Milk,Returning,Card,Delivered,Karan,7,7,2474.98,17324.86,Yes,8738.41
+02-08-2024,West,Pune,Sports,Bat,Returning,Net Banking,Shipped,Priya,3,3,4839.63,14518.89,No,0
+10-03-2025,West,Mumbai,Sports,Bat,New,Cash,Shipped,Karan,2,2,2192.81,4385.62,No,0
+23-12-2025,North,Chandigarh,Home,Table,Returning,Card,Delivered,Rohit,1,1,3565.67,3565.67,No,0
+13-11-2024,East,Kolkata,Sports,Bat,Returning,UPI,Shipped,Amit,2,2,3366.98,6733.96,No,0
+01-02-2024,East,Bhubaneswar,Home,Lamp,Returning,Net Banking,Delivered,Rohit,4,4,363.53,1454.12,Yes,707.24
+31-10-2025,North,Delhi,Home,Chair,Returning,Cash,Shipped,Karan,7,7,1999.71,13997.97,No,0
+11-10-2024,South,Bangalore,Electronics,Laptop,Returning,Card,Shipped,Amit,2,2,850.41,1700.82,No,0
+31-10-2024,South,Chennai,Home,Chair,Returning,UPI,Delivered,Karan,3,3,2512.58,7537.74,No,0
+04-03-2025,West,Pune,Fashion,Shirt,Returning,Card,Delivered,Karan,4,4,2149.63,8598.52,No,0
+21-04-2025,West,Pune,Electronics,Laptop,New,UPI,Shipped,Amit,6,6,2536.54,15219.24,No,0
+12-10-2024,East,Bhubaneswar,Groceries,Oil,New,Net Banking,Pending,Karan,2,2,1706.43,3412.86,No,0
+23-05-2024,North,Chandigarh,Home,Chair,New,UPI,Pending,Rohit,5,5,2028.81,10144.05,No,0
+27-02-2025,North,Chandigarh,Groceries,Oil,New,Card,Pending,Rohit,3,3,1766.02,5298.06,No,0
+19-01-2024,East,Kolkata,Sports,Ball,New,UPI,Shipped,Amit,5,5,3906.31,19531.55,No,0
+18-01-2024,East,Kolkata,Sports,Bat,Returning,UPI,Pending,Karan,3,3,910.95,2732.85,No,0
+12-08-2025,South,Chennai,Electronics,Phone,Returning,Card,Shipped,Sneha,5,5,683.62,3418.1,No,0
+05-01-2025,South,Bangalore,Fashion,Shirt,Returning,Net Banking,Delivered,Amit,6,6,1137.55,6825.3,Yes,3123.63
+23-06-2024,East,Kolkata,Sports,Bat,New,UPI,Pending,Amit,6,6,4303.88,25823.28,No,0
+12-07-2024,East,Bhubaneswar,Electronics,Laptop,Returning,Cash,Delivered,Rohit,3,3,1600.71,4802.13,No,0
+16-05-2025,East,Kolkata,Sports,Ball,Returning,Card,Delivered,Amit,6,6,2685.18,16111.08,No,0
+22-04-2024,West,Mumbai,Sports,Shoes,Returning,UPI,Pending,Priya,9,9,4126.04,37134.36,No,0
+23-04-2024,North,Chandigarh,Sports,Shoes,New,Cash,Shipped,Amit,3,3,1583.6,4750.8,No,0
+09-08-2024,South,Chennai,Electronics,Phone,Returning,Card,Delivered,Amit,7,7,3042.86,21300.02,No,0
+08-11-2025,West,Mumbai,Sports,Shoes,New,Net Banking,Pending,Priya,5,5,3124.25,15621.25,No,0
+05-10-2025,West,Pune,Sports,Shoes,Returning,UPI,Shipped,Karan,5,5,708.13,3540.65,No,0
+20-09-2024,North,Chandigarh,Groceries,Rice,Returning,Card,Pending,Amit,2,2,1000.54,2001.08,No,0
+24-02-2024,East,Kolkata,Electronics,Phone,New,Net Banking,Shipped,Sneha,9,9,3052.1,27468.9,No,0
+04-10-2025,East,Bhubaneswar,Groceries,Rice,Returning,UPI,Shipped,Sneha,8,8,1470.22,11761.76,No,0
+02-04-2025,North,Chandigarh,Fashion,Shirt,New,Cash,Pending,Rohit,4,4,1068.02,4272.08,No,0
+10-06-2024,West,Mumbai,Groceries,Rice,Returning,Card,Shipped,Sneha,8,8,3894.66,31157.28,No,0
+14-01-2025,East,Kolkata,Fashion,Shoes,Returning,UPI,Delivered,Priya,6,6,3774.77,22648.62,No,0
+27-03-2024,North,Chandigarh,Groceries,Rice,Returning,Card,Delivered,Priya,2,2,441.63,883.26,No,0
+24-02-2024,North,Delhi,Electronics,Tablet,New,Net Banking,Pending,Rohit,7,7,2561.62,17931.34,No,0
+20-04-2025,North,Chandigarh,Electronics,Laptop,Returning,Net Banking,Pending,Amit,6,6,4198.44,25190.64,No,0
+26-06-2024,West,Mumbai,Groceries,Milk,Returning,Cash,Pending,Amit,6,6,1747.98,10487.88,No,0
+25-01-2025,East,Kolkata,Fashion,Shirt,New,Cash,Delivered,Karan,6,6,2808.79,16852.74,No,0
+14-12-2024,West,Mumbai,Groceries,Milk,New,UPI,Delivered,Sneha,8,8,1690.58,13524.64,No,0
+08-01-2024,East,Bhubaneswar,Groceries,Milk,New,Net Banking,Shipped,Amit,5,5,2638.25,13191.25,No,0
+08-11-2024,South,Bangalore,Home,Lamp,Returning,Card,Delivered,Priya,7,7,2469.14,17283.98,No,0
+18-03-2025,East,Kolkata,Home,Table,Returning,Card,Pending,Sneha,8,8,3775.75,30206,No,0
+23-11-2024,West,Mumbai,Sports,Shoes,Returning,UPI,Pending,Rohit,9,9,3866.86,34801.74,Yes,23019.48
+23-02-2024,North,Delhi,Home,Chair,New,UPI,Pending,Karan,7,7,278.66,1950.62,Yes,1691.83
+26-08-2024,East,Kolkata,Fashion,Jeans,New,Net Banking,Delivered,Sneha,7,7,2245.71,15719.97,No,0
+16-08-2024,North,Chandigarh,Electronics,Phone,New,Card,Shipped,Sneha,2,2,592.76,1185.52,No,0
+01-08-2025,West,Mumbai,Groceries,Milk,New,Card,Shipped,Priya,4,4,2300.48,9201.92,No,0
+20-02-2024,South,Chennai,Groceries,Rice,New,Net Banking,Shipped,Sneha,6,6,3303.56,19821.36,No,0
+31-08-2025,South,Bangalore,Fashion,Jeans,Returning,Card,Delivered,Amit,8,8,622.46,4979.68,No,0
+26-08-2025,South,Chennai,Sports,Ball,Returning,Net Banking,Pending,Rohit,7,7,3856.32,26994.24,No,0
+20-09-2024,West,Pune,Sports,Ball,New,Card,Pending,Rohit,4,4,2631.48,10525.92,No,0
+21-02-2025,East,Kolkata,Groceries,Rice,New,Card,Pending,Karan,9,9,1497.51,13477.59,No,0
+05-04-2024,North,Delhi,Home,Table,Returning,Net Banking,Delivered,Karan,5,5,1521.22,7606.1,No,0
+28-03-2024,West,Pune,Groceries,Milk,Returning,Cash,Pending,Sneha,6,6,931.82,5590.92,No,0
+18-03-2024,West,Mumbai,Groceries,Oil,Returning,UPI,Pending,Karan,2,2,375.5,751,No,0
+14-10-2024,East,Bhubaneswar,Electronics,Phone,Returning,Cash,Delivered,Karan,9,9,2781.89,25037.01,No,0
+29-04-2024,West,Mumbai,Electronics,Tablet,New,Card,Pending,Karan,6,6,1323.75,7942.5,No,0
+05-05-2025,East,Kolkata,Fashion,Jeans,Returning,UPI,Shipped,Rohit,8,8,2840.17,22721.36,No,0
+27-03-2025,North,Chandigarh,Electronics,Tablet,Returning,Card,Pending,Sneha,2,2,178.54,357.08,No,0
+14-05-2025,North,Delhi,Electronics,Laptop,Returning,Card,Shipped,Amit,5,5,3055.74,15278.7,Yes,11405.42
+13-06-2024,East,Kolkata,Home,Chair,New,Net Banking,Pending,Karan,8,8,1794.71,14357.68,Yes,11442.26
+30-06-2024,North,Delhi,Electronics,Phone,New,UPI,Delivered,Sneha,9,9,2091.44,18822.96,No,0
+13-04-2025,East,Kolkata,Groceries,Oil,New,UPI,Shipped,Karan,5,5,1040.58,5202.9,No,0
+07-01-2024,North,Delhi,Groceries,Milk,Returning,UPI,Delivered,Amit,9,9,743.31,6689.79,No,0
+25-11-2024,East,Kolkata,Electronics,Tablet,Returning,Card,Delivered,Rohit,8,8,4553.25,36426,No,0
+03-11-2025,South,Bangalore,Sports,Ball,New,Net Banking,Pending,Amit,3,3,1574.73,4724.19,No,0
+30-05-2024,South,Chennai,Fashion,Shirt,Returning,Card,Delivered,Priya,5,5,1927.7,9638.5,No,0
+25-03-2024,North,Delhi,Fashion,Shoes,New,Card,Shipped,Priya,5,5,4978,24890,No,0
+26-05-2024,West,Pune,Sports,Bat,New,Net Banking,Delivered,Amit,1,1,4924.81,4924.81,No,0
+15-09-2025,North,Delhi,Sports,Bat,Returning,Net Banking,Delivered,Amit,7,7,4765.27,33356.89,No,0
+15-01-2025,East,Kolkata,Fashion,Shoes,New,Card,Shipped,Sneha,4,4,4209.18,16836.72,No,0
+01-07-2025,North,Chandigarh,Home,Table,Returning,Net Banking,Shipped,Priya,9,9,143.01,1287.09,No,0
+11-10-2024,South,Bangalore,Fashion,Shirt,New,Card,Shipped,Sneha,1,1,524.86,524.86,No,0
+30-11-2025,East,Bhubaneswar,Sports,Bat,New,Cash,Pending,Sneha,6,6,3209.33,19255.98,No,0
+22-03-2024,North,Delhi,Sports,Ball,New,Net Banking,Pending,Amit,3,3,755.11,2265.33,No,0
+28-05-2025,West,Pune,Home,Chair,New,Cash,Shipped,Karan,7,7,4712.54,32987.78,No,0
+09-12-2025,North,Delhi,Electronics,Phone,New,UPI,Shipped,Amit,6,6,1450.28,8701.68,No,0
+06-06-2025,West,Pune,Sports,Shoes,Returning,UPI,Delivered,Sneha,8,8,3174.59,25396.72,No,0
+20-01-2025,West,Pune,Home,Table,Returning,Card,Delivered,Rohit,3,3,1103.53,3310.59,No,0
+07-12-2025,North,Chandigarh,Groceries,Milk,Returning,Net Banking,Delivered,Amit,6,6,1620.5,9723,No,0
+15-04-2025,North,Chandigarh,Home,Lamp,Returning,UPI,Shipped,Rohit,6,6,1485.55,8913.3,No,0
+28-04-2024,West,Mumbai,Home,Table,Returning,Card,Delivered,Sneha,4,4,4600.76,18403.04,Yes,8668.76
+30-01-2025,East,Kolkata,Fashion,Jeans,New,UPI,Shipped,Priya,7,7,1948.29,13638.03,No,0
+15-06-2025,West,Pune,Electronics,Tablet,Returning,UPI,Delivered,Amit,3,3,3237.87,9713.61,No,0
+17-09-2024,South,Chennai,Groceries,Milk,Returning,Net Banking,Shipped,Karan,3,3,2758.61,8275.83,No,0
+12-09-2024,East,Bhubaneswar,Home,Lamp,New,Cash,Delivered,Sneha,2,2,3805.34,7610.68,No,0
+13-08-2024,West,Pune,Electronics,Phone,New,Card,Delivered,Rohit,9,9,753.39,6780.51,No,0
+22-02-2024,East,Kolkata,Electronics,Laptop,New,Cash,Delivered,Priya,4,4,1569.65,6278.6,No,0
+14-05-2025,South,Bangalore,Fashion,Shoes,New,Net Banking,Pending,Karan,7,7,3352.34,23466.38,No,0
+20-05-2025,South,Chennai,Home,Chair,Returning,UPI,Shipped,Priya,8,8,2958.21,23665.68,No,0
+29-12-2024,South,Chennai,Fashion,Shoes,New,UPI,Delivered,Amit,7,7,181.64,1271.48,No,0
+06-10-2024,North,Chandigarh,Home,Lamp,New,UPI,Pending,Amit,7,7,2154.74,15083.18,No,0
+15-08-2025,East,Kolkata,Groceries,Oil,New,Card,Delivered,Karan,9,9,2967.95,26711.55,No,0
+14-12-2025,South,Bangalore,Groceries,Milk,Returning,Cash,Delivered,Karan,1,1,3489.43,3489.43,No,0
+06-06-2024,East,Kolkata,Sports,Shoes,New,Card,Delivered,Rohit,8,8,1622.51,12980.08,No,0
+23-09-2025,West,Mumbai,Home,Table,Returning,Card,Pending,Rohit,7,7,4558.66,31910.62,No,0
+28-02-2024,South,Bangalore,Groceries,Rice,Returning,UPI,Pending,Rohit,9,9,4009.24,36083.16,No,0
+27-12-2025,West,Mumbai,Electronics,Tablet,New,Net Banking,Delivered,Karan,4,4,4700.5,18802,No,0
+07-05-2024,West,Pune,Electronics,Tablet,Returning,Cash,Shipped,Rohit,4,4,3808.95,15235.8,No,0
+21-12-2025,South,Bangalore,Groceries,Rice,Returning,Net Banking,Delivered,Karan,2,2,4328.5,8657,No,0
+24-04-2024,South,Chennai,Electronics,Laptop,Returning,Net Banking,Delivered,Karan,1,1,644.64,644.64,Yes,503.79
+27-07-2024,East,Kolkata,Groceries,Oil,New,Card,Pending,Priya,7,7,876.4,6134.8,Yes,5264.65
+09-06-2025,West,Mumbai,Electronics,Laptop,New,Card,Delivered,Priya,5,5,2068.31,10341.55,No,0
+04-06-2025,East,Kolkata,Electronics,Phone,Returning,UPI,Shipped,Amit,5,5,4303.5,21517.5,No,0
+05-07-2025,East,Bhubaneswar,Groceries,Oil,New,Card,Shipped,Amit,2,2,960.79,1921.58,No,0
+24-08-2024,South,Bangalore,Sports,Shoes,Returning,Card,Delivered,Amit,4,4,3922.24,15688.96,No,0
+07-10-2024,North,Chandigarh,Electronics,Tablet,Returning,Net Banking,Shipped,Rohit,7,7,146.76,1027.32,Yes,514.36
+24-12-2024,East,Kolkata,Groceries,Milk,Returning,Card,Pending,Priya,2,2,1780.83,3561.66,No,0
+19-07-2024,South,Bangalore,Groceries,Rice,Returning,UPI,Pending,Rohit,9,9,977.9,8801.1,No,0
+04-10-2024,East,Bhubaneswar,Fashion,Shoes,Returning,Card,Shipped,Sneha,6,6,1824.24,10945.44,No,0
+22-08-2024,North,Delhi,Fashion,Shirt,Returning,Card,Shipped,Rohit,5,5,573.8,2869,No,0
+08-05-2025,East,Bhubaneswar,Electronics,Laptop,New,Net Banking,Shipped,Amit,7,7,3215.96,22511.72,No,0
+04-01-2024,South,Chennai,Sports,Shoes,New,Cash,Delivered,Karan,1,1,207.05,207.05,No,0
+27-10-2025,North,Delhi,Groceries,Milk,New,Cash,Shipped,Sneha,9,9,1025.09,9225.81,No,0
+17-03-2025,North,Chandigarh,Groceries,Milk,Returning,UPI,Shipped,Karan,8,8,2198.92,17591.36,Yes,14544.56
+29-01-2024,East,Bhubaneswar,Fashion,Shirt,New,Cash,Delivered,Priya,1,1,648.48,648.48,No,0
+18-04-2024,West,Mumbai,Sports,Bat,Returning,Card,Shipped,Amit,1,1,4934.77,4934.77,No,0
+01-09-2025,West,Pune,Electronics,Phone,Returning,Cash,Pending,Priya,6,6,4553.44,27320.64,No,0
+27-12-2025,North,Delhi,Home,Table,Returning,Net Banking,Shipped,Rohit,5,5,4732.32,23661.6,Yes,22355.45
+15-03-2024,West,Pune,Home,Chair,New,Card,Pending,Rohit,4,4,2318.84,9275.36,No,0
+25-05-2024,East,Kolkata,Fashion,Shirt,New,UPI,Delivered,Karan,5,5,799.79,3998.95,No,0
+07-05-2024,East,Bhubaneswar,Electronics,Tablet,New,Net Banking,Pending,Rohit,6,6,4765.51,28593.06,No,0
+11-02-2024,East,Kolkata,Home,Table,Returning,Net Banking,Pending,Karan,1,1,4994.09,4994.09,Yes,3310.25
+21-12-2024,North,Delhi,Electronics,Tablet,New,UPI,Delivered,Rohit,9,9,2293,20637,No,0
+10-02-2024,South,Bangalore,Groceries,Oil,New,UPI,Pending,Priya,6,6,413.11,2478.66,Yes,724.49
+03-02-2024,North,Delhi,Sports,Shoes,New,UPI,Delivered,Sneha,2,2,1585.78,3171.56,No,0
+17-01-2024,West,Mumbai,Home,Chair,Returning,Net Banking,Shipped,Amit,7,7,2025.26,14176.82,No,0
+07-11-2025,East,Bhubaneswar,Sports,Shoes,New,UPI,Shipped,Amit,1,1,4557.02,4557.02,Yes,3866.84
+01-06-2024,West,Pune,Sports,Bat,New,UPI,Delivered,Karan,3,3,3430.55,10291.65,No,0
+12-01-2025,South,Chennai,Fashion,Shirt,New,Cash,Shipped,Sneha,4,4,3962.18,15848.72,Yes,9942.09
+10-08-2025,South,Bangalore,Fashion,Jeans,Returning,UPI,Delivered,Karan,4,4,3768.62,15074.48,No,0
+21-08-2025,North,Delhi,Electronics,Phone,Returning,Card,Delivered,Amit,2,2,1508.8,3017.6,No,0
+20-09-2025,West,Mumbai,Electronics,Tablet,New,Card,Delivered,Sneha,1,1,4424.82,4424.82,No,0
+07-12-2024,North,Delhi,Groceries,Rice,Returning,Cash,Pending,Priya,4,4,4889.54,19558.16,No,0
+27-01-2024,South,Chennai,Electronics,Phone,Returning,Cash,Shipped,Karan,4,4,3055.9,12223.6,No,0
+13-10-2024,South,Chennai,Home,Lamp,Returning,UPI,Delivered,Sneha,3,3,608.41,1825.23,No,0
+07-10-2025,North,Chandigarh,Electronics,Phone,New,UPI,Pending,Amit,9,9,3373.22,30358.98,No,0
+16-06-2024,South,Bangalore,Home,Table,New,Net Banking,Pending,Karan,8,8,4104.24,32833.92,Yes,30094.95
+01-09-2025,South,Chennai,Electronics,Tablet,Returning,Cash,Pending,Sneha,9,9,3930.72,35376.48,No,0
+24-09-2024,South,Chennai,Fashion,Shirt,New,Net Banking,Delivered,Priya,3,3,2924.8,8774.4,No,0
+30-03-2025,North,Chandigarh,Fashion,Shoes,New,UPI,Delivered,Karan,4,4,1267.62,5070.48,No,0
+15-11-2025,South,Bangalore,Fashion,Shirt,Returning,Card,Shipped,Rohit,1,1,1256.38,1256.38,No,0
+04-02-2025,North,Chandigarh,Electronics,Phone,Returning,Net Banking,Pending,Karan,7,7,2604.36,18230.52,No,0
+20-04-2025,North,Delhi,Home,Table,New,Net Banking,Pending,Karan,2,2,3306.3,6612.6,No,0
+02-12-2025,West,Mumbai,Home,Lamp,Returning,Card,Delivered,Sneha,2,2,4353.1,8706.2,No,0
+25-09-2025,North,Chandigarh,Groceries,Milk,New,UPI,Shipped,Karan,2,2,1923.01,3846.02,No,0
+11-07-2025,East,Bhubaneswar,Sports,Ball,New,Card,Delivered,Karan,6,6,1386.18,8317.08,No,0
+29-07-2025,East,Kolkata,Sports,Bat,New,UPI,Delivered,Amit,9,9,1295.58,11660.22,No,0
+09-05-2024,East,Bhubaneswar,Fashion,Jeans,Returning,Cash,Delivered,Sneha,3,3,2796.72,8390.16,No,0
+28-12-2024,East,Kolkata,Groceries,Oil,New,Card,Delivered,Priya,4,4,4203.5,16814,No,0
+05-12-2025,East,Bhubaneswar,Groceries,Oil,New,Card,Pending,Amit,2,2,2677.86,5355.72,No,0
+23-11-2025,South,Chennai,Home,Chair,Returning,Cash,Pending,Rohit,7,7,685.7,4799.9,No,0
+18-10-2024,West,Mumbai,Sports,Shoes,Returning,Card,Delivered,Priya,7,7,341.54,2390.78,No,0
+05-01-2025,East,Kolkata,Sports,Shoes,New,Cash,Delivered,Amit,1,1,3761.76,3761.76,Yes,3606.84
+29-01-2024,East,Kolkata,Home,Table,Returning,UPI,Pending,Priya,2,2,133.3,266.6,No,0
+28-05-2024,South,Bangalore,Electronics,Laptop,New,Card,Pending,Rohit,7,7,2114.46,14801.22,No,0
+22-10-2024,East,Bhubaneswar,Home,Table,Returning,UPI,Pending,Amit,1,1,1283.85,1283.85,No,0
+11-01-2024,North,Chandigarh,Electronics,Tablet,New,Net Banking,Pending,Sneha,3,3,3075.89,9227.67,No,0
+26-05-2025,North,Chandigarh,Groceries,Oil,Returning,Card,Delivered,Amit,7,7,138.06,966.42,No,0
+06-11-2025,North,Delhi,Groceries,Milk,New,UPI,Delivered,Karan,3,3,1133.75,3401.25,No,0
+22-04-2024,West,Pune,Electronics,Laptop,New,UPI,Delivered,Rohit,6,6,4234.68,25408.08,No,0
+05-07-2024,West,Pune,Groceries,Milk,Returning,Card,Pending,Amit,3,3,4695.35,14086.05,No,0
+14-08-2024,East,Kolkata,Home,Table,New,Cash,Delivered,Amit,3,3,456.06,1368.18,No,0
+05-11-2024,West,Mumbai,Sports,Ball,New,Net Banking,Shipped,Amit,1,1,3139.15,3139.15,No,0
+07-04-2024,South,Chennai,Sports,Ball,Returning,Net Banking,Pending,Amit,4,4,538.87,2155.48,No,0
+24-02-2024,North,Delhi,Electronics,Tablet,Returning,Card,Pending,Sneha,4,4,1146.36,4585.44,No,0
+14-09-2025,South,Bangalore,Sports,Ball,Returning,Net Banking,Shipped,Rohit,9,9,1165.52,10489.68,No,0
+25-10-2025,North,Delhi,Home,Lamp,New,Net Banking,Pending,Rohit,8,8,4344.51,34756.08,No,0
+09-02-2025,South,Chennai,Fashion,Shoes,New,Net Banking,Delivered,Rohit,3,3,4020.67,12062.01,No,0
+09-03-2024,East,Kolkata,Electronics,Tablet,Returning,Card,Pending,Rohit,8,8,3611.37,28890.96,No,0
+07-11-2024,West,Pune,Fashion,Shoes,Returning,Net Banking,Delivered,Karan,8,8,2579.04,20632.32,No,0
+15-10-2024,West,Pune,Electronics,Laptop,New,Net Banking,Shipped,Priya,4,4,3758.36,15033.44,Yes,10757.75
+01-07-2025,West,Mumbai,Groceries,Rice,Returning,Cash,Delivered,Amit,4,4,1632.89,6531.56,Yes,4972.16
+27-05-2024,East,Bhubaneswar,Groceries,Rice,Returning,Cash,Shipped,Rohit,9,9,3910.82,35197.38,No,0
+11-04-2025,North,Delhi,Sports,Bat,Returning,Card,Delivered,Rohit,6,6,1590.06,9540.36,No,0
+31-08-2024,North,Delhi,Sports,Shoes,Returning,Card,Pending,Amit,3,3,4098.85,12296.55,No,0
+05-05-2025,West,Pune,Home,Chair,Returning,Net Banking,Delivered,Priya,5,5,3495.31,17476.55,No,0
+21-05-2025,West,Pune,Sports,Bat,Returning,Cash,Pending,Karan,9,9,611.64,5504.76,No,0
+30-12-2024,West,Mumbai,Sports,Ball,New,UPI,Pending,Rohit,8,8,2344.02,18752.16,No,0
+26-04-2025,West,Pune,Groceries,Rice,New,Cash,Pending,Sneha,6,6,2884.52,17307.12,No,0
+19-07-2024,West,Mumbai,Sports,Shoes,Returning,Card,Delivered,Priya,3,3,1377.47,4132.41,No,0
+02-06-2024,South,Bangalore,Sports,Ball,Returning,Card,Delivered,Rohit,7,7,953.37,6673.59,No,0
+25-03-2025,West,Pune,Home,Lamp,New,UPI,Shipped,Priya,4,4,2641.86,10567.44,Yes,4082.06
+15-05-2025,North,Chandigarh,Sports,Shoes,New,Cash,Delivered,Karan,7,7,1552.58,10868.06,No,0
+13-03-2024,East,Kolkata,Fashion,Shirt,Returning,Net Banking,Shipped,Karan,4,4,1681.77,6727.08,No,0
+13-12-2025,East,Bhubaneswar,Sports,Ball,Returning,Net Banking,Pending,Priya,9,9,2814.5,25330.5,No,0
+22-10-2024,South,Chennai,Electronics,Phone,New,Cash,Pending,Priya,6,6,3567.34,21404.04,No,0
+17-01-2024,East,Kolkata,Fashion,Shirt,Returning,Net Banking,Pending,Priya,6,6,1578.82,9472.92,No,0
+02-10-2025,North,Chandigarh,Fashion,Jeans,New,UPI,Pending,Amit,4,4,658.43,2633.72,No,0
+04-08-2024,West,Mumbai,Sports,Ball,New,UPI,Delivered,Karan,8,8,2929.03,23432.24,No,0
+01-03-2024,West,Mumbai,Home,Chair,New,Card,Delivered,Karan,6,6,4053.19,24319.14,No,0
+07-09-2025,South,Chennai,Sports,Ball,New,Cash,Delivered,Priya,2,2,3230.92,6461.84,No,0
+11-02-2024,North,Delhi,Sports,Bat,Returning,Net Banking,Pending,Sneha,3,3,1534.01,4602.03,No,0
+25-01-2024,East,Bhubaneswar,Sports,Shoes,New,Cash,Shipped,Rohit,2,2,1179.6,2359.2,No,0
+08-02-2024,East,Bhubaneswar,Electronics,Tablet,Returning,UPI,Delivered,Sneha,6,6,813.03,4878.18,No,0
+10-05-2024,North,Delhi,Groceries,Milk,New,UPI,Delivered,Karan,9,9,1409.01,12681.09,No,0
+12-05-2025,East,Kolkata,Fashion,Shirt,Returning,Cash,Delivered,Amit,5,5,732.52,3662.6,No,0
+16-08-2024,East,Kolkata,Sports,Bat,New,Card,Pending,Karan,7,7,764.74,5353.18,No,0
+17-04-2024,East,Bhubaneswar,Sports,Bat,New,Card,Pending,Rohit,6,6,1994.81,11968.86,No,0
+20-06-2024,West,Mumbai,Sports,Bat,New,Card,Shipped,Sneha,5,5,4191.37,20956.85,No,0
+10-03-2025,South,Chennai,Fashion,Jeans,Returning,Cash,Shipped,Sneha,3,3,3706.01,11118.03,No,0
+22-04-2025,West,Pune,Groceries,Rice,New,UPI,Shipped,Priya,3,3,2240.11,6720.33,No,0
+11-04-2024,West,Pune,Groceries,Rice,Returning,Card,Pending,Amit,8,8,1467.74,11741.92,No,0
+07-06-2025,South,Bangalore,Electronics,Phone,Returning,Card,Delivered,Sneha,1,1,4991.18,4991.18,Yes,1888.7
+01-10-2024,North,Delhi,Sports,Ball,New,UPI,Shipped,Sneha,7,7,4874.75,34123.25,No,0
+04-09-2025,South,Bangalore,Electronics,Tablet,New,Cash,Pending,Amit,4,4,4127.01,16508.04,No,0
+13-02-2024,West,Pune,Sports,Ball,Returning,Cash,Pending,Amit,1,1,2619.71,2619.71,No,0
+17-01-2024,South,Bangalore,Electronics,Phone,Returning,Net Banking,Pending,Priya,7,7,3862.59,27038.13,No,0
+25-11-2024,East,Kolkata,Sports,Bat,New,UPI,Shipped,Priya,4,4,295.75,1183,No,0
+22-07-2025,South,Chennai,Electronics,Phone,Returning,Cash,Delivered,Amit,2,2,414.77,829.54,No,0
+11-05-2025,South,Chennai,Electronics,Laptop,New,Net Banking,Delivered,Sneha,5,5,4305.82,21529.1,No,0
+12-01-2024,West,Pune,Electronics,Laptop,New,Cash,Shipped,Karan,6,6,4649.92,27899.52,No,0
+13-11-2024,South,Bangalore,Electronics,Laptop,Returning,Net Banking,Shipped,Amit,4,4,2674.06,10696.24,Yes,10461.51
+14-08-2025,North,Delhi,Electronics,Phone,New,Net Banking,Delivered,Amit,1,1,4907.12,4907.12,No,0
+03-08-2024,West,Mumbai,Home,Chair,New,Cash,Pending,Rohit,5,5,3344.94,16724.7,No,0
+04-12-2024,South,Chennai,Fashion,Shoes,Returning,Card,Shipped,Sneha,8,8,1780.95,14247.6,No,0
+22-10-2025,South,Chennai,Fashion,Shoes,New,UPI,Pending,Karan,1,1,158.4,158.4,No,0
+21-03-2024,East,Kolkata,Electronics,Tablet,New,Card,Pending,Amit,8,8,4917.02,39336.16,No,0
+27-12-2025,North,Chandigarh,Sports,Ball,Returning,Net Banking,Pending,Amit,2,2,3386.75,6773.5,No,0
+29-04-2025,East,Kolkata,Sports,Ball,New,Net Banking,Delivered,Priya,6,6,4210.31,25261.86,No,0
+08-01-2025,South,Chennai,Sports,Bat,New,Net Banking,Pending,Priya,8,8,2286.13,18289.04,No,0
+10-12-2025,North,Chandigarh,Fashion,Shirt,New,Card,Delivered,Karan,6,6,599.21,3595.26,No,0
+18-07-2024,North,Delhi,Sports,Bat,Returning,Card,Delivered,Sneha,5,5,3824.17,19120.85,Yes,16730.42
+20-06-2025,South,Chennai,Sports,Shoes,New,Net Banking,Delivered,Rohit,2,2,1777.74,3555.48,No,0
+10-04-2025,East,Bhubaneswar,Home,Lamp,Returning,Net Banking,Shipped,Amit,6,6,1014.29,6085.74,No,0
+29-03-2024,East,Bhubaneswar,Sports,Ball,New,UPI,Pending,Sneha,6,6,2065.63,12393.78,No,0
+24-09-2024,North,Chandigarh,Home,Lamp,Returning,UPI,Shipped,Amit,9,9,4217.71,37959.39,Yes,9080.03
+16-10-2025,North,Delhi,Groceries,Milk,New,Net Banking,Shipped,Amit,6,6,1093.98,6563.88,No,0
+24-07-2025,North,Chandigarh,Fashion,Jeans,New,Net Banking,Delivered,Priya,9,9,1813.11,16317.99,No,0
+03-05-2025,East,Bhubaneswar,Fashion,Shoes,Returning,Net Banking,Pending,Karan,8,8,4836.14,38689.12,No,0
+21-06-2025,West,Pune,Home,Table,New,UPI,Shipped,Amit,1,1,3165.68,3165.68,No,0
+16-02-2024,West,Pune,Electronics,Phone,Returning,Net Banking,Delivered,Karan,7,7,3466.01,24262.07,No,0
+14-10-2024,East,Bhubaneswar,Home,Table,New,UPI,Delivered,Sneha,4,4,1490.61,5962.44,No,0
+16-01-2024,West,Pune,Electronics,Phone,Returning,Net Banking,Shipped,Priya,2,2,3413.36,6826.72,No,0
+11-12-2025,West,Mumbai,Groceries,Milk,Returning,Card,Pending,Karan,1,1,479.32,479.32,No,0
+04-02-2025,East,Bhubaneswar,Fashion,Shoes,Returning,Net Banking,Shipped,Amit,9,9,617.69,5559.21,No,0
+26-03-2024,West,Mumbai,Sports,Bat,Returning,Card,Shipped,Priya,6,6,3906.78,23440.68,Yes,17072.1
+06-09-2024,South,Bangalore,Sports,Ball,New,Net Banking,Delivered,Priya,2,2,375.45,750.9,No,0
+25-01-2025,East,Kolkata,Sports,Shoes,New,Net Banking,Shipped,Amit,7,7,4756.5,33295.5,No,0
+30-11-2024,East,Kolkata,Groceries,Milk,Returning,Cash,Shipped,Karan,1,1,1639.39,1639.39,No,0
+20-09-2025,West,Pune,Fashion,Shoes,New,Cash,Delivered,Amit,4,4,4774.29,19097.16,No,0
+02-06-2025,East,Bhubaneswar,Fashion,Jeans,New,Net Banking,Delivered,Rohit,3,3,3589.88,10769.64,No,0
+16-05-2024,West,Mumbai,Sports,Ball,New,Cash,Shipped,Sneha,6,6,3144.01,18864.06,Yes,11070.56
+18-11-2025,South,Bangalore,Electronics,Laptop,Returning,Cash,Shipped,Priya,8,8,806.78,6454.24,No,0
+12-05-2025,East,Kolkata,Fashion,Shirt,New,UPI,Shipped,Sneha,4,4,4567.75,18271,No,0
+27-12-2025,West,Mumbai,Fashion,Shoes,Returning,Cash,Shipped,Amit,1,1,1341.56,1341.56,No,0
+21-04-2025,South,Bangalore,Sports,Shoes,Returning,Card,Delivered,Priya,9,9,1818.81,16369.29,No,0
+16-08-2025,East,Bhubaneswar,Home,Table,Returning,Cash,Delivered,Rohit,3,3,4567,13701,No,0
+10-08-2024,South,Bangalore,Sports,Bat,New,Cash,Shipped,Priya,2,2,4921.26,9842.52,No,0
+06-01-2025,South,Bangalore,Groceries,Oil,Returning,UPI,Pending,Priya,2,2,2866.51,5733.02,No,0
+05-02-2025,West,Pune,Groceries,Milk,Returning,Cash,Shipped,Amit,3,3,1368.91,4106.73,No,0
+18-03-2025,East,Kolkata,Sports,Bat,Returning,Card,Delivered,Rohit,1,1,607.03,607.03,No,0
+04-05-2025,East,Bhubaneswar,Sports,Shoes,New,Net Banking,Pending,Priya,9,9,3107.05,27963.45,No,0
+06-09-2025,South,Chennai,Sports,Shoes,New,UPI,Pending,Rohit,4,4,2319.13,9276.52,No,0
+29-09-2024,North,Chandigarh,Groceries,Oil,Returning,UPI,Pending,Sneha,1,1,2398.39,2398.39,Yes,2049.78
+09-06-2025,South,Chennai,Fashion,Shirt,Returning,Net Banking,Pending,Sneha,4,4,804.95,3219.8,No,0
+07-06-2024,North,Chandigarh,Groceries,Oil,New,Card,Delivered,Priya,3,3,3998.33,11994.99,No,0
+31-05-2024,East,Kolkata,Fashion,Shirt,New,Card,Delivered,Priya,6,6,2316.6,13899.6,No,0
+11-09-2025,North,Chandigarh,Sports,Shoes,New,Net Banking,Pending,Priya,5,5,578.29,2891.45,No,0
+06-07-2024,South,Bangalore,Fashion,Shirt,Returning,Card,Delivered,Sneha,4,4,1260.56,5042.24,No,0
+07-04-2024,North,Delhi,Sports,Shoes,Returning,Net Banking,Delivered,Rohit,9,9,1892.91,17036.19,No,0
+10-05-2024,East,Bhubaneswar,Electronics,Tablet,New,Card,Pending,Sneha,4,4,3445.09,13780.36,No,0
+19-06-2024,East,Bhubaneswar,Sports,Ball,New,Net Banking,Shipped,Sneha,7,7,603.56,4224.92,No,0
+01-07-2024,North,Chandigarh,Sports,Ball,Returning,UPI,Shipped,Sneha,1,1,4465.77,4465.77,No,0
+29-12-2024,South,Bangalore,Home,Chair,New,Net Banking,Pending,Sneha,9,9,2181.44,19632.96,No,0
+08-02-2024,North,Chandigarh,Home,Lamp,Returning,Net Banking,Delivered,Priya,2,2,3489.71,6979.42,No,0
+10-06-2025,East,Bhubaneswar,Home,Table,New,Card,Shipped,Sneha,1,1,4929.44,4929.44,No,0
+11-05-2025,East,Kolkata,Home,Chair,Returning,Card,Pending,Priya,3,3,4012.92,12038.76,No,0
+30-05-2025,East,Kolkata,Fashion,Jeans,New,Net Banking,Pending,Priya,3,3,4299.78,12899.34,No,0
+14-12-2024,West,Mumbai,Electronics,Tablet,Returning,UPI,Pending,Priya,4,4,3190.11,12760.44,No,0
+31-01-2025,South,Bangalore,Home,Lamp,Returning,UPI,Shipped,Priya,7,7,483.68,3385.76,No,0
+22-12-2025,North,Delhi,Groceries,Rice,New,UPI,Shipped,Priya,1,1,4768.89,4768.89,No,0
+09-06-2024,North,Delhi,Electronics,Tablet,Returning,Cash,Pending,Rohit,1,1,1338.9,1338.9,Yes,554.84
+16-01-2024,South,Bangalore,Sports,Ball,New,Net Banking,Delivered,Amit,9,9,118.14,1063.26,No,0
+07-05-2025,East,Kolkata,Fashion,Shoes,New,Cash,Delivered,Amit,9,9,1360.05,12240.45,No,0
+01-03-2025,East,Kolkata,Groceries,Milk,New,Card,Shipped,Amit,4,4,3171.09,12684.36,No,0
+17-04-2024,North,Chandigarh,Groceries,Oil,New,UPI,Delivered,Karan,7,7,1251.65,8761.55,No,0
+25-03-2025,South,Bangalore,Electronics,Tablet,Returning,Card,Pending,Priya,3,3,4355.91,13067.73,No,0
+06-11-2024,West,Pune,Electronics,Tablet,New,Cash,Shipped,Rohit,6,6,182.87,1097.22,No,0
+18-06-2024,West,Pune,Electronics,Phone,Returning,Cash,Shipped,Priya,4,4,4116.42,16465.68,No,0
+29-06-2025,East,Kolkata,Electronics,Tablet,New,UPI,Shipped,Rohit,6,6,476.3,2857.8,No,0
+17-02-2025,East,Bhubaneswar,Home,Chair,New,Card,Pending,Amit,1,1,4830.7,4830.7,No,0
+07-09-2024,West,Pune,Groceries,Milk,New,Card,Delivered,Priya,2,2,3996.04,7992.08,No,0
+20-05-2024,North,Delhi,Electronics,Tablet,Returning,Net Banking,Shipped,Amit,9,9,402.64,3623.76,No,0
+30-09-2024,North,Delhi,Home,Lamp,Returning,Card,Delivered,Rohit,3,3,590.76,1772.28,No,0
+19-02-2025,East,Bhubaneswar,Groceries,Milk,New,Card,Delivered,Priya,3,3,1098.4,3295.2,No,0
+30-08-2025,West,Pune,Groceries,Rice,Returning,Card,Pending,Karan,9,9,1776.91,15992.19,No,0
+08-02-2024,East,Kolkata,Groceries,Oil,New,Card,Delivered,Priya,4,4,2139.19,8556.76,No,0
+29-01-2024,South,Chennai,Electronics,Tablet,New,Cash,Shipped,Karan,3,3,4122.16,12366.48,No,0
+21-04-2025,West,Mumbai,Fashion,Jeans,Returning,Card,Pending,Priya,6,6,377.47,2264.82,No,0
+13-11-2024,East,Kolkata,Electronics,Laptop,New,Net Banking,Delivered,Amit,2,2,1294.17,2588.34,No,0
+01-09-2024,North,Chandigarh,Electronics,Laptop,Returning,Cash,Shipped,Karan,5,5,2284.84,11424.2,No,0
+27-11-2025,West,Pune,Sports,Shoes,Returning,UPI,Delivered,Sneha,8,8,952.42,7619.36,No,0
+28-09-2024,East,Bhubaneswar,Groceries,Milk,Returning,Cash,Delivered,Rohit,5,5,2550.17,12750.85,No,0
+15-03-2025,South,Chennai,Sports,Bat,Returning,Card,Pending,Amit,6,6,2720.52,16323.12,No,0
+26-08-2024,North,Delhi,Home,Table,Returning,Cash,Pending,Rohit,9,9,4098.68,36888.12,No,0
+11-01-2025,South,Chennai,Groceries,Milk,New,Cash,Delivered,Amit,1,1,4444.32,4444.32,No,0
+22-09-2024,West,Pune,Sports,Shoes,Returning,UPI,Delivered,Amit,2,2,1319.11,2638.22,No,0
+24-12-2024,West,Pune,Electronics,Tablet,Returning,UPI,Delivered,Rohit,2,2,807.13,1614.26,No,0
+05-12-2024,North,Delhi,Electronics,Phone,Returning,UPI,Pending,Karan,6,6,1458.01,8748.06,No,0
+23-01-2025,East,Bhubaneswar,Electronics,Laptop,Returning,Net Banking,Delivered,Rohit,8,8,4421.68,35373.44,No,0
+30-07-2025,North,Delhi,Sports,Bat,New,Card,Shipped,Sneha,3,3,4272.75,12818.25,No,0
+19-11-2025,North,Chandigarh,Sports,Shoes,New,Cash,Delivered,Karan,5,5,1782.55,8912.75,Yes,6700.9
+03-01-2024,East,Kolkata,Electronics,Phone,Returning,Cash,Delivered,Amit,8,8,3197.39,25579.12,No,0
+04-03-2025,South,Chennai,Sports,Ball,New,Card,Delivered,Priya,3,3,2638.28,7914.84,Yes,4259.37
+21-05-2024,South,Bangalore,Sports,Ball,New,Net Banking,Shipped,Amit,9,9,813.03,7317.27,No,0
+10-01-2025,East,Kolkata,Sports,Ball,Returning,UPI,Shipped,Amit,1,1,1241.79,1241.79,No,0
+31-10-2025,North,Delhi,Fashion,Jeans,Returning,UPI,Delivered,Sneha,8,8,1259.93,10079.44,No,0
+19-11-2024,South,Bangalore,Groceries,Rice,Returning,UPI,Delivered,Amit,5,5,2933.27,14666.35,No,0
+25-05-2024,East,Bhubaneswar,Sports,Shoes,Returning,Card,Pending,Priya,1,1,2752.07,2752.07,Yes,2094.09
+19-10-2024,East,Kolkata,Home,Chair,New,Net Banking,Pending,Sneha,5,5,3171.33,15856.65,No,0
+26-10-2025,South,Chennai,Fashion,Shirt,Returning,Cash,Shipped,Karan,7,7,2586.21,18103.47,No,0
+07-03-2025,West,Pune,Electronics,Tablet,Returning,UPI,Delivered,Karan,1,1,2872.67,2872.67,No,0
+05-12-2025,West,Pune,Groceries,Rice,New,Net Banking,Delivered,Amit,2,2,2310.54,4621.08,No,0
+07-08-2025,East,Bhubaneswar,Groceries,Oil,Returning,Net Banking,Delivered,Amit,9,9,2512.6,22613.4,No,0
+02-02-2025,East,Bhubaneswar,Fashion,Shoes,New,UPI,Shipped,Sneha,7,7,1166.85,8167.95,No,0
+09-12-2024,West,Pune,Sports,Ball,Returning,UPI,Delivered,Karan,6,6,2369.68,14218.08,No,0
+19-05-2024,East,Bhubaneswar,Sports,Ball,New,Cash,Pending,Priya,3,3,3221.72,9665.16,No,0
+05-07-2024,North,Delhi,Fashion,Jeans,Returning,UPI,Pending,Priya,7,7,832.24,5825.68,No,0
+01-03-2024,East,Kolkata,Sports,Ball,New,UPI,Pending,Karan,5,5,2289.68,11448.4,No,0
+14-01-2025,North,Chandigarh,Electronics,Phone,Returning,Card,Delivered,Priya,9,9,906.37,8157.33,No,0
+10-12-2025,West,Mumbai,Fashion,Jeans,Returning,Cash,Delivered,Priya,2,2,3581.07,7162.14,No,0
+15-03-2025,South,Bangalore,Fashion,Shoes,Returning,UPI,Pending,Karan,6,6,1972.06,11832.36,Yes,10461.37
+14-11-2024,East,Kolkata,Electronics,Phone,New,Cash,Pending,Karan,7,7,1498.48,10489.36,No,0
+28-10-2024,North,Chandigarh,Fashion,Jeans,New,Cash,Pending,Sneha,3,3,2206.24,6618.72,No,0
+09-12-2024,South,Chennai,Sports,Bat,Returning,UPI,Pending,Rohit,5,5,4825.99,24129.95,No,0
+11-01-2024,West,Pune,Home,Chair,New,Card,Shipped,Karan,4,4,3906.42,15625.68,No,0
+02-03-2024,East,Kolkata,Fashion,Shoes,New,Card,Delivered,Amit,2,2,592.24,1184.48,No,0
+13-08-2024,South,Bangalore,Sports,Shoes,New,Cash,Pending,Priya,5,5,1316.61,6583.05,No,0
+01-06-2024,North,Chandigarh,Sports,Ball,New,Cash,Delivered,Priya,3,3,2713.21,8139.63,No,0
+11-12-2025,North,Chandigarh,Groceries,Oil,Returning,Card,Pending,Sneha,3,3,3212.8,9638.4,Yes,3522.24
+17-07-2025,South,Chennai,Electronics,Tablet,Returning,Cash,Pending,Amit,9,9,196.29,1766.61,No,0
+24-07-2025,West,Pune,Home,Table,Returning,Card,Delivered,Sneha,3,3,1758.68,5276.04,Yes,3926.43
+06-08-2025,East,Kolkata,Home,Lamp,New,Net Banking,Shipped,Rohit,3,3,2098.9,6296.7,No,0
+21-10-2025,East,Bhubaneswar,Groceries,Milk,New,Card,Delivered,Karan,9,9,254.41,2289.69,No,0
+28-07-2025,West,Pune,Electronics,Laptop,Returning,Card,Pending,Karan,6,6,1613.7,9682.2,No,0
+05-11-2024,East,Bhubaneswar,Sports,Shoes,New,Card,Pending,Karan,7,7,756.72,5297.04,No,0
+30-08-2024,West,Mumbai,Groceries,Rice,New,UPI,Shipped,Amit,6,6,2649.14,15894.84,Yes,4204.75
+07-05-2025,North,Chandigarh,Fashion,Shoes,New,Card,Shipped,Karan,1,1,4548.03,4548.03,No,0
+31-12-2024,South,Chennai,Groceries,Oil,Returning,UPI,Delivered,Karan,4,4,1156.49,4625.96,No,0
+25-11-2024,West,Pune,Fashion,Jeans,Returning,Net Banking,Delivered,Karan,2,2,1084.47,2168.94,No,0
+16-04-2024,South,Chennai,Electronics,Laptop,New,Cash,Delivered,Sneha,5,5,1516.84,7584.2,No,0
+13-08-2024,North,Delhi,Fashion,Shirt,Returning,Cash,Delivered,Rohit,3,3,2880.47,8641.41,No,0
+05-08-2024,East,Bhubaneswar,Sports,Ball,Returning,UPI,Shipped,Amit,1,1,1440.36,1440.36,No,0
+20-05-2025,South,Bangalore,Groceries,Milk,Returning,Cash,Shipped,Priya,3,3,4805.8,14417.4,Yes,4533.55
+15-09-2024,North,Delhi,Home,Lamp,Returning,Card,Shipped,Priya,2,2,3536.68,7073.36,Yes,1694.85
+31-05-2025,South,Bangalore,Home,Table,Returning,Net Banking,Delivered,Sneha,5,5,4131.02,20655.1,Yes,13087.32
+23-02-2024,North,Chandigarh,Electronics,Laptop,Returning,UPI,Delivered,Amit,4,4,2544.94,10179.76,Yes,7609.86
+16-02-2024,North,Delhi,Sports,Bat,New,Card,Pending,Priya,2,2,3851.16,7702.32,No,0
+27-12-2025,West,Mumbai,Electronics,Tablet,Returning,Cash,Delivered,Rohit,9,9,831.97,7487.73,No,0
+19-11-2025,East,Bhubaneswar,Home,Chair,New,Card,Pending,Karan,3,3,4313.71,12941.13,No,0
+04-06-2025,North,Chandigarh,Electronics,Tablet,New,Card,Pending,Priya,9,9,510.58,4595.22,No,0
+08-04-2024,South,Bangalore,Sports,Ball,New,Cash,Pending,Sneha,5,5,2966.16,14830.8,No,0
+20-01-2024,South,Bangalore,Groceries,Oil,New,Cash,Delivered,Priya,9,9,4038.1,36342.9,No,0
+26-07-2025,East,Kolkata,Fashion,Shirt,New,Net Banking,Shipped,Priya,5,5,4678.66,23393.3,No,0
+04-05-2025,North,Delhi,Sports,Shoes,New,UPI,Pending,Rohit,8,8,3792.03,30336.24,No,0
+22-02-2025,East,Kolkata,Groceries,Milk,New,Card,Pending,Amit,2,2,3379.4,6758.8,No,0
+20-11-2025,West,Mumbai,Electronics,Phone,Returning,Net Banking,Delivered,Amit,4,4,2148.12,8592.48,No,0
+02-03-2024,East,Kolkata,Groceries,Oil,Returning,Cash,Shipped,Amit,7,7,4819.16,33734.12,No,0
+24-05-2024,West,Pune,Sports,Shoes,Returning,Card,Delivered,Amit,8,8,487.47,3899.76,No,0
+03-08-2024,North,Chandigarh,Fashion,Jeans,Returning,Net Banking,Pending,Karan,8,8,3627.98,29023.84,No,0
+03-01-2024,West,Mumbai,Home,Lamp,New,Net Banking,Pending,Sneha,2,2,3514.1,7028.2,No,0
+08-06-2024,South,Chennai,Sports,Ball,New,Cash,Pending,Amit,5,5,1254.84,6274.2,No,0
+29-04-2024,South,Bangalore,Groceries,Milk,Returning,Cash,Pending,Priya,8,8,4031.02,32248.16,No,0
+29-03-2024,North,Delhi,Electronics,Laptop,New,Cash,Pending,Rohit,4,4,3008.52,12034.08,No,0
+24-11-2024,South,Chennai,Groceries,Rice,New,Card,Pending,Sneha,3,3,888.22,2664.66,No,0
+02-08-2025,South,Bangalore,Electronics,Phone,Returning,UPI,Pending,Rohit,7,7,4280.56,29963.92,No,0
+22-12-2024,East,Kolkata,Groceries,Oil,New,UPI,Delivered,Sneha,1,1,4091.66,4091.66,No,0
+01-09-2025,North,Delhi,Home,Table,New,Cash,Delivered,Karan,9,9,1871.29,16841.61,No,0
+23-09-2024,North,Chandigarh,Sports,Ball,New,Cash,Shipped,Rohit,4,4,2963.54,11854.16,No,0
+08-09-2025,West,Pune,Electronics,Laptop,Returning,Card,Delivered,Priya,8,8,2412.32,19298.56,No,0
+18-11-2024,East,Kolkata,Fashion,Shirt,Returning,Cash,Shipped,Rohit,1,1,4176.51,4176.51,No,0
+26-09-2025,East,Bhubaneswar,Groceries,Milk,Returning,Net Banking,Delivered,Sneha,1,1,4679.25,4679.25,No,0
+24-06-2025,East,Bhubaneswar,Fashion,Shoes,Returning,Net Banking,Pending,Karan,3,3,1267.85,3803.55,No,0
+10-10-2025,North,Chandigarh,Electronics,Laptop,Returning,Cash,Shipped,Karan,5,5,2686.03,13430.15,No,0
+13-07-2024,South,Bangalore,Groceries,Milk,New,Card,Pending,Sneha,8,8,4751.48,38011.84,No,0
+27-11-2024,North,Chandigarh,Home,Lamp,New,Net Banking,Pending,Rohit,1,1,272.28,272.28,No,0
+18-06-2024,North,Chandigarh,Groceries,Milk,Returning,UPI,Pending,Karan,8,8,501.85,4014.8,No,0
+04-06-2025,South,Chennai,Fashion,Jeans,Returning,UPI,Shipped,Priya,5,5,4831.04,24155.2,No,0
+07-04-2025,East,Kolkata,Home,Table,Returning,Card,Shipped,Amit,1,1,1003.73,1003.73,No,0
+09-02-2024,North,Delhi,Sports,Ball,Returning,Cash,Pending,Amit,4,4,3681.95,14727.8,Yes,10769.36
+20-06-2025,South,Bangalore,Groceries,Oil,New,Net Banking,Shipped,Rohit,6,6,2152.77,12916.62,No,0
+17-09-2024,South,Bangalore,Electronics,Phone,Returning,Net Banking,Shipped,Priya,1,1,3641.57,3641.57,No,0
+29-01-2025,South,Chennai,Home,Chair,New,Cash,Pending,Karan,2,2,2958.79,5917.58,No,0
+13-08-2024,South,Chennai,Home,Table,Returning,Card,Delivered,Sneha,9,9,1071.16,9640.44,No,0
+03-05-2024,South,Chennai,Groceries,Oil,Returning,Net Banking,Pending,Karan,8,8,1026.03,8208.24,No,0
+07-02-2024,West,Pune,Groceries,Rice,New,UPI,Delivered,Amit,1,1,2644.11,2644.11,No,0
+23-11-2024,North,Delhi,Groceries,Rice,New,Cash,Delivered,Sneha,8,8,4724.46,37795.68,No,0
+07-09-2024,North,Chandigarh,Groceries,Oil,New,Card,Pending,Amit,9,9,1675.51,15079.59,Yes,4550.72
+24-06-2024,West,Mumbai,Electronics,Phone,New,UPI,Shipped,Sneha,5,5,3541.75,17708.75,No,0
+24-08-2025,South,Bangalore,Fashion,Shoes,Returning,UPI,Pending,Sneha,8,8,1398.73,11189.84,No,0
+29-03-2025,South,Bangalore,Electronics,Phone,New,Card,Shipped,Amit,3,3,1090.2,3270.6,No,0
+06-02-2024,East,Kolkata,Groceries,Rice,New,Card,Pending,Priya,1,1,3954.94,3954.94,No,0
+11-11-2024,South,Bangalore,Home,Lamp,Returning,Cash,Pending,Rohit,7,7,664.26,4649.82,No,0
+18-11-2025,East,Bhubaneswar,Sports,Bat,New,Cash,Pending,Karan,5,5,1083.49,5417.45,No,0
+15-08-2025,South,Chennai,Fashion,Jeans,New,Net Banking,Delivered,Amit,2,2,3140.73,6281.46,No,0
+23-04-2024,East,Kolkata,Fashion,Shoes,Returning,UPI,Shipped,Amit,6,6,4672.65,28035.9,No,0
+09-02-2024,West,Mumbai,Groceries,Rice,Returning,Cash,Delivered,Priya,3,3,2385.24,7155.72,No,0
+27-10-2024,South,Bangalore,Groceries,Oil,New,Card,Shipped,Amit,8,8,4392.07,35136.56,No,0
+11-08-2024,West,Pune,Sports,Ball,Returning,UPI,Delivered,Priya,7,7,566.72,3967.04,Yes,2074.37
+13-11-2024,East,Bhubaneswar,Home,Chair,New,Card,Pending,Amit,9,9,4736.32,42626.88,No,0
+14-12-2024,East,Bhubaneswar,Fashion,Jeans,Returning,Net Banking,Shipped,Sneha,3,3,346.58,1039.74,Yes,363.78
+24-04-2024,North,Delhi,Electronics,Phone,Returning,Net Banking,Pending,Amit,7,7,1094.08,7658.56,No,0
+28-11-2025,East,Kolkata,Home,Table,Returning,Card,Pending,Amit,3,3,3361.69,10085.07,No,0
+18-11-2024,North,Chandigarh,Groceries,Milk,Returning,Cash,Pending,Priya,4,4,1575.76,6303.04,No,0
+21-07-2025,West,Pune,Sports,Bat,New,Net Banking,Pending,Sneha,5,5,1347.85,6739.25,No,0
+09-02-2024,West,Pune,Sports,Ball,Returning,Card,Shipped,Rohit,9,9,1103.13,9928.17,No,0
+09-02-2024,West,Mumbai,Fashion,Jeans,Returning,Cash,Shipped,Rohit,5,5,796.69,3983.45,Yes,2791.1
+15-10-2024,West,Mumbai,Groceries,Milk,Returning,UPI,Shipped,Priya,1,1,4198.55,4198.55,No,0
+18-09-2024,East,Kolkata,Fashion,Shirt,Returning,Net Banking,Pending,Amit,6,6,149.05,894.3,No,0
+03-08-2024,West,Pune,Groceries,Rice,New,Net Banking,Pending,Rohit,2,2,1662.2,3324.4,No,0
+26-05-2024,North,Chandigarh,Groceries,Milk,Returning,UPI,Shipped,Amit,1,1,2545.63,2545.63,No,0
+01-12-2024,North,Chandigarh,Home,Chair,Returning,Net Banking,Shipped,Rohit,1,1,176.91,176.91,No,0
+16-06-2024,West,Pune,Electronics,Laptop,Returning,Net Banking,Delivered,Sneha,8,8,764.57,6116.56,No,0
+01-04-2024,North,Delhi,Groceries,Milk,Returning,Net Banking,Delivered,Rohit,5,5,594.61,2973.05,No,0
+18-12-2024,South,Chennai,Sports,Ball,New,Net Banking,Pending,Sneha,8,8,4693.66,37549.28,No,0
+24-07-2025,East,Bhubaneswar,Fashion,Shirt,New,UPI,Delivered,Priya,6,6,792.09,4752.54,No,0
+24-07-2025,West,Mumbai,Groceries,Milk,Returning,Card,Delivered,Karan,9,9,4779.81,43018.29,No,0
+11-11-2025,West,Mumbai,Home,Table,New,UPI,Shipped,Priya,7,7,2072.38,14506.66,No,0
+28-12-2024,West,Pune,Electronics,Laptop,Returning,Card,Pending,Sneha,6,6,1387.08,8322.48,No,0
+10-07-2025,North,Chandigarh,Electronics,Tablet,New,Card,Shipped,Sneha,2,2,1646.21,3292.42,No,0
+10-12-2024,East,Bhubaneswar,Fashion,Jeans,Returning,UPI,Pending,Sneha,8,8,2532.93,20263.44,No,0
+23-11-2025,East,Bhubaneswar,Fashion,Jeans,New,Net Banking,Pending,Priya,8,8,1293.29,10346.32,No,0
+18-06-2024,East,Kolkata,Electronics,Tablet,Returning,Cash,Delivered,Sneha,1,1,4035.54,4035.54,No,0
+21-12-2024,North,Chandigarh,Electronics,Tablet,Returning,Card,Pending,Amit,7,7,2872.14,20104.98,Yes,16575.72
+09-07-2024,East,Kolkata,Home,Chair,Returning,UPI,Shipped,Karan,7,7,3565.42,24957.94,No,0
+28-10-2025,East,Bhubaneswar,Sports,Bat,Returning,Net Banking,Shipped,Amit,7,7,618.44,4329.08,No,0
+25-02-2025,East,Kolkata,Sports,Shoes,New,Cash,Pending,Amit,2,2,4783.93,9567.86,Yes,4630.32
+30-11-2025,East,Bhubaneswar,Electronics,Tablet,New,Net Banking,Pending,Karan,9,9,2934.96,26414.64,No,0
+07-01-2024,North,Chandigarh,Electronics,Phone,Returning,UPI,Pending,Sneha,3,3,2555.7,7667.1,No,0
+12-05-2024,East,Kolkata,Sports,Bat,New,Cash,Delivered,Priya,4,4,879.88,3519.52,No,0
+10-07-2025,East,Bhubaneswar,Groceries,Milk,New,Net Banking,Pending,Rohit,8,8,4347.43,34779.44,No,0
+31-01-2024,North,Chandigarh,Sports,Bat,New,Card,Delivered,Sneha,7,7,564.76,3953.32,No,0
+18-06-2025,South,Bangalore,Groceries,Milk,New,Cash,Delivered,Amit,9,9,3808.94,34280.46,No,0
+01-03-2025,North,Delhi,Fashion,Jeans,New,Cash,Delivered,Priya,9,9,3628.55,32656.95,No,0
+28-01-2025,North,Chandigarh,Sports,Bat,Returning,Card,Pending,Karan,3,3,4470.18,13410.54,No,0
+02-11-2025,North,Chandigarh,Sports,Ball,New,UPI,Delivered,Karan,8,8,666.47,5331.76,No,0
+28-12-2024,North,Chandigarh,Electronics,Laptop,New,Net Banking,Shipped,Sneha,3,3,3135.95,9407.85,No,0
+12-03-2025,South,Bangalore,Fashion,Shirt,Returning,UPI,Delivered,Amit,1,1,4425.83,4425.83,No,0
+31-10-2025,South,Chennai,Fashion,Shoes,Returning,Net Banking,Shipped,Karan,6,6,867.4,5204.4,No,0
+04-07-2025,West,Mumbai,Home,Chair,Returning,UPI,Shipped,Sneha,2,2,349.18,698.36,No,0
+22-03-2024,East,Kolkata,Groceries,Milk,Returning,Cash,Shipped,Priya,8,8,4507.61,36060.88,No,0
+21-12-2024,North,Delhi,Sports,Ball,Returning,Cash,Delivered,Sneha,2,2,4649.03,9298.06,Yes,5946.38
+14-09-2024,East,Bhubaneswar,Sports,Shoes,New,Net Banking,Pending,Karan,2,2,4811.9,9623.8,No,0
+18-12-2025,North,Delhi,Fashion,Shirt,Returning,Card,Pending,Sneha,6,6,1886.38,11318.28,No,0
+11-08-2025,West,Mumbai,Sports,Bat,New,Card,Delivered,Rohit,8,8,4038.91,32311.28,No,0
+07-06-2025,West,Mumbai,Groceries,Oil,New,Net Banking,Delivered,Priya,1,1,3596.68,3596.68,No,0
+21-10-2024,East,Bhubaneswar,Groceries,Milk,Returning,Card,Shipped,Karan,8,8,793.92,6351.36,No,0
+11-08-2024,South,Chennai,Home,Lamp,Returning,Card,Shipped,Rohit,8,8,4836.29,38690.32,No,0
+08-06-2025,North,Chandigarh,Sports,Bat,Returning,Net Banking,Delivered,Priya,8,8,3748.53,29988.24,No,0
+15-02-2024,East,Bhubaneswar,Fashion,Jeans,Returning,Net Banking,Delivered,Karan,5,5,4963.87,24819.35,No,0
+28-10-2025,West,Pune,Groceries,Rice,Returning,Net Banking,Pending,Amit,3,3,1815.91,5447.73,No,0
+22-04-2024,East,Kolkata,Sports,Bat,New,Card,Shipped,Amit,8,8,1921.46,15371.68,Yes,11721.83
+20-08-2024,South,Chennai,Home,Lamp,New,Card,Pending,Sneha,7,7,2477.81,17344.67,No,0
+17-01-2024,West,Mumbai,Sports,Ball,New,Cash,Pending,Karan,6,6,2871.46,17228.76,No,0
+25-12-2024,East,Bhubaneswar,Home,Chair,Returning,Net Banking,Shipped,Amit,8,8,1878.04,15024.32,No,0
+10-08-2024,North,Delhi,Groceries,Rice,Returning,UPI,Shipped,Karan,1,1,4454.35,4454.35,No,0
+30-11-2025,North,Delhi,Home,Chair,New,Net Banking,Delivered,Karan,6,6,1420.25,8521.5,No,0
+23-03-2025,North,Delhi,Electronics,Phone,New,Cash,Shipped,Karan,1,1,3645.32,3645.32,No,0
+30-12-2024,South,Chennai,Groceries,Milk,New,Cash,Pending,Priya,5,5,513.42,2567.1,No,0
+05-11-2025,North,Chandigarh,Electronics,Phone,New,Card,Pending,Amit,3,3,2596.59,7789.77,No,0
+21-11-2024,East,Bhubaneswar,Home,Chair,Returning,Card,Delivered,Priya,9,9,2188.86,19699.74,No,0
+11-04-2025,West,Mumbai,Fashion,Shoes,Returning,Net Banking,Pending,Sneha,9,9,4758.65,42827.85,No,0
+17-02-2025,South,Chennai,Sports,Bat,New,Cash,Shipped,Rohit,9,9,1263.68,11373.12,No,0
+30-03-2025,North,Delhi,Groceries,Milk,New,UPI,Pending,Amit,6,6,1409.57,8457.42,No,0
+08-08-2025,West,Mumbai,Home,Lamp,New,Net Banking,Shipped,Sneha,7,7,715.96,5011.72,No,0
+20-08-2024,North,Delhi,Electronics,Tablet,New,Card,Pending,Amit,6,6,2357.49,14144.94,No,0
+11-08-2024,West,Mumbai,Fashion,Shirt,New,Net Banking,Shipped,Rohit,8,8,615.58,4924.64,No,0
+15-02-2025,North,Chandigarh,Electronics,Tablet,New,UPI,Shipped,Amit,6,6,4140.13,24840.78,No,0
+25-07-2025,West,Mumbai,Fashion,Jeans,Returning,Cash,Delivered,Rohit,7,7,1440.97,10086.79,No,0
+30-11-2024,West,Pune,Fashion,Shirt,Returning,Card,Shipped,Amit,1,1,1414.43,1414.43,No,0
+09-08-2024,West,Pune,Home,Chair,New,Net Banking,Delivered,Amit,7,7,2639.21,18474.47,Yes,12107.88
+06-02-2024,North,Delhi,Fashion,Jeans,New,Cash,Shipped,Amit,8,8,4779.61,38236.88,No,0
+04-10-2024,West,Mumbai,Home,Lamp,New,Net Banking,Delivered,Karan,7,7,1124.38,7870.66,No,0
+14-07-2024,West,Pune,Fashion,Jeans,Returning,Card,Shipped,Sneha,1,1,2753.82,2753.82,No,0
+28-04-2025,East,Bhubaneswar,Fashion,Shirt,Returning,Cash,Delivered,Sneha,2,2,2952.51,5905.02,No,0
+29-08-2024,East,Bhubaneswar,Electronics,Phone,Returning,UPI,Shipped,Karan,8,8,2568.23,20545.84,No,0
+19-11-2024,East,Kolkata,Home,Lamp,Returning,Net Banking,Pending,Priya,5,5,1758,8790,No,0
+10-07-2024,East,Kolkata,Sports,Ball,Returning,UPI,Shipped,Amit,9,9,293.15,2638.35,No,0
+17-01-2024,North,Chandigarh,Sports,Bat,Returning,Net Banking,Delivered,Sneha,5,5,4842.54,24212.7,No,0
+07-06-2025,East,Kolkata,Fashion,Jeans,Returning,Card,Shipped,Priya,5,5,950.99,4754.95,No,0
+04-02-2025,South,Bangalore,Home,Table,New,Net Banking,Shipped,Priya,3,3,1308.62,3925.86,No,0
+05-12-2025,West,Mumbai,Groceries,Rice,New,UPI,Pending,Priya,6,6,2590.94,15545.64,No,0
+22-01-2024,East,Kolkata,Electronics,Laptop,Returning,UPI,Delivered,Karan,7,7,1470.86,10296.02,No,0
+18-04-2025,North,Delhi,Home,Chair,New,Net Banking,Pending,Rohit,8,8,2126.96,17015.68,No,0
+29-04-2024,East,Kolkata,Groceries,Oil,New,Net Banking,Pending,Sneha,1,1,4954.15,4954.15,No,0
+28-07-2024,North,Delhi,Fashion,Jeans,Returning,UPI,Shipped,Sneha,8,8,2258.96,18071.68,No,0
+01-11-2024,West,Pune,Home,Table,Returning,Card,Pending,Sneha,1,1,2789.02,2789.02,No,0
+26-09-2024,West,Mumbai,Electronics,Phone,New,Net Banking,Shipped,Amit,2,2,4379.47,8758.94,Yes,7978.34
+04-12-2025,South,Chennai,Sports,Shoes,New,Cash,Delivered,Priya,8,8,215.6,1724.8,No,0
+17-11-2025,North,Chandigarh,Fashion,Jeans,New,Net Banking,Delivered,Sneha,9,9,3765.72,33891.48,No,0
+11-10-2024,East,Bhubaneswar,Sports,Shoes,New,Cash,Shipped,Sneha,7,7,2040.67,14284.69,No,0
+16-12-2025,South,Bangalore,Electronics,Phone,New,Card,Pending,Sneha,9,9,3702.73,33324.57,No,0
+06-11-2025,West,Mumbai,Electronics,Tablet,Returning,Card,Shipped,Karan,6,6,4943.02,29658.12,No,0
+14-08-2024,East,Bhubaneswar,Groceries,Rice,New,UPI,Pending,Amit,3,3,1748.09,5244.27,No,0
+15-01-2025,East,Kolkata,Sports,Shoes,New,Cash,Shipped,Karan,9,9,868.82,7819.38,No,0
+04-04-2025,South,Bangalore,Fashion,Shoes,Returning,Card,Shipped,Sneha,8,8,3943.59,31548.72,No,0
+07-01-2024,West,Pune,Electronics,Laptop,New,Card,Delivered,Karan,4,4,3635.1,14540.4,No,0
+29-01-2024,North,Chandigarh,Groceries,Rice,New,Card,Shipped,Karan,8,8,2504.97,20039.76,Yes,13913.47
+02-02-2024,East,Bhubaneswar,Home,Table,New,Card,Delivered,Sneha,4,4,2808.25,11233,No,0
+07-10-2025,North,Chandigarh,Sports,Ball,New,UPI,Shipped,Rohit,6,6,1417.42,8504.52,Yes,6618.82
+19-03-2024,South,Bangalore,Fashion,Shoes,New,UPI,Delivered,Karan,3,3,1071.21,3213.63,No,0
+03-04-2025,West,Pune,Fashion,Shirt,New,Net Banking,Delivered,Amit,2,2,4847.19,9694.38,No,0
+23-07-2025,North,Chandigarh,Fashion,Shirt,New,Card,Delivered,Priya,6,6,3059.21,18355.26,Yes,5061.37
+21-06-2025,East,Bhubaneswar,Sports,Bat,New,Cash,Pending,Priya,6,6,1669.46,10016.76,No,0
+26-04-2025,North,Chandigarh,Fashion,Jeans,Returning,Net Banking,Delivered,Amit,7,7,406.15,2843.05,No,0
+05-03-2025,West,Pune,Home,Lamp,New,Net Banking,Shipped,Priya,6,6,3457.49,20744.94,No,0
+11-10-2024,East,Bhubaneswar,Electronics,Phone,Returning,UPI,Shipped,Sneha,1,1,4746.17,4746.17,No,0
+30-05-2025,North,Chandigarh,Groceries,Milk,New,Card,Pending,Karan,2,2,4274.65,8549.3,No,0
+08-04-2024,West,Pune,Home,Table,Returning,Card,Delivered,Sneha,1,1,3855.12,3855.12,No,0
+31-01-2025,South,Bangalore,Sports,Shoes,Returning,Card,Shipped,Sneha,6,6,4002.61,24015.66,No,0
+03-05-2025,South,Bangalore,Electronics,Tablet,Returning,Card,Delivered,Priya,2,2,3793.46,7586.92,No,0
+08-02-2024,West,Pune,Home,Chair,New,UPI,Shipped,Rohit,8,8,2688.07,21504.56,No,0
+27-09-2024,East,Kolkata,Home,Chair,New,Cash,Shipped,Amit,3,3,3186.37,9559.11,No,0
+05-06-2024,North,Delhi,Electronics,Phone,New,Cash,Pending,Sneha,3,3,4855.15,14565.45,No,0
+15-03-2024,South,Bangalore,Groceries,Milk,Returning,Net Banking,Shipped,Amit,2,2,2512.77,5025.54,No,0
+09-05-2024,North,Chandigarh,Sports,Shoes,Returning,Card,Pending,Rohit,1,1,1457.08,1457.08,Yes,1114.36
+17-11-2025,North,Chandigarh,Groceries,Milk,New,Net Banking,Pending,Amit,7,7,1166.73,8167.11,No,0
+24-03-2024,North,Chandigarh,Groceries,Rice,New,Cash,Delivered,Karan,5,5,4467.44,22337.2,No,0
+22-01-2024,East,Bhubaneswar,Groceries,Milk,Returning,Cash,Shipped,Rohit,7,7,1186.72,8307.04,No,0
+03-04-2025,South,Bangalore,Sports,Shoes,Returning,Net Banking,Pending,Rohit,7,7,492.31,3446.17,No,0
+22-06-2025,North,Chandigarh,Fashion,Shirt,New,UPI,Pending,Priya,9,9,515.35,4638.15,No,0
+07-12-2025,East,Bhubaneswar,Sports,Shoes,Returning,UPI,Shipped,Karan,4,4,2842.12,11368.48,No,0
+16-01-2025,West,Pune,Groceries,Milk,New,UPI,Delivered,Sneha,3,3,3447.56,10342.68,Yes,8545.94
+15-03-2025,West,Mumbai,Electronics,Phone,New,UPI,Pending,Priya,2,2,4015.5,8031,No,0
+26-08-2025,West,Mumbai,Fashion,Jeans,New,Card,Pending,Sneha,2,2,1126.15,2252.3,No,0
+21-01-2024,West,Pune,Groceries,Milk,New,Card,Delivered,Karan,2,2,1205.76,2411.52,No,0
+29-10-2024,North,Chandigarh,Electronics,Phone,New,Net Banking,Shipped,Karan,2,2,4802.94,9605.88,No,0
+24-03-2024,North,Delhi,Electronics,Phone,New,Cash,Pending,Rohit,5,5,4992.95,24964.75,Yes,21674.28
+20-10-2025,North,Chandigarh,Electronics,Tablet,Returning,Cash,Pending,Sneha,6,6,1861.38,11168.28,No,0
+28-03-2025,East,Bhubaneswar,Electronics,Phone,New,Net Banking,Pending,Karan,9,9,4517.99,40661.91,No,0
+21-01-2025,North,Delhi,Groceries,Rice,New,Cash,Delivered,Karan,7,7,4633.91,32437.37,No,0
+21-05-2025,East,Bhubaneswar,Electronics,Laptop,New,Cash,Delivered,Rohit,7,7,3601.36,25209.52,No,0
+13-09-2024,West,Mumbai,Electronics,Tablet,Returning,UPI,Shipped,Amit,6,6,4044.34,24266.04,No,0
+23-07-2025,East,Bhubaneswar,Fashion,Shirt,Returning,Cash,Shipped,Sneha,7,7,4898.39,34288.73,No,0
+10-06-2025,South,Bangalore,Home,Chair,New,Cash,Delivered,Karan,1,1,2563.64,2563.64,No,0
+10-06-2024,East,Bhubaneswar,Home,Lamp,New,Net Banking,Delivered,Sneha,1,1,1654.72,1654.72,No,0
+11-06-2024,West,Mumbai,Fashion,Jeans,Returning,Net Banking,Delivered,Rohit,1,1,141.63,141.63,No,0
+07-06-2025,East,Kolkata,Sports,Shoes,Returning,Cash,Pending,Rohit,1,1,359.39,359.39,No,0
+27-09-2024,North,Delhi,Sports,Shoes,Returning,Net Banking,Delivered,Amit,5,5,4418.91,22094.55,No,0
+06-05-2025,North,Delhi,Sports,Bat,New,Cash,Delivered,Karan,9,9,2076.49,18688.41,No,0
+26-07-2024,West,Mumbai,Fashion,Shirt,Returning,Net Banking,Pending,Priya,4,4,1845.35,7381.4,No,0
+22-06-2025,West,Pune,Fashion,Shoes,New,UPI,Shipped,Karan,6,6,1993.67,11962.02,No,0
+06-08-2025,North,Chandigarh,Groceries,Milk,New,UPI,Delivered,Rohit,7,7,2793.85,19556.95,No,0
+29-02-2024,West,Mumbai,Groceries,Rice,New,Cash,Pending,Priya,8,8,4418.16,35345.28,Yes,27054.79
+05-03-2025,North,Chandigarh,Electronics,Laptop,Returning,Card,Shipped,Priya,8,8,1426.35,11410.8,No,0
+18-10-2025,North,Chandigarh,Groceries,Oil,Returning,Net Banking,Delivered,Amit,8,8,2564.91,20519.28,No,0
+27-08-2025,East,Bhubaneswar,Electronics,Laptop,Returning,UPI,Delivered,Karan,2,2,3723.86,7447.72,No,0
+04-11-2024,North,Delhi,Fashion,Shirt,Returning,UPI,Pending,Amit,2,2,2244.47,4488.94,No,0
+03-06-2025,East,Kolkata,Home,Table,Returning,Card,Delivered,Amit,1,1,1506.24,1506.24,No,0
+13-08-2025,North,Delhi,Sports,Shoes,Returning,Card,Shipped,Rohit,9,9,2324.4,20919.6,No,0
+27-01-2024,East,Bhubaneswar,Electronics,Phone,New,Net Banking,Shipped,Amit,3,3,4286.56,12859.68,No,0
+16-11-2025,North,Delhi,Electronics,Phone,New,Cash,Shipped,Priya,1,1,2287.14,2287.14,No,0
+15-07-2025,West,Mumbai,Sports,Ball,New,Cash,Pending,Rohit,7,7,1893.54,13254.78,No,0
+17-07-2024,East,Bhubaneswar,Sports,Bat,New,Net Banking,Pending,Rohit,9,9,2426.13,21835.17,No,0
+21-01-2025,West,Pune,Groceries,Oil,New,UPI,Pending,Priya,6,6,4508.04,27048.24,No,0
+14-12-2024,South,Chennai,Fashion,Shoes,New,Cash,Shipped,Sneha,7,7,4360.75,30525.25,No,0
+23-11-2025,East,Kolkata,Sports,Bat,Returning,UPI,Delivered,Karan,5,5,278.07,1390.35,No,0
+19-06-2025,North,Delhi,Home,Chair,New,Card,Shipped,Rohit,6,6,3347.65,20085.9,No,0
+12-01-2025,North,Chandigarh,Groceries,Milk,Returning,Cash,Shipped,Amit,8,8,3654.79,29238.32,No,0
+11-07-2025,South,Bangalore,Sports,Bat,Returning,UPI,Shipped,Karan,6,6,2476.86,14861.16,No,0
+10-06-2025,West,Pune,Sports,Shoes,New,Card,Delivered,Rohit,4,4,1500.62,6002.48,Yes,2860.34
+01-06-2024,South,Chennai,Sports,Ball,Returning,Net Banking,Shipped,Amit,2,2,3527.69,7055.38,No,0
+24-07-2024,East,Kolkata,Sports,Bat,New,Card,Shipped,Sneha,4,4,2791.7,11166.8,No,0
+30-03-2025,East,Kolkata,Electronics,Tablet,New,Card,Shipped,Sneha,9,9,3232.94,29096.46,No,0
+29-09-2024,West,Pune,Groceries,Oil,Returning,Card,Shipped,Amit,7,7,1353.78,9476.46,No,0
+23-08-2024,South,Chennai,Sports,Bat,Returning,Cash,Pending,Amit,2,2,3806.14,7612.28,No,0
+04-06-2025,South,Chennai,Sports,Ball,Returning,Cash,Pending,Rohit,6,6,4484.26,26905.56,No,0
+08-11-2025,North,Chandigarh,Groceries,Rice,Returning,Net Banking,Shipped,Rohit,4,4,3649.49,14597.96,No,0
+26-12-2025,East,Kolkata,Sports,Shoes,Returning,Card,Pending,Rohit,9,9,4309,38781,No,0
+15-05-2025,South,Chennai,Sports,Ball,New,Cash,Shipped,Amit,2,2,2246.31,4492.62,No,0
+26-04-2024,East,Bhubaneswar,Home,Chair,Returning,Net Banking,Pending,Rohit,2,2,1272.91,2545.82,No,0
+20-01-2025,North,Delhi,Electronics,Laptop,Returning,UPI,Delivered,Priya,7,7,1670.78,11695.46,No,0
+09-12-2024,South,Chennai,Home,Chair,Returning,Net Banking,Pending,Amit,1,1,2904.19,2904.19,No,0
+06-08-2025,West,Mumbai,Electronics,Phone,New,Net Banking,Delivered,Karan,2,2,2001.49,4002.98,No,0
+29-01-2025,West,Mumbai,Groceries,Oil,New,Net Banking,Shipped,Amit,5,5,3808.27,19041.35,No,0
+04-03-2024,East,Kolkata,Sports,Shoes,Returning,UPI,Delivered,Priya,6,6,2033.3,12199.8,No,0
+17-12-2025,East,Bhubaneswar,Home,Chair,New,Net Banking,Shipped,Sneha,1,1,3267.19,3267.19,No,0
+21-12-2025,West,Pune,Groceries,Oil,New,Cash,Delivered,Amit,8,8,4170.12,33360.96,No,0
+12-03-2024,West,Pune,Sports,Shoes,Returning,UPI,Shipped,Priya,8,8,2663.47,21307.76,No,0
+30-09-2024,West,Mumbai,Sports,Bat,Returning,UPI,Pending,Rohit,2,2,2685.14,5370.28,No,0
+15-11-2024,South,Chennai,Electronics,Laptop,Returning,Net Banking,Delivered,Priya,1,1,3786.49,3786.49,Yes,2323.41
+03-12-2024,East,Kolkata,Groceries,Rice,Returning,Card,Shipped,Sneha,1,1,179.01,179.01,No,0
+31-12-2024,South,Bangalore,Electronics,Phone,Returning,UPI,Delivered,Rohit,3,3,456.41,1369.23,No,0
+09-05-2025,East,Kolkata,Electronics,Phone,Returning,Card,Pending,Sneha,3,3,1858.46,5575.38,No,0
+29-08-2025,West,Pune,Fashion,Jeans,New,Net Banking,Shipped,Sneha,2,2,1592.16,3184.32,Yes,646.84
+14-06-2024,North,Chandigarh,Fashion,Shirt,New,Card,Delivered,Sneha,9,9,2091.39,18822.51,No,0
+27-06-2025,West,Mumbai,Fashion,Shoes,Returning,Cash,Shipped,Amit,1,1,4656.62,4656.62,No,0
+11-01-2024,North,Delhi,Sports,Bat,New,UPI,Delivered,Karan,4,4,1213.88,4855.52,No,0
+27-10-2024,North,Delhi,Sports,Bat,New,Card,Delivered,Amit,9,9,1237.19,11134.71,No,0
+29-12-2025,West,Mumbai,Groceries,Oil,Returning,Card,Delivered,Priya,7,7,2134.03,14938.21,No,0
+11-04-2024,North,Delhi,Electronics,Tablet,Returning,Card,Shipped,Karan,7,7,2396.15,16773.05,No,0
+28-02-2025,South,Chennai,Sports,Bat,New,Card,Pending,Amit,3,3,470.08,1410.24,No,0
+26-01-2025,East,Kolkata,Home,Table,Returning,Net Banking,Pending,Karan,5,5,272.27,1361.35,No,0
+01-08-2024,East,Kolkata,Home,Lamp,New,Net Banking,Shipped,Sneha,6,6,1753.06,10518.36,No,0
+21-11-2025,East,Kolkata,Fashion,Shirt,New,Card,Delivered,Priya,1,1,4303.04,4303.04,No,0
+28-03-2024,East,Bhubaneswar,Home,Chair,Returning,Net Banking,Shipped,Karan,2,2,153.97,307.94,No,0
+06-07-2025,South,Chennai,Home,Lamp,Returning,Net Banking,Delivered,Karan,8,8,888.82,7110.56,No,0
+04-02-2025,South,Chennai,Groceries,Milk,Returning,Cash,Delivered,Sneha,9,9,971.61,8744.49,No,0
+10-08-2025,South,Chennai,Home,Table,Returning,Net Banking,Pending,Amit,8,8,4698.39,37587.12,No,0
+15-02-2024,South,Bangalore,Fashion,Jeans,Returning,UPI,Delivered,Karan,3,3,3970.88,11912.64,No,0
+02-11-2025,East,Kolkata,Groceries,Oil,Returning,Card,Shipped,Karan,7,7,2437.84,17064.88,No,0
+07-04-2025,South,Chennai,Fashion,Jeans,Returning,Card,Delivered,Karan,5,5,2226.05,11130.25,No,0
+14-08-2025,East,Kolkata,Electronics,Phone,Returning,Net Banking,Delivered,Rohit,3,3,2098.68,6296.04,No,0
+05-11-2024,South,Bangalore,Groceries,Milk,New,Net Banking,Shipped,Amit,6,6,2639.76,15838.56,No,0
+26-03-2024,West,Pune,Home,Chair,Returning,Card,Shipped,Karan,8,8,107,856,No,0
+01-04-2024,East,Bhubaneswar,Home,Lamp,Returning,Net Banking,Delivered,Karan,9,9,970.03,8730.27,No,0
+21-10-2025,West,Pune,Sports,Ball,New,Cash,Pending,Rohit,9,9,1505.55,13549.95,No,0
+03-11-2025,West,Mumbai,Sports,Bat,Returning,Cash,Pending,Priya,3,3,3048.95,9146.85,Yes,8945.78
+14-12-2025,South,Chennai,Fashion,Shoes,New,UPI,Shipped,Amit,4,4,1238.22,4952.88,No,0
+29-08-2024,North,Delhi,Groceries,Milk,Returning,UPI,Shipped,Amit,4,4,652.92,2611.68,No,0
+02-01-2024,West,Pune,Sports,Bat,Returning,UPI,Delivered,Karan,6,6,3056.68,18340.08,No,0
+12-08-2024,North,Chandigarh,Fashion,Shirt,Returning,Cash,Delivered,Rohit,6,6,3710.29,22261.74,No,0
+11-08-2025,North,Chandigarh,Sports,Shoes,Returning,UPI,Pending,Karan,2,2,2981.9,5963.8,No,0
+25-04-2024,South,Chennai,Groceries,Rice,New,Cash,Pending,Rohit,1,1,2461.31,2461.31,No,0
+27-10-2025,South,Bangalore,Groceries,Milk,New,Net Banking,Shipped,Priya,4,4,1444.62,5778.48,No,0
+12-04-2024,North,Chandigarh,Home,Chair,Returning,Net Banking,Shipped,Rohit,7,7,4699.72,32898.04,No,0
+12-07-2024,South,Bangalore,Home,Lamp,New,Net Banking,Shipped,Amit,1,1,2797.67,2797.67,No,0
+14-06-2024,South,Chennai,Groceries,Milk,Returning,Cash,Delivered,Priya,6,6,712.29,4273.74,No,0
+30-03-2024,North,Chandigarh,Home,Lamp,New,Card,Pending,Rohit,5,5,2390.2,11951,No,0
+16-11-2025,West,Pune,Electronics,Laptop,Returning,Net Banking,Shipped,Priya,7,7,1632.94,11430.58,No,0
+01-05-2024,South,Bangalore,Home,Chair,New,Card,Pending,Karan,1,1,583.56,583.56,No,0
+22-05-2024,West,Mumbai,Home,Lamp,Returning,Cash,Pending,Sneha,3,3,2723.53,8170.59,No,0
+15-04-2024,South,Chennai,Groceries,Rice,Returning,Card,Pending,Karan,1,1,3723.43,3723.43,No,0
+03-03-2025,South,Chennai,Groceries,Oil,New,Card,Shipped,Sneha,5,5,2867.72,14338.6,No,0
+31-10-2024,North,Delhi,Sports,Shoes,New,Net Banking,Shipped,Priya,6,6,355.15,2130.9,Yes,1782.36
+12-11-2024,South,Bangalore,Groceries,Oil,Returning,Cash,Shipped,Karan,9,9,2592.55,23332.95,Yes,14661.88
+26-09-2025,North,Chandigarh,Groceries,Rice,New,UPI,Delivered,Karan,9,9,3028.3,27254.7,No,0
+09-01-2024,West,Mumbai,Sports,Ball,New,UPI,Shipped,Sneha,2,2,4878.7,9757.4,No,0
+13-03-2024,North,Chandigarh,Fashion,Shirt,Returning,Net Banking,Delivered,Sneha,6,6,1247.1,7482.6,Yes,4594.91
+24-12-2024,North,Chandigarh,Electronics,Tablet,New,Cash,Pending,Karan,1,1,2084.51,2084.51,No,0
+10-08-2024,East,Bhubaneswar,Groceries,Oil,Returning,UPI,Delivered,Sneha,5,5,1683.65,8418.25,No,0
+19-02-2025,East,Kolkata,Sports,Bat,Returning,Cash,Shipped,Rohit,5,5,866.99,4334.95,No,0
+06-07-2025,South,Chennai,Fashion,Shoes,Returning,UPI,Delivered,Priya,5,5,1515.31,7576.55,No,0
+04-01-2025,North,Delhi,Home,Chair,New,Net Banking,Pending,Rohit,2,2,918.06,1836.12,No,0
+16-12-2025,West,Mumbai,Electronics,Phone,New,Net Banking,Pending,Sneha,9,9,1721.86,15496.74,No,0
+20-09-2024,East,Bhubaneswar,Fashion,Shirt,Returning,Card,Delivered,Rohit,7,7,2299.37,16095.59,No,0
+20-11-2025,West,Pune,Sports,Ball,New,Cash,Delivered,Karan,4,4,1211.12,4844.48,No,0
+13-11-2024,South,Chennai,Sports,Ball,New,Net Banking,Delivered,Sneha,1,1,3480.14,3480.14,No,0
+24-03-2024,West,Mumbai,Fashion,Jeans,Returning,UPI,Pending,Priya,6,6,1702.33,10213.98,No,0
+13-11-2024,South,Chennai,Fashion,Shirt,Returning,Card,Delivered,Sneha,9,9,4556.97,41012.73,No,0
+20-04-2024,North,Chandigarh,Home,Table,Returning,Net Banking,Delivered,Sneha,8,8,4554.13,36433.04,No,0
+07-09-2024,West,Pune,Electronics,Tablet,New,UPI,Pending,Karan,9,9,1083.1,9747.9,No,0
+17-01-2025,South,Chennai,Groceries,Milk,Returning,Net Banking,Delivered,Sneha,9,9,980.29,8822.61,No,0
+07-01-2024,North,Chandigarh,Home,Chair,New,Cash,Pending,Amit,3,3,2194.79,6584.37,No,0
+03-04-2025,South,Bangalore,Home,Table,New,Card,Delivered,Karan,6,6,1710.16,10260.96,No,0
+24-03-2024,South,Bangalore,Sports,Bat,Returning,Net Banking,Delivered,Rohit,2,2,985.12,1970.24,No,0
+26-07-2024,West,Mumbai,Fashion,Jeans,New,Net Banking,Pending,Priya,5,5,3859.44,19297.2,No,0
+24-01-2025,West,Pune,Fashion,Shoes,New,UPI,Shipped,Sneha,7,7,2724.73,19073.11,No,0
+09-11-2024,East,Kolkata,Sports,Ball,New,Card,Pending,Priya,6,6,620.76,3724.56,No,0
+22-01-2024,North,Delhi,Groceries,Milk,Returning,UPI,Shipped,Amit,3,3,2598.93,7796.79,No,0
+13-02-2025,East,Bhubaneswar,Groceries,Milk,Returning,UPI,Shipped,Rohit,3,3,2437.54,7312.62,No,0
+29-05-2025,South,Bangalore,Electronics,Phone,New,UPI,Shipped,Rohit,2,2,2468.67,4937.34,No,0
+06-05-2024,North,Chandigarh,Electronics,Laptop,New,Net Banking,Pending,Priya,8,8,117.92,943.36,No,0
+30-11-2025,North,Chandigarh,Fashion,Shirt,New,Cash,Pending,Rohit,9,9,1225.61,11030.49,No,0
+14-01-2024,North,Delhi,Home,Chair,New,Cash,Delivered,Karan,8,8,3252.51,26020.08,No,0
+12-01-2024,South,Chennai,Electronics,Tablet,Returning,Net Banking,Delivered,Priya,6,6,1231.8,7390.8,No,0
+27-03-2024,South,Bangalore,Sports,Bat,New,UPI,Shipped,Priya,3,3,1948.18,5844.54,No,0
+07-06-2025,East,Bhubaneswar,Home,Chair,Returning,Net Banking,Delivered,Amit,5,5,385.27,1926.35,No,0
+20-06-2025,West,Pune,Groceries,Milk,New,Card,Delivered,Amit,5,5,1530.15,7650.75,No,0
+27-10-2024,East,Kolkata,Fashion,Shoes,Returning,Net Banking,Pending,Sneha,8,8,3394.4,27155.2,No,0
+30-08-2024,South,Chennai,Home,Chair,Returning,Cash,Pending,Karan,6,6,2118.54,12711.24,No,0
+01-05-2024,South,Bangalore,Home,Chair,New,Card,Pending,Sneha,5,5,4267.51,21337.55,No,0
+26-05-2024,West,Pune,Home,Table,New,UPI,Shipped,Rohit,9,9,1972.96,17756.64,No,0
+20-07-2025,South,Bangalore,Electronics,Phone,Returning,Cash,Shipped,Priya,6,6,3304.98,19829.88,No,0
+21-12-2024,West,Mumbai,Fashion,Shirt,Returning,UPI,Shipped,Amit,3,3,361.95,1085.85,No,0
+15-11-2025,East,Kolkata,Home,Lamp,Returning,Net Banking,Pending,Amit,5,5,1975.37,9876.85,No,0
+22-09-2025,South,Chennai,Electronics,Tablet,Returning,Card,Delivered,Amit,9,9,4349.05,39141.45,No,0
+04-11-2024,West,Pune,Sports,Bat,Returning,Cash,Shipped,Rohit,4,4,454.71,1818.84,No,0
+25-11-2025,North,Chandigarh,Electronics,Laptop,New,Cash,Shipped,Amit,8,8,768.86,6150.88,No,0
+14-10-2024,East,Bhubaneswar,Electronics,Phone,Returning,Card,Delivered,Priya,2,2,1290.43,2580.86,No,0
+02-11-2024,East,Bhubaneswar,Electronics,Laptop,New,UPI,Pending,Karan,4,4,134.77,539.08,No,0
+16-08-2025,West,Pune,Electronics,Phone,Returning,Cash,Delivered,Amit,5,5,1534.78,7673.9,No,0
+23-12-2025,West,Pune,Groceries,Oil,New,UPI,Delivered,Rohit,1,1,2703.57,2703.57,No,0
+23-10-2025,West,Mumbai,Groceries,Rice,New,Net Banking,Pending,Karan,2,2,1560.94,3121.88,No,0
+02-07-2025,South,Bangalore,Home,Chair,New,Card,Delivered,Priya,1,1,4267.1,4267.1,No,0
+17-12-2024,South,Bangalore,Electronics,Laptop,New,Card,Delivered,Priya,4,4,470.59,1882.36,No,0
+07-11-2024,North,Chandigarh,Fashion,Shirt,Returning,UPI,Pending,Sneha,8,8,4264.23,34113.84,No,0
+28-02-2024,North,Delhi,Electronics,Phone,Returning,Net Banking,Pending,Rohit,9,9,1832.52,16492.68,No,0
+04-10-2025,South,Bangalore,Fashion,Shirt,New,UPI,Pending,Priya,3,3,1051.23,3153.69,No,0
+14-12-2025,South,Bangalore,Sports,Shoes,New,UPI,Pending,Amit,8,8,1828.19,14625.52,No,0
+04-02-2024,South,Chennai,Groceries,Oil,New,UPI,Pending,Amit,9,9,1585.72,14271.48,No,0
+20-03-2025,North,Delhi,Electronics,Laptop,Returning,UPI,Pending,Sneha,9,9,4043.68,36393.12,No,0
+02-04-2024,South,Chennai,Home,Table,New,Card,Delivered,Sneha,4,4,4030.79,16123.16,No,0
+25-07-2024,North,Chandigarh,Fashion,Shirt,New,Net Banking,Delivered,Sneha,3,3,508.56,1525.68,No,0
+18-12-2024,East,Bhubaneswar,Home,Lamp,Returning,Card,Shipped,Amit,2,2,2082.01,4164.02,No,0
+27-11-2024,North,Chandigarh,Electronics,Laptop,Returning,Cash,Delivered,Priya,1,1,4122.12,4122.12,No,0
+25-12-2025,North,Delhi,Electronics,Tablet,Returning,Cash,Pending,Amit,9,9,1015.19,9136.71,No,0
+07-06-2024,East,Kolkata,Fashion,Jeans,Returning,Card,Delivered,Karan,7,7,3481.13,24367.91,No,0
+24-01-2024,South,Bangalore,Home,Lamp,Returning,UPI,Delivered,Priya,3,3,4195.85,12587.55,No,0
+07-02-2025,South,Bangalore,Sports,Ball,New,Card,Pending,Karan,4,4,1318.75,5275,Yes,1758.75
+30-05-2025,North,Delhi,Sports,Ball,Returning,Card,Delivered,Amit,2,2,3574.72,7149.44,Yes,1638.23
+29-12-2024,North,Delhi,Fashion,Shoes,Returning,UPI,Shipped,Sneha,3,3,4481.49,13444.47,No,0
+16-01-2025,North,Chandigarh,Groceries,Rice,New,UPI,Pending,Amit,4,4,4102.29,16409.16,No,0
+15-06-2025,North,Chandigarh,Electronics,Laptop,Returning,Cash,Pending,Rohit,9,9,3532.23,31790.07,No,0
+31-05-2024,East,Bhubaneswar,Groceries,Oil,New,UPI,Shipped,Amit,4,4,1979.06,7916.24,No,0
+15-07-2025,North,Chandigarh,Groceries,Oil,Returning,UPI,Delivered,Sneha,9,9,1493.01,13437.09,No,0
+19-11-2025,West,Mumbai,Groceries,Milk,New,Card,Pending,Karan,9,9,2325.65,20930.85,No,0
+30-08-2025,South,Chennai,Home,Lamp,New,Cash,Shipped,Rohit,2,2,4984.36,9968.72,No,0
+08-09-2025,North,Chandigarh,Home,Table,New,Card,Shipped,Sneha,4,4,1403.5,5614,No,0
+23-02-2025,West,Pune,Sports,Ball,Returning,Card,Pending,Karan,9,9,837.99,7541.91,No,0
+06-09-2024,North,Delhi,Fashion,Jeans,New,UPI,Delivered,Priya,9,9,3472.27,31250.43,No,0
+26-04-2024,East,Bhubaneswar,Home,Chair,Returning,Net Banking,Delivered,Priya,1,1,763.92,763.92,No,0
+26-05-2025,East,Kolkata,Home,Table,New,Net Banking,Shipped,Rohit,5,5,2683.55,13417.75,No,0
+31-07-2025,South,Bangalore,Groceries,Rice,Returning,Net Banking,Pending,Karan,7,7,1436.69,10056.83,No,0
+30-11-2024,East,Bhubaneswar,Home,Lamp,New,Cash,Shipped,Rohit,1,1,2330.11,2330.11,No,0
+21-02-2025,North,Delhi,Sports,Bat,New,UPI,Delivered,Rohit,9,9,4722.22,42499.98,No,0
+21-10-2024,South,Bangalore,Electronics,Tablet,Returning,UPI,Shipped,Rohit,8,8,2305.25,18442,No,0
+05-01-2025,North,Chandigarh,Fashion,Shirt,Returning,Cash,Shipped,Sneha,8,8,2538.07,20304.56,No,0
+04-07-2024,West,Mumbai,Sports,Shoes,Returning,Net Banking,Pending,Karan,3,3,2656.54,7969.62,Yes,1717.91
+02-09-2024,South,Bangalore,Sports,Shoes,New,Card,Shipped,Priya,5,5,2568.09,12840.45,No,0
+28-09-2025,West,Pune,Home,Table,Returning,Cash,Delivered,Priya,1,1,2827.88,2827.88,No,0
+24-09-2024,East,Kolkata,Fashion,Jeans,New,Card,Delivered,Karan,7,7,1363.27,9542.89,No,0
+04-10-2025,South,Chennai,Groceries,Rice,Returning,Net Banking,Delivered,Priya,2,2,3275.7,6551.4,Yes,4737.94
+24-08-2024,East,Bhubaneswar,Home,Chair,Returning,UPI,Delivered,Rohit,6,6,1618.25,9709.5,No,0
+13-06-2025,West,Mumbai,Fashion,Shirt,New,UPI,Delivered,Rohit,9,9,4623.8,41614.2,No,0
+05-07-2025,East,Bhubaneswar,Fashion,Shoes,New,UPI,Delivered,Priya,1,1,311.53,311.53,No,0
+21-01-2024,North,Delhi,Electronics,Tablet,New,UPI,Shipped,Amit,5,5,4194.3,20971.5,Yes,8164.34
+03-06-2025,West,Mumbai,Electronics,Phone,Returning,Net Banking,Delivered,Karan,1,1,4841.93,4841.93,No,0
+09-04-2024,South,Bangalore,Fashion,Shoes,Returning,Card,Shipped,Priya,7,7,3105.67,21739.69,No,0
+22-04-2025,East,Kolkata,Sports,Bat,New,Cash,Pending,Amit,7,7,238.14,1666.98,No,0
+21-08-2025,South,Chennai,Sports,Bat,New,Cash,Pending,Karan,7,7,3647.55,25532.85,No,0
+24-10-2024,West,Pune,Sports,Shoes,New,UPI,Delivered,Rohit,3,3,2099.4,6298.2,No,0
+09-06-2025,East,Bhubaneswar,Electronics,Tablet,New,Card,Delivered,Sneha,4,4,3959.62,15838.48,No,0
+29-11-2024,South,Chennai,Groceries,Rice,Returning,Net Banking,Shipped,Priya,9,9,152.91,1376.19,No,0
+02-01-2024,East,Bhubaneswar,Electronics,Tablet,New,Net Banking,Delivered,Karan,7,7,4546.57,31825.99,No,0
+09-01-2025,East,Bhubaneswar,Home,Table,Returning,Net Banking,Delivered,Priya,6,6,4409.37,26456.22,No,0
+19-10-2024,West,Mumbai,Electronics,Laptop,New,UPI,Pending,Priya,1,1,445.26,445.26,No,0
+06-07-2025,West,Mumbai,Fashion,Shoes,Returning,Cash,Pending,Sneha,2,2,4731.1,9462.2,No,0
+13-11-2024,North,Delhi,Electronics,Phone,Returning,Cash,Pending,Rohit,8,8,3389.39,27115.12,No,0
+16-05-2025,West,Pune,Sports,Ball,New,Cash,Delivered,Karan,6,6,3718.84,22313.04,No,0
+15-01-2025,South,Chennai,Fashion,Shirt,New,Net Banking,Pending,Rohit,9,9,4922.18,44299.62,No,0
+14-09-2025,East,Kolkata,Sports,Shoes,Returning,UPI,Delivered,Sneha,3,3,3315.39,9946.17,No,0
+14-01-2024,South,Chennai,Electronics,Tablet,New,Cash,Pending,Karan,4,4,327.37,1309.48,No,0
+18-05-2025,West,Mumbai,Home,Lamp,New,Net Banking,Shipped,Amit,8,8,4466.88,35735.04,No,0
+18-08-2024,East,Kolkata,Groceries,Rice,Returning,Card,Shipped,Amit,5,5,3127.28,15636.4,No,0
+24-03-2024,North,Delhi,Groceries,Milk,New,Net Banking,Shipped,Karan,1,1,1272.37,1272.37,No,0
+09-05-2024,West,Pune,Electronics,Tablet,New,Net Banking,Pending,Karan,2,2,1424.71,2849.42,No,0
+24-05-2024,North,Chandigarh,Electronics,Laptop,Returning,Card,Pending,Karan,6,6,1640.73,9844.38,No,0
+28-01-2024,East,Kolkata,Groceries,Milk,New,Card,Pending,Priya,2,2,443.5,887,No,0
+06-03-2024,East,Kolkata,Electronics,Phone,New,Net Banking,Delivered,Karan,7,7,2248.69,15740.83,No,0
+11-06-2024,North,Chandigarh,Electronics,Phone,Returning,UPI,Shipped,Priya,5,5,4312.76,21563.8,No,0
+16-08-2024,South,Bangalore,Sports,Bat,New,UPI,Shipped,Sneha,8,8,4534.31,36274.48,No,0
+17-09-2024,North,Delhi,Sports,Ball,Returning,Card,Shipped,Amit,3,3,1953.9,5861.7,No,0
+24-03-2025,North,Delhi,Groceries,Rice,New,Net Banking,Pending,Karan,3,3,594.64,1783.92,No,0
+27-02-2025,South,Bangalore,Fashion,Jeans,New,Cash,Shipped,Amit,8,8,2334.89,18679.12,No,0
+04-04-2025,North,Chandigarh,Electronics,Laptop,Returning,Cash,Shipped,Sneha,1,1,4909.09,4909.09,No,0
+06-11-2025,East,Bhubaneswar,Home,Lamp,Returning,Net Banking,Shipped,Karan,4,4,1217.69,4870.76,No,0
+27-10-2024,East,Kolkata,Fashion,Jeans,Returning,Card,Pending,Priya,2,2,1961.63,3923.26,No,0
+29-10-2024,North,Delhi,Groceries,Milk,New,Card,Pending,Rohit,8,8,2843.46,22747.68,No,0
+13-10-2024,East,Kolkata,Groceries,Oil,New,Net Banking,Shipped,Rohit,6,6,3811.99,22871.94,No,0
+29-01-2025,West,Mumbai,Electronics,Phone,Returning,Card,Delivered,Priya,3,3,2754.63,8263.89,No,0
+10-01-2024,North,Chandigarh,Fashion,Shoes,Returning,Cash,Shipped,Karan,3,3,2380.98,7142.94,No,0
+07-12-2025,South,Bangalore,Sports,Ball,New,Card,Delivered,Karan,3,3,1908.19,5724.57,No,0
+21-09-2025,West,Mumbai,Home,Chair,New,Net Banking,Shipped,Karan,6,6,651.79,3910.74,No,0
+26-09-2024,West,Mumbai,Home,Table,New,Cash,Delivered,Karan,5,5,1338.55,6692.75,No,0
+14-08-2025,West,Mumbai,Electronics,Phone,New,Net Banking,Shipped,Sneha,4,4,3993.85,15975.4,No,0
+27-08-2025,South,Bangalore,Electronics,Phone,New,UPI,Delivered,Priya,9,9,4373.59,39362.31,Yes,34772.92
+26-12-2024,East,Bhubaneswar,Electronics,Tablet,Returning,Net Banking,Delivered,Karan,9,9,3097.11,27873.99,No,0
+13-09-2024,East,Bhubaneswar,Home,Lamp,New,UPI,Delivered,Rohit,9,9,595.7,5361.3,Yes,3425.37
+12-05-2024,East,Bhubaneswar,Sports,Bat,Returning,Cash,Shipped,Karan,6,6,1350.39,8102.34,No,0
+02-10-2024,West,Pune,Groceries,Rice,New,Net Banking,Shipped,Karan,4,4,2890.43,11561.72,No,0
+13-11-2025,East,Bhubaneswar,Sports,Shoes,New,UPI,Pending,Rohit,1,1,2267.73,2267.73,Yes,1440.24
+27-05-2025,West,Mumbai,Home,Chair,New,Card,Pending,Rohit,9,9,3104.53,27940.77,No,0
+08-11-2024,South,Chennai,Fashion,Shirt,Returning,Net Banking,Shipped,Priya,9,9,2226.84,20041.56,No,0
+29-07-2025,South,Bangalore,Fashion,Shoes,Returning,UPI,Pending,Sneha,7,7,3039.44,21276.08,No,0
+10-10-2024,North,Delhi,Sports,Bat,New,Net Banking,Shipped,Amit,5,5,330.6,1653,No,0
+30-04-2024,South,Chennai,Fashion,Shoes,Returning,Net Banking,Delivered,Karan,1,1,4080.83,4080.83,No,0
+16-04-2024,North,Chandigarh,Sports,Bat,New,Cash,Delivered,Sneha,1,1,4182.73,4182.73,No,0
+17-11-2025,West,Mumbai,Groceries,Milk,Returning,Cash,Delivered,Sneha,1,1,347.49,347.49,Yes,269.76
+22-07-2024,West,Pune,Electronics,Tablet,New,Cash,Pending,Karan,9,9,1355.83,12202.47,No,0
+13-06-2024,West,Pune,Fashion,Shoes,New,Card,Shipped,Amit,6,6,2103.09,12618.54,No,0
+31-10-2024,North,Chandigarh,Electronics,Phone,New,Cash,Shipped,Rohit,6,6,490.3,2941.8,Yes,1642.59
+11-05-2025,North,Chandigarh,Electronics,Tablet,Returning,Cash,Delivered,Priya,5,5,718.15,3590.75,No,0
+23-09-2025,East,Kolkata,Electronics,Laptop,New,UPI,Delivered,Sneha,7,7,245.71,1719.97,Yes,1251.96
+09-07-2025,West,Mumbai,Groceries,Rice,New,Card,Delivered,Rohit,5,5,563.33,2816.65,No,0
+04-06-2024,North,Delhi,Fashion,Jeans,Returning,Net Banking,Delivered,Karan,1,1,2894.53,2894.53,Yes,904.25
+01-01-2025,West,Pune,Sports,Shoes,New,UPI,Shipped,Rohit,1,1,2684.73,2684.73,No,0
+19-12-2025,East,Kolkata,Fashion,Shoes,Returning,UPI,Pending,Sneha,9,9,2769.92,24929.28,No,0
+11-09-2025,North,Delhi,Home,Table,New,Net Banking,Delivered,Sneha,8,8,4228.07,33824.56,No,0
+07-09-2024,North,Delhi,Sports,Bat,New,Cash,Pending,Amit,6,6,620.04,3720.24,No,0
+29-11-2024,South,Chennai,Groceries,Rice,Returning,UPI,Pending,Amit,3,3,876.75,2630.25,No,0
+03-10-2025,West,Mumbai,Electronics,Phone,New,Card,Delivered,Karan,2,2,3232.99,6465.98,No,0
+25-05-2025,North,Chandigarh,Groceries,Milk,Returning,UPI,Shipped,Sneha,4,4,1930.35,7721.4,No,0
+19-10-2024,West,Mumbai,Fashion,Jeans,New,UPI,Pending,Sneha,4,4,1357.73,5430.92,No,0
+20-01-2024,South,Bangalore,Groceries,Oil,Returning,UPI,Pending,Sneha,2,2,3967.52,7935.04,Yes,7724.7
+08-10-2024,West,Pune,Electronics,Tablet,Returning,UPI,Shipped,Amit,1,1,1586.08,1586.08,No,0
+01-01-2024,South,Chennai,Electronics,Laptop,Returning,Net Banking,Shipped,Sneha,6,6,3375.67,20254.02,No,0
+28-04-2024,South,Chennai,Groceries,Milk,New,Card,Shipped,Priya,2,2,2269.41,4538.82,No,0
+04-02-2024,South,Chennai,Electronics,Tablet,Returning,Net Banking,Shipped,Sneha,6,6,1239.58,7437.48,No,0
+16-07-2024,North,Delhi,Fashion,Shoes,Returning,Cash,Shipped,Sneha,3,3,1049.57,3148.71,No,0
+29-04-2025,West,Pune,Fashion,Shirt,New,Cash,Shipped,Karan,9,9,1023.09,9207.81,Yes,2436.08
+28-02-2024,East,Bhubaneswar,Groceries,Milk,New,Net Banking,Pending,Karan,5,5,1246.88,6234.4,Yes,2586.03
+09-06-2024,West,Pune,Home,Table,New,Cash,Delivered,Karan,7,7,4806.79,33647.53,No,0
+21-11-2025,East,Bhubaneswar,Home,Table,Returning,Card,Shipped,Priya,4,4,2041.76,8167.04,No,0
+24-07-2024,East,Kolkata,Fashion,Shirt,Returning,UPI,Delivered,Priya,1,1,2611.62,2611.62,No,0
+12-01-2024,North,Delhi,Electronics,Tablet,New,Cash,Delivered,Amit,9,9,3135.88,28222.92,No,0
+04-05-2025,South,Chennai,Home,Lamp,Returning,UPI,Shipped,Amit,3,3,2827.74,8483.22,No,0
+02-10-2024,East,Kolkata,Electronics,Tablet,Returning,Card,Shipped,Priya,3,3,2531.85,7595.55,No,0
+23-11-2025,East,Kolkata,Home,Table,Returning,Cash,Shipped,Sneha,9,9,3826.28,34436.52,No,0
+29-08-2024,South,Chennai,Fashion,Jeans,New,UPI,Pending,Amit,6,6,3559.35,21356.1,No,0
+03-08-2024,South,Bangalore,Electronics,Tablet,Returning,Net Banking,Shipped,Priya,1,1,3308.38,3308.38,No,0
+07-09-2024,South,Chennai,Fashion,Shoes,New,Cash,Delivered,Sneha,2,2,2452.66,4905.32,No,0
+05-05-2024,West,Mumbai,Sports,Shoes,New,Cash,Delivered,Amit,9,9,2937.74,26439.66,No,0
+04-08-2024,South,Chennai,Groceries,Rice,Returning,Cash,Shipped,Priya,2,2,2643.9,5287.8,No,0
+01-11-2024,East,Kolkata,Electronics,Laptop,Returning,Net Banking,Shipped,Priya,9,9,1388.83,12499.47,No,0
+03-07-2024,West,Mumbai,Home,Chair,New,Net Banking,Pending,Priya,4,4,1329.84,5319.36,No,0
+08-02-2024,East,Kolkata,Home,Chair,Returning,UPI,Shipped,Priya,3,3,2211.82,6635.46,No,0
+10-08-2024,North,Chandigarh,Home,Chair,New,Cash,Pending,Karan,2,2,4222.56,8445.12,No,0
+02-07-2024,East,Kolkata,Sports,Shoes,New,Cash,Pending,Rohit,2,2,1694.55,3389.1,No,0
+09-05-2025,South,Chennai,Electronics,Laptop,Returning,UPI,Pending,Sneha,1,1,1808.15,1808.15,No,0
+02-03-2025,West,Pune,Electronics,Phone,Returning,Card,Shipped,Priya,5,5,401.88,2009.4,No,0
